@@ -1,0 +1,78 @@
+name: One-off stock patch 2026-09-09
+on:
+  push:
+    paths:
+      - '.github/workflows/oneoff-stock-patch-20260909.yml'
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Patch tracker
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('data/tracker.json')
+          d = json.loads(p.read_text(encoding='utf-8'))
+          d['updatedAt'] = '2026-09-09T15:57:40+09:00'
+          rows = {r.get('id'): r for r in d.get('stockRecords', [])}
+
+          # セリア: 9/9終値を確定更新
+          r = rows.get('stock-2782-2026-09-08')
+          if r:
+              current = 4790.0
+              prev = 4750.0
+              entry = float(r['entryPrice'])
+              amount = float(r.get('virtualAmount', 10000))
+              r.update({
+                  'currentPrice': current,
+                  'previousClose': prev,
+                  'priceUpdatedAt': '2026-09-09T15:30:00+09:00',
+                  'dailyChangePercent': round((current-prev)/prev*100, 2),
+                  'unrealizedProfit': round(amount*(current-entry)/entry, 2),
+                  'unrealizedReturnPercent': round((current-entry)/entry*100, 2),
+                  'targetDistancePercent': round((float(r['targetPrice'])-current)/current*100, 2),
+                  'stopDistancePercent': round((float(r['stopLoss'])-current)/current*100, 2),
+                  'dayHigh': 4790,
+                  'dayLow': 4675,
+                  'volume': 237200,
+                  'marketDataSource': 'Investing.com 2782 historical data 2026-09-09 close',
+                  'dailyReview': '9/9終値4790円、前日終値4750円から+40円（+0.84%）。仮想買値4750円から+0.84%、仮想1万円あたり約84円の含み益。終値は損切り4560円を上回り保有継続。高値4790円、安値4675円、出来高23.72万株。目標5200円まで約8.56%。'
+              })
+
+          # 萩原工業: 15:30終値の一次情報が取得時点で未反映のため、最新確認値15:03を暫定更新。
+          # 終値ベースの損切り判定は行わず、次回に確定値で上書きする。
+          r = rows.get('stock-7856-2026-09-08')
+          if r:
+              current = 1943.0
+              prev = 1998.0
+              entry = float(r['entryPrice'])
+              amount = float(r.get('virtualAmount', 10000))
+              r.update({
+                  'currentPrice': current,
+                  'previousClose': prev,
+                  'priceUpdatedAt': '2026-09-09T15:03:00+09:00',
+                  'dailyChangePercent': round((current-prev)/prev*100, 2),
+                  'unrealizedProfit': round(amount*(current-entry)/entry, 2),
+                  'unrealizedReturnPercent': round((current-entry)/entry*100, 2),
+                  'targetDistancePercent': round((float(r['targetPrice'])-current)/current*100, 2),
+                  'stopDistancePercent': round((float(r['stopLoss'])-current)/current*100, 2),
+                  'dayHigh': 2025,
+                  'dayLow': 1935,
+                  'marketDataSource': 'Yahoo!ファイナンス 7856.T chart 2026-09-09 15:03 (終値未反映のため暫定)',
+                  'marketDataStatus': 'provisional_close_unverified',
+                  'dailyReview': '9/9 15:03時点1943円、前日終値1998円から-55円（-2.75%）。仮想買値1998円から-2.75%、仮想1万円あたり約275円の含み損。日中安値1935円は損切り1940円を下回ったが、本運用は終値判定のため、取得時点で15:30終値が公開データに未反映だったことから決済は保留。次回、確定終値で判定・上書きする。'
+              })
+
+          p.write_text(json.dumps(d, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+          rm -f .github/workflows/oneoff-stock-patch-20260909.yml
+          git config user.name 'ChatGPT automation'
+          git config user.email 'chatgpt-automation@users.noreply.github.com'
+          git add data/tracker.json .github/workflows/oneoff-stock-patch-20260909.yml
+          git commit -m 'Update stock tracker for 2026-09-09'
+          git push
