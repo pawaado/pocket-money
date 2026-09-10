@@ -1,0 +1,65 @@
+name: Stock tracker update 2026-09-10
+on:
+  push:
+    paths:
+      - '.github/workflows/stock-update-20260910.yml'
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update tracker
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('data/tracker.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          stocks=d.get('stockRecords',[])
+          byid={r.get('id'):r for r in stocks}
+          s=byid.get('stock-2782-2026-09-08')
+          if s:
+              s.update({
+                'currentPrice':4815,'previousClose':4775,'priceUpdatedAt':'2026-09-10T15:30:00+09:00',
+                'dailyChangePercent':0.84,'dayHigh':4840,'dayLow':4730,'volume':247000,
+                'unrealizedProfit':136.84,'unrealizedReturnPercent':1.37,'targetDistancePercent':8.00,
+                'stopDistancePercent':-5.30,'marketDataSource':'Yahoo!ファイナンス 2782.T 2026-09-10 15:30',
+                'auditStatus':'pre_entry_locked_daily_close',
+                'dailyReview':'9/10終値4815円、前営業日終値4775円から+40円（+0.84%）。仮想買値4750円から+1.37%、仮想1万円あたり約137円の含み益。高値4840円、安値4730円、出来高24.7万株。終値は損切り4560円を上回り、目標5200円まで約8.00%のため保有継続。'
+              })
+          h=byid.get('stock-7856-2026-09-08')
+          if h:
+              h.update({
+                'currentPrice':1997,'previousClose':1948,'priceUpdatedAt':'2026-09-10T15:30:00+09:00',
+                'dailyChangePercent':2.52,'dayHigh':2016,'dayLow':1945,'volume':206500,
+                'unrealizedProfit':-5.01,'unrealizedReturnPercent':-0.05,'targetDistancePercent':7.66,
+                'stopDistancePercent':-2.85,'marketDataSource':'Yahoo!ファイナンス 7856.T 2026-09-10 15:30',
+                'marketDataStatus':'verified_close','auditStatus':'pre_entry_locked_daily_close',
+                'dailyReview':'9/9の確定終値は1948円で終値ベース損切り1940円を上回ったため決済なし。9/10終値1997円、前営業日終値1948円から+49円（+2.52%）。仮想買値1998円から-0.05%、仮想1万円あたり約5円の含み損。高値2016円、安値1945円、出来高20.65万株。目標2150円まで約7.66%、損切り1940円まで約-2.85%で保有継続。'
+              })
+          if 'stock-6966-2026-09-10' not in byid:
+              stocks.append({
+                'id':'stock-6966-2026-09-10','assetType':'stock','validationType':'A','retrospective':False,
+                'name':'三井ハイテック','code':'6966','entryDate':'2026-09-10','status':'保有中',
+                'entryPrice':940,'virtualAmount':10000,'targetPrice':1050,'stopLoss':895,'holdDays':10,
+                'analysisTime':'2026-09-10T16:01:08+09:00','currentPrice':940,'previousClose':899,
+                'priceUpdatedAt':'2026-09-10T15:30:00+09:00','dailyChangePercent':4.56,'dayHigh':1014,
+                'dayLow':905,'volume':20399300,'unrealizedProfit':0,'unrealizedReturnPercent':0,
+                'targetDistancePercent':11.70,'stopDistancePercent':-4.79,'riskReward':2.44,
+                'thesis':'9/9決算で27年1月期の通期経常利益予想を145億円から200億円へ37.9%上方修正。上期経常利益は前年同期比2.2倍、2Q単体も+65.1%。9/10は終値940円（+4.56%）、出来高2039.93万株と高流動性。ただし高値1014円から940円まで押し戻されており追い高値リスクを考慮。終値895円割れを損切り、目標1050円、最大10日程度の仮想スイング。',
+                'marketDataSource':'Yahoo!ファイナンス 6966.T 2026-09-10 15:30 / 株探 2026-09-09決算',
+                'auditStatus':'pre_entry_locked_daily_close'
+              })
+          d['stockRecords']=stocks
+          d['updatedAt']='2026-09-10T16:01:08+09:00'
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+      - name: Commit tracker
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add data/tracker.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Update stock tracker for 2026-09-10 close'
+          git push
