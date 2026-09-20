@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-09-20T19:40:00+09:00",
+  "updatedAt": "2026-09-20T19:50:00+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1258,6 +1258,66 @@
       "realizedProfit": -765.96,
       "realizedReturnPercent": -7.66,
       "auditStatus": "daily_close_stop_loss_executed"
+    },
+    {
+      "id": "stock-B-2929-2026-09-14",
+      "assetType": "stock",
+      "validationType": "B",
+      "retrospective": true,
+      "name": "ファーマフーズ",
+      "code": "2929",
+      "entryDate": "2026-09-14",
+      "status": "決済済",
+      "entryPrice": 691,
+      "virtualAmount": 10000,
+      "exitDate": "2026-09-18",
+      "exitPrice": 730,
+      "exitReason": "週末検証決済",
+      "realizedProfit": 564.4,
+      "realizedReturnPercent": 5.64,
+      "thesis": "B後付け検証。9/11本決算を受け9/14寄り付き時点で決算プラス・インパクト候補。9/14終値691円を仮想エントリー価格として、同週末9/18終値730円で検証決済。",
+      "source": "株探 2026-09-14決算プラス・インパクト / Yahoo!ファイナンス株価時系列",
+      "auditStatus": "retrospective_B_weekly_close"
+    },
+    {
+      "id": "stock-B-2353-2026-09-14",
+      "assetType": "stock",
+      "validationType": "B",
+      "retrospective": true,
+      "name": "日本駐車場開発",
+      "code": "2353",
+      "entryDate": "2026-09-14",
+      "status": "決済済",
+      "entryPrice": 271,
+      "virtualAmount": 10000,
+      "exitDate": "2026-09-18",
+      "exitPrice": 272,
+      "exitReason": "週末検証決済",
+      "realizedProfit": 36.9,
+      "realizedReturnPercent": 0.37,
+      "thesis": "B後付け検証。9/11本決算後、9/14に決算プラス・インパクト候補として抽出。9/14終値271円を仮想エントリー価格、9/18終値272円で検証決済。",
+      "source": "株探 2026-09-14決算プラス・インパクト / Yahoo!ファイナンス株価時系列",
+      "auditStatus": "retrospective_B_weekly_close"
+    },
+    {
+      "id": "stock-B-5131-2026-09-14",
+      "assetType": "stock",
+      "validationType": "B",
+      "retrospective": true,
+      "name": "リンカーズ",
+      "code": "5131",
+      "entryDate": "2026-09-14",
+      "status": "決済済",
+      "entryPrice": 163,
+      "virtualAmount": 10000,
+      "exitDate": "2026-09-18",
+      "exitPrice": 185,
+      "exitReason": "週末検証決済",
+      "realizedProfit": 1349.69,
+      "realizedReturnPercent": 13.5,
+      "thesis": "B後付け検証。9/11本決算およびSBIとの資本・業務提携が材料。9/14終値163円を仮想エントリー価格、9/18終値185円で検証決済。途中9/16高値293円まで上昇したが、後知恵による高値決済はせず週末終値で統一。",
+      "source": "株探/Yahoo!ファイナンス 今週の話題株・株価時系列",
+      "auditStatus": "retrospective_B_weekly_close"
     }
   ]
 }
