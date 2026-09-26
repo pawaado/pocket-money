@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-09-20T19:50:00+09:00",
+  "updatedAt": "2026-09-26T11:57:22+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1117,6 +1117,50 @@
       "analysisMemo": "B後付け検証。結果判明後の復元。事前公開AIの勝率予測14.9%・期待値201を採用。A成績には含めない。",
       "source": "uma5.com 2026-09-19 阪神11R事前AI / JRA確定出馬表・結果",
       "auditStatus": "retrospective_B_external_model"
+    },
+    {
+      "id": "keiba-A-2026-09-26-hanshin-6-11-briomente-win",
+      "assetType": "keiba",
+      "validationType": "A",
+      "retrospective": false,
+      "raceDate": "2026-09-26",
+      "track": "阪神",
+      "raceNo": 6,
+      "startTime": "12:55",
+      "betType": "単勝",
+      "selection": "11 ブリオメンテ",
+      "predProb": 0.21,
+      "evalOdds": 5.5,
+      "estimatedEVPercent": 115.5,
+      "evBand5Percent": "115-120%",
+      "minimumPurchaseOdds": 4.77,
+      "stake": 100,
+      "popularity": 2,
+      "decision": "仮想購入",
+      "analysisTime": "2026-09-26T11:57:22+09:00",
+      "oddsObservedAt": "2026-09-26T11:57:00+09:00",
+      "weather": "曇",
+      "trackCondition": "良",
+      "distanceCourse": "阪神ダ1800m",
+      "gate": "6枠11番",
+      "jockey": "武豊",
+      "weightCarriedKg": 58,
+      "bodyWeightInfo": "当日11:57時点の公開出馬表で当日馬体重の確定表示を確認できず。直近8/30札幌は570kg（+4kg）。",
+      "trainingInfo": "事前AI/専門紙情報で調教の良さが評価材料。独立した当日調教時計の完全な数値確認はできず、その不確実性を勝率に保守反映。",
+      "runningStyle": "先行型。直近8/30札幌1700mは2-2-2-2で2着、8/22札幌1700mも3-2-2-1で2着。先行争い激化想定は割引。",
+      "analysisMemo": "結果判明前のA事前記録。阪神6R 3歳以上1勝クラス、ダ1800m16頭、曇・良。公開出馬表上で取消・騎手変更なし。直近2走は札幌ダ1700mで連続2着（8/30は1:46.2で0.1秒差、8/22も1:46.2でクビ差）と安定。阪神ダ1800mでは過去に大敗もあるためコース替わりを割引。武豊58kg、先行型で展開は前が競り合う可能性。複数の事前予想で能力上位・調教良好評価を確認。一方、当日馬体重の確定値と独立した調教時計を分析時点で固定できなかったため勝率を21%に抑制。判断時単勝5.5倍・2番人気ならEV=21%×5.5=115.5%、最低購入オッズ4.77倍。",
+      "sources": [
+        "優馬JAPAN 2026-09-26 阪神6R 出馬表・11番ブリオメンテ単勝5.5倍2番人気・近走/脚質/騎手斤量",
+        "競馬ラボ 2026-09-26 阪神6R 単勝オッズ・曇/良",
+        "TRIPLE ARROW 2026-09-26 阪神6R 事前予想（能力値・調教評価、先行争い想定）",
+        "JBISサーチ 2026-09-26 阪神6R 出走情報"
+      ],
+      "resultStatus": "未確定",
+      "result": null,
+      "finalOdds": null,
+      "payoutPer100": null,
+      "virtualProfit": null,
+      "auditStatus": "pre_race_locked"
     }
   ],
   "stockRecords": [
