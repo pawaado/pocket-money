@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-09-26T11:57:22+09:00",
+  "updatedAt": "2026-09-27T10:02:23+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1155,12 +1155,15 @@
         "TRIPLE ARROW 2026-09-26 阪神6R 事前予想（能力値・調教評価、先行争い想定）",
         "JBISサーチ 2026-09-26 阪神6R 出走情報"
       ],
-      "resultStatus": "未確定",
-      "result": null,
+      "resultStatus": "不的中",
+      "result": "13番ミランドが1着。11番ブリオメンテは単勝不的中。",
       "finalOdds": null,
-      "payoutPer100": null,
-      "virtualProfit": null,
-      "auditStatus": "pre_race_locked"
+      "payoutPer100": 0,
+      "virtualProfit": -100,
+      "auditStatus": "pre_race_locked_result_added_final_odds_unverified",
+      "finalOddsStatus": "未確認",
+      "resultCheckedAt": "2026-09-27T10:02:23+09:00",
+      "resultSource": "スポーツナビ 2026-09-26 阪神6R 競走結果・払戻"
     }
   ],
   "stockRecords": [
