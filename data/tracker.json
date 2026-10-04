@@ -1421,5 +1421,21 @@
       "source": "株探/Yahoo!ファイナンス 今週の話題株・株価時系列",
       "auditStatus": "retrospective_B_weekly_close"
     }
-  ]
+  ],
+  "monitoring": {
+    "stock": {
+      "lastSuccessfulWriteAt": "2026-09-29T16:03:03+09:00",
+      "lastSuccessfulWriteCommit": "da1b587a0f0c4338781bf1ff848c4dc8f21895c8",
+      "status": "baseline",
+      "note": "監視が正常に実行され候補なしの場合も、今後はheartbeatを更新して保存する。"
+    },
+    "keiba": {
+      "lastSuccessfulWriteAt": "2026-09-29T17:59:04+09:00",
+      "lastSuccessfulWriteCommit": "ed4d82c9f993d9f4417fde7f856bec4c45f6a1e2",
+      "status": "baseline",
+      "note": "監視が正常に実行され購入候補なしの場合も、今後はheartbeatを更新して保存する。"
+    },
+    "schemaVersion": 1,
+    "policy": "各監視は候補0件でも正常完了時にheartbeatを書き込み、週次まとめはheartbeatで実行・保存成功を判定する。"
+  }
 }
