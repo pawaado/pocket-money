@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-09-29T17:58:37+09:00",
+  "updatedAt": "2026-10-05T16:06:16+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1420,14 +1420,47 @@
       "thesis": "B後付け検証。9/11本決算およびSBIとの資本・業務提携が材料。9/14終値163円を仮想エントリー価格、9/18終値185円で検証決済。途中9/16高値293円まで上昇したが、後知恵による高値決済はせず週末終値で統一。",
       "source": "株探/Yahoo!ファイナンス 今週の話題株・株価時系列",
       "auditStatus": "retrospective_B_weekly_close"
+    },
+    {
+      "id": "stock-6652-2026-10-05",
+      "assetType": "stock",
+      "validationType": "A",
+      "retrospective": false,
+      "name": "IDEC",
+      "code": "6652",
+      "entryDate": "2026-10-05",
+      "status": "保有中",
+      "entryPrice": 4060,
+      "virtualAmount": 10000,
+      "targetPrice": 4500,
+      "stopLoss": 3810,
+      "holdDays": 10,
+      "analysisTime": "2026-10-05T16:06:16+09:00",
+      "currentPrice": 4060,
+      "previousClose": 3820,
+      "priceUpdatedAt": "2026-10-05T15:30:00+09:00",
+      "dailyChangePercent": 6.28,
+      "unrealizedProfit": 0,
+      "unrealizedReturnPercent": 0,
+      "targetDistancePercent": 10.84,
+      "stopDistancePercent": 6.16,
+      "riskReward": 1.76,
+      "thesis": "10/2発表の27年3月期業績予想上方修正を材料視。営業利益予想は72億円から94億円へ引き上げ、半導体・ロボット・工作機械関連需要が日本・中国中心に堅調。10/5終値4060円（前日比+6.28%）で年初来高値圏まで上昇し、電気機器セクターも当日の上昇率トップ。急騰翌日の反落リスクを考慮し、上方修正発表前終値3820円近辺を割る3810円を終値ベース損切り、目標4500円、最大10日程度の仮想スイング。",
+      "marketDataSource": "Yahoo!ファイナンス 6652.T 2026-10-05 15:30 / 株探・会社四季報オンライン 2026-10-05",
+      "marketDataStatus": "verified_close",
+      "dailyReview": "10/5終値4060円、前営業日3820円から+240円（+6.28%）。業績上方修正と電気機器セクターの強さを評価して終値で仮想エントリー。実際のお金は使用しない。",
+      "auditStatus": "pre_entry_fixed_before_future_result"
     }
   ],
   "monitoring": {
     "stock": {
-      "lastSuccessfulWriteAt": "2026-09-29T16:03:03+09:00",
+      "lastSuccessfulWriteAt": "2026-10-05T16:06:16+09:00",
       "lastSuccessfulWriteCommit": "da1b587a0f0c4338781bf1ff848c4dc8f21895c8",
-      "status": "baseline",
-      "note": "監視が正常に実行され候補なしの場合も、今後はheartbeatを更新して保存する。"
+      "status": "ok",
+      "note": "2026-10-05終値後に広めにスクリーニング。IDECをAとして1件追加。既存記録を保持して保存。",
+      "lastRunAt": "2026-10-05T16:06:16+09:00",
+      "candidateCount": 1,
+      "openPositionCount": 1
     },
     "keiba": {
       "lastSuccessfulWriteAt": "2026-09-29T17:59:04+09:00",
