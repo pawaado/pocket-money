@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-05T16:06:16+09:00",
+  "updatedAt": "2026-10-05T19:03:52+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1463,10 +1463,13 @@
       "openPositionCount": 1
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-09-29T17:59:04+09:00",
+      "lastSuccessfulWriteAt": "2026-10-05T19:03:52+09:00",
       "lastSuccessfulWriteCommit": "ed4d82c9f993d9f4417fde7f856bec4c45f6a1e2",
-      "status": "baseline",
-      "note": "監視が正常に実行され購入候補なしの場合も、今後はheartbeatを更新して保存する。"
+      "status": "ok",
+      "note": "2026-10-05 19:03 JST monitoring completed; no record changes; existing data retained.",
+      "lastRunAt": "2026-10-05T19:03:52+09:00",
+      "candidateCount": 0,
+      "resultUpdateCount": 0
     },
     "schemaVersion": 1,
     "policy": "各監視は候補0件でも正常完了時にheartbeatを書き込み、週次まとめはheartbeatで実行・保存成功を判定する。"
