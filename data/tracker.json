@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-06T10:57:15+09:00",
+  "updatedAt": "2026-10-06T18:57:07+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1502,8 +1502,8 @@
       "lastSuccessfulWriteAt": "2026-10-05T19:03:52+09:00",
       "lastSuccessfulWriteCommit": "ed4d82c9f993d9f4417fde7f856bec4c45f6a1e2",
       "status": "ok",
-      "note": "2026-10-06 10:57 JST monitoring completed. Today is a non-JRA Tuesday; local racing is scheduled at Kasamatsu, Morioka, Kanazawa, Oi and Monbetsu. At this early run, sufficiently complete latest odds/body-weight/track-condition information for a compliant EV>=100% A-entry was not yet available; no new entry. Existing keiba and stock records retained.",
-      "lastRunAt": "2026-10-06T10:57:15+09:00",
+      "note": "2026-10-06 18:57 JST monitoring completed. Existing overdue unresolved A/B records checked first; none required result updates. JRA is not開催 today. Local racing is 盛岡・大井・金沢・笠松・門別. Remaining races were reviewed with current public race/track information, but sufficiently complete fresh odds plus all required inputs for a defensible EV>=100% A-entry were not available at this run, so no new A record was fixed. Existing keiba and stock records retained.",
+      "lastRunAt": "2026-10-06T18:57:07+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0
     },
