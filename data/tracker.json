@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-08T06:59:37.228Z",
+  "updatedAt": "2026-10-08T07:00:47.562Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1500,11 +1500,11 @@
       "note": "10/8終値更新済。市場全体の下落と候補の条件不足により新規Aは見送り。"
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-07T17:00:01+09:00",
+      "lastSuccessfulWriteAt": "2026-10-08T07:00:47.562Z",
       "lastSuccessfulWriteCommit": "ed4d82c9f993d9f4417fde7f856bec4c45f6a1e2",
       "status": "ok",
-      "note": "2026-10-08 10:04 JST: no JRA meeting; local meetings Oi, Kasamatsu, Sonoda, Monbetsu. No unresolved past records. Pre-race odds and complete required inputs unavailable, so no new A/B records.",
-      "lastRunAt": "2026-10-08T10:04:44+09:00",
+      "note": "2026-10-08 16:00 JST: No JRA meeting; 大井・笠松・園田・門別開催。既存未確定0件。直前オッズの観測時刻・当日馬体重・調教情報を十分検証できず、新規A/B 0件。結果後のA追加なし。",
+      "lastRunAt": "2026-10-08T07:00:47.562Z",
       "candidateCount": 0,
       "resultUpdateCount": 0
     },
