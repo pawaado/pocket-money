@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-09T11:00:20.920Z",
+  "updatedAt": "2026-10-09T11:00:23.810Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1500,8 +1500,8 @@
       "note": "10/9終値2銘柄更新。ローツェ、C&R、吉野家、カプコン等を検討したが、決算ギャップ・相場不安定・リスクリワード不足で新規0件。"
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-09T05:00:10.496Z",
-      "lastSuccessfulWriteCommit": "cf40d701afecaf4b4a0608418b6fe8f5fcf21e10",
+      "lastSuccessfulWriteAt": "2026-10-09T11:00:23.810Z",
+      "lastSuccessfulWriteCommit": "a23c392e2cc6ef267158cdce6aec4defb47bd715",
       "status": "ok",
       "note": "2026-10-09 20:00 JST: 発走済み未確定記録0件。JRA本日開催なし、地方は笠松・園田・大井。大井9R(20:10)、10R(20:50)の出馬表・近走・騎手・斤量・天候晴/馬場良を確認。直近単勝オッズの時刻付き実数値と当日馬体重・調教の独立検証が揃わず、信頼可能なEV100%以上のA固定なし。B新規なし。既存競馬28件・株9件は全保持。",
       "lastRunAt": "2026-10-09T11:00:20.920Z",
