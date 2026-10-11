@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-11T05:02:46.000Z",
+  "updatedAt": "2026-10-11T05:57:04.000Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1500,21 +1500,20 @@
       "note": "10/9終値2銘柄更新。ローツェ、C&R、吉野家、カプコン等を検討したが、決算ギャップ・相場不安定・リスクリワード不足で新規0件。"
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-11T05:02:46.000Z",
+      "lastSuccessfulWriteAt": "2026-10-11T05:57:04.000Z",
       "lastSuccessfulWriteCommit": "a23c392e2cc6ef267158cdce6aec4defb47bd715",
       "status": "ok",
-      "note": "2026-10-11 14時台 JST: 発走済み未確定記録0件。JRA東京・京都、地方帯広・盛岡・金沢・高知・佐賀の開催を確認。出馬表・一部馬場・中間オッズを確認したが、全必要項目と14時時点の直近オッズを照合したうえで勝率を信頼して固定できるEV100%以上候補は0件。結果後Aの追加なし。競馬・株記録は全件保持。",
-      "lastRunAt": "2026-10-11T05:02:46.000Z",
+      "note": "2026-10-11 14:57 JST: 既存の競馬28件・株9件を維持。発走済み未確定0件。JRA東京・京都と地方帯広・盛岡・金沢・高知・佐賀の開催、東京11R・京都11Rの出馬表・一部オッズ・天候馬場、高知5Rの4番ブルジョア取消を確認。直近時刻が明確なオッズ・当日馬体重・調教・勝率推定根拠を十分照合できないためEV100%以上の事前A固定0件。後付けAなし。",
+      "lastRunAt": "2026-10-11T05:57:04.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://www.keibalab.jp/db/race/",
-        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2608040411",
-        "https://tospo-keiba.jp/race/202605040411/win-odds",
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://uma-x.jp/nar",
-        "https://www.iwatekeiba.or.jp/"
+        "https://www.keibalab.jp/db/race/202610110511/umabashira.html",
+        "https://race.netkeiba.com/race/shutuba.html?race_id=202608040411",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=31&k_raceDate=2026%2F10%2F11",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=10&k_raceDate=2026%2F10%2F11",
+        "https://keiba.rakuten.co.jp/race_card/list/"
       ]
     },
     "schemaVersion": 1,
