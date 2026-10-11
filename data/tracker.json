@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-11T04:00:17.521Z",
+  "updatedAt": "2026-10-11T05:02:46.000Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1500,18 +1500,21 @@
       "note": "10/9終値2銘柄更新。ローツェ、C&R、吉野家、カプコン等を検討したが、決算ギャップ・相場不安定・リスクリワード不足で新規0件。"
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-11T04:00:17.521Z",
+      "lastSuccessfulWriteAt": "2026-10-11T05:02:46.000Z",
       "lastSuccessfulWriteCommit": "a23c392e2cc6ef267158cdce6aec4defb47bd715",
       "status": "ok",
-      "note": "2026-10-11 13時台 JST: 既存未確定0件。東京・京都・帯広・盛岡・金沢・高知・佐賀を確認。事前検証情報が十分でないため新規候補0件。既存記録全件保持。",
-      "lastRunAt": "2026-10-11T04:00:17.521Z",
+      "note": "2026-10-11 14時台 JST: 発走済み未確定記録0件。JRA東京・京都、地方帯広・盛岡・金沢・高知・佐賀の開催を確認。出馬表・一部馬場・中間オッズを確認したが、全必要項目と14時時点の直近オッズを照合したうえで勝率を信頼して固定できるEV100%以上候補は0件。結果後Aの追加なし。競馬・株記録は全件保持。",
+      "lastRunAt": "2026-10-11T05:02:46.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://jra.jp/keiba/calendar2026/2026/10/1011.html",
-        "https://www.jbis.or.jp/race/20261011/108/01/",
-        "https://keiba.rakuten.co.jp/race_status/list/",
-        "https://uma-x.jp/nar"
+        "https://www.jra.go.jp/",
+        "https://www.keibalab.jp/db/race/",
+        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2608040411",
+        "https://tospo-keiba.jp/race/202605040411/win-odds",
+        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://uma-x.jp/nar",
+        "https://www.iwatekeiba.or.jp/"
       ]
     },
     "schemaVersion": 1,
