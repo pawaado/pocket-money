@@ -1500,18 +1500,20 @@
       "note": "10/9終値2銘柄更新。ローツェ、C&R、吉野家、カプコン等を検討したが、決算ギャップ・相場不安定・リスクリワード不足で新規0件。"
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-12T00:57:50.076Z",
+      "lastSuccessfulWriteAt": "2026-10-12T03:04:35.491Z",
       "lastSuccessfulWriteCommit": "a23c392e2cc6ef267158cdce6aec4defb47bd715",
       "status": "ok",
-      "note": "2026-10-12 08:58 JST: JRA東京・京都、地方帯広・盛岡・川崎・佐賀を確認。未確定0件。直前オッズ・馬体重・調教等を十分に確認できたEV100%以上の候補は0件。既存競馬28件・株9件を保持。",
-      "lastRunAt": "2026-10-12T00:57:50.076Z",
+      "note": "2026-10-12 12時台 JST: 既存記録の未確定0件を確認。JRA東京・京都、地方盛岡・川崎・佐賀の出走情報を確認。公開オッズの取得時刻・取消/馬体重/調教等を横断的に十分検証できず、新規AのEV100%以上を固定せず（0件）。Bも追加なし。競馬28件・株9件を全件維持。",
+      "lastRunAt": "2026-10-12T03:04:35.491Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610113100000009",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610113100000000",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610113200000000",
-        "https://www.sagakeiba.net/raceinfo/start/"
+        "https://www.jbis.or.jp/race/20261012/105/12/",
+        "https://www.jbis.or.jp/race/20261012/108/12/",
+        "https://www.keibalab.jp/db/race/20261012/",
+        "https://horse-ticket-school.com/races/456",
+        "https://www.kawasaki-keiba.jp/",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610123230110307/mode/1"
       ]
     },
     "schemaVersion": 1,
