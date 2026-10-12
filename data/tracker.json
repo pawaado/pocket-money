@@ -1500,11 +1500,11 @@
       "note": "10/9終値2銘柄更新。ローツェ、C&R、吉野家、カプコン等を検討したが、決算ギャップ・相場不安定・リスクリワード不足で新規0件。"
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-11T23:58:25.706Z",
+      "lastSuccessfulWriteAt": "2026-10-12T00:57:50.076Z",
       "lastSuccessfulWriteCommit": "a23c392e2cc6ef267158cdce6aec4defb47bd715",
       "status": "ok",
       "note": "2026-10-12 08:58 JST: JRA東京・京都、地方帯広・盛岡・川崎・佐賀を確認。未確定0件。直前オッズ・馬体重・調教等を十分に確認できたEV100%以上の候補は0件。既存競馬28件・株9件を保持。",
-      "lastRunAt": "2026-10-11T23:58:25.706Z",
+      "lastRunAt": "2026-10-12T00:57:50.076Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
