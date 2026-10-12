@@ -1500,11 +1500,11 @@
       "note": "10/9終値2銘柄更新。ローツェ、C&R、吉野家、カプコン等を検討したが、決算ギャップ・相場不安定・リスクリワード不足で新規0件。"
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-12T16:07:53+09:00",
+      "lastSuccessfulWriteAt": "2026-10-12T18:56:02+09:00",
       "lastSuccessfulWriteCommit": "a23c392e2cc6ef267158cdce6aec4defb47bd715",
       "status": "ok",
       "note": "2026-10-12 16:07 JST: tracker.json既存競馬28件・株9件を全件保持して照合。発走済み未確定0件。JRA東京・京都、地方盛岡・川崎・佐賀の開催と当日出馬表を確認。南部杯の単勝公開値は13:40時点など最新性に制約があり、直近オッズと馬体重・調教・取消変更を全て照合して根拠あるEV100%以上と確定できるAは0件。B追加0件。仮想購入のみ。",
-      "lastRunAt": "2026-10-12T16:07:53+09:00",
+      "lastRunAt": "2026-10-12T18:56:02+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
