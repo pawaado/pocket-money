@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-12T06:08:33.000Z",
+  "updatedAt": "2026-10-12T16:07:53+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1500,19 +1500,19 @@
       "note": "10/9終値2銘柄更新。ローツェ、C&R、吉野家、カプコン等を検討したが、決算ギャップ・相場不安定・リスクリワード不足で新規0件。"
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-12T06:08:33.000Z",
+      "lastSuccessfulWriteAt": "2026-10-12T16:07:53+09:00",
       "lastSuccessfulWriteCommit": "a23c392e2cc6ef267158cdce6aec4defb47bd715",
       "status": "ok",
-      "note": "2026-10-12 15:08 JST: 既存の競馬28件・株9件を照合、未確定0件。JRA東京・京都、地方盛岡・川崎・佐賀の当日開催・出馬表・馬場/オッズ掲載状況を確認。判断時刻の確証がある直近オッズと馬体重・調教・取消変更を全候補で照合できず、EV100%以上を信頼して事前固定できるAは0件。B追加0件。既存記録は全件維持。",
-      "lastRunAt": "2026-10-12T06:08:33.000Z",
+      "note": "2026-10-12 16:07 JST: tracker.json既存競馬28件・株9件を全件保持して照合。発走済み未確定0件。JRA東京・京都、地方盛岡・川崎・佐賀の開催と当日出馬表を確認。南部杯の単勝公開値は13:40時点など最新性に制約があり、直近オッズと馬体重・調教・取消変更を全て照合して根拠あるEV100%以上と確定できるAは0件。B追加0件。仮想購入のみ。",
+      "lastRunAt": "2026-10-12T16:07:53+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
+        "https://www.jra.go.jp/",
         "https://uma-x.jp/nar",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610122135080100/mode/1",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610121000000012",
-        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2608040511",
-        "https://www.nankankeiba.com/program/20261012210801.do"
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=10&k_raceDate=2026%2F10%2F12&k_raceNo=12&odds_flg=4",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610122135080111/mode/1",
+        "https://www.jbis.or.jp/race/20261012/232/05/"
       ]
     },
     "schemaVersion": 1,
