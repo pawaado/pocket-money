@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-14T10:04:12+09:00",
+  "updatedAt": "2026-10-14T13:01:36+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1505,18 +1505,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-14T10:04:12+09:00",
+      "lastSuccessfulWriteAt": "2026-10-14T13:01:36+09:00",
       "status": "ok",
-      "note": "2026-10-14 10時台JST。既存競馬28件・株9件保持、発走済み未確定0件、結果更新0件。水曜JRA開催なし。地方開催は園田(10:40〜)、名古屋(12:25〜)、門別(14:20〜)、川崎(14:45〜)。園田1Rの09:32公開オッズ画面は発売前・単勝0.0で有効な判断時オッズを固定できず、他場も初回発走前。EV100%以上の根拠を確認できたA新規0件、B新規0件。結果を見てからA登録せず。実購入なし。後続監視で直近オッズを再確認。",
-      "lastRunAt": "2026-10-14T10:04:12+09:00",
+      "note": "2026-10-14 13時台JST。既存競馬28件（確定28・未確定0）と株9件を保持。JRA開催なし。地方4場（園田・名古屋・門別・川崎）を確認。園田6R 12:46時点、園田7R 12:32時点、名古屋3R 12:35時点の単勝オッズ・天候・馬場・騎手・斤量・馬体重表示を参照したが、近走/展開/調教等を含む十分な根拠でEV100%以上と判定できる候補なし。A新規0、B新規0、結果更新0。結果を見てからA登録せず。実購入なし。",
+      "lastRunAt": "2026-10-14T13:01:36+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://jra.jp/",
         "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610142726160100",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610142726160101",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_DebaTable?k_babaCode=27&k_raceDate=2026%2F10%2F14&k_raceNo=1",
-        "https://prc.jp/jraracingviewer/contents/seiseki/"
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610142726160106",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610142726160107",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610142433140203",
+        "https://uma-x.jp/nar"
       ]
     },
     "schemaVersion": 1,
