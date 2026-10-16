@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-16T19:02:41+09:00",
+  "updatedAt": "2026-10-16T20:02:45+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1512,18 +1512,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-16T19:02:41+09:00",
+      "lastSuccessfulWriteAt": "2026-10-16T20:02:45+09:00",
       "status": "ok",
-      "note": "2026-10-16 19:02 JST: Read complete tracker (28 horse-racing records, 9 stock records). All existing horse-racing records have resolved resultStatus; no overdue unresolved entries. Friday has no JRA racing; local meetings 川崎・名古屋・園田. At this time 川崎10R (19:40), 11R (20:15), 12R (20:50), 園田10R (19:30), 11R (20:05), 12R (20:40) remain. Checked race schedules, Kawasaki track 晴/良, 10R card/form and publicly displayed odds. Odds snapshot freshness, verified changes, live body weights and training data were not sufficiently corroborated for a defensible independent EV>=100% A entry. Thus A new entries 0, B new entries 0, result updates 0. No after-result A backfill. Preserve all existing keiba/stock records; virtual-only.",
-      "lastRunAt": "2026-10-16T19:02:41+09:00",
+      "note": "2026-10-16 20:02 JST: Existing tracker reviewed first (28 keiba / 9 stock); no overdue pending/未確定 horse-racing records. JRA not scheduled Friday. NAR confirmed Kawasaki, Nagoya, Sonoda; remaining races Kawasaki 11R 20:15 and 12R 20:50, Sonoda 11R 20:05 and 12R 20:40. Verified official race cards and odds snapshots: Kawasaki 12R 19:31, Sonoda 12R 19:42; track Kawasaki 晴/良, Sonoda 曇/良; Sonoda 9R #11 scratched (unrelated). Insufficient independent probability/fitness and sufficiently fresh odds validation to responsibly fix EV>=100% A before off; no new A or B records and no result updates. Never retroactively create A; virtual-only. Full existing records retained.",
+      "lastRunAt": "2026-10-16T20:02:45+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://uma-x.jp/nar",
-        "https://www.nankankeiba.com/jyusyosiki/00000000000000000000.do",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610162100000010",
-        "https://nar.netkeiba.com/odds/index.html?race_id=202645101610&type=b0",
-        "https://sports.yahoo.co.jp/keiba_local/race/denma/20261016210510"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=21&k_raceDate=2026/10/16",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=27&k_raceDate=2026/10/16",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=21&k_raceDate=2026/10/16&k_raceNo=12",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=27&k_raceDate=2026/10/16&k_raceNo=12",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=27&k_raceDate=2026/10/16&k_raceNo=12"
       ]
     },
     "schemaVersion": 1,
