@@ -1515,7 +1515,7 @@
       "lastSuccessfulWriteAt": "2026-10-16T13:59:16+09:00",
       "status": "ok",
       "note": "2026-10-16 13:59 JST: Verified all existing 28 horse-racing records are resolved (25 不的中, 2 的中, 1 除外返還), and preserved 9 stock records. Friday: no JRA meeting; local racing at 名古屋・園田・川崎. Reviewed current 10/16 racecards, horse form, weights/jockeys and 13:34 JST Nagoya 9R win odds (楽天競馬). Live declared body weights were still blank on examined pre-race cards and sufficiently corroborated latest odds, scratches and training information were not all available; therefore no defensible EV>=100% A pre-race fixed entries. No B additions, no results updates. Do not backfill A from post-race results. Virtual stakes only.",
-      "lastRunAt": "2026-10-16T13:59:16+09:00",
+      "lastRunAt": "2026-10-16T16:04:02+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
