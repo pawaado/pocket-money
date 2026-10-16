@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-16T13:04:09+09:00",
+  "updatedAt": "2026-10-16T13:59:16+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1512,17 +1512,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-16T13:04:09+09:00",
+      "lastSuccessfulWriteAt": "2026-10-16T13:59:16+09:00",
       "status": "ok",
-      "note": "2026-10-16 13:04 JST: Prioritized existing tracker: 28 keiba records and 9 stock records, no pending/未確定 records. Friday has no JRA racing; local meetings are 園田, 名古屋, 川崎. Reviewed today's pre-race cards and prior form, but live independently time-stamped odds, final scratches/changes, body weights and training data were not sufficiently corroborated for a defensible A EV>=100% pre-race lock. A=0, B=0, results updated=0. No retrospective A entries and no real stakes; retain all records. Retry at next scheduled run.",
-      "lastRunAt": "2026-10-16T13:04:09+09:00",
+      "note": "2026-10-16 13:59 JST: Verified all existing 28 horse-racing records are resolved (25 不的中, 2 的中, 1 除外返還), and preserved 9 stock records. Friday: no JRA meeting; local racing at 名古屋・園田・川崎. Reviewed current 10/16 racecards, horse form, weights/jockeys and 13:34 JST Nagoya 9R win odds (楽天競馬). Live declared body weights were still blank on examined pre-race cards and sufficiently corroborated latest odds, scratches and training information were not all available; therefore no defensible EV>=100% A pre-race fixed entries. No B additions, no results updates. Do not backfill A from post-race results. Virtual stakes only.",
+      "lastRunAt": "2026-10-16T13:59:16+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jbis.or.jp/race/20261016/227/08/",
-        "https://uma-x.jp/nar_course/24",
-        "https://uma-x.jp/nar_result/z242026101607",
-        "https://sports.yahoo.co.jp/keiba_local/race/denma/20261016240409"
+        "https://uma-x.jp/nar",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610162433140409",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610162433140409",
+        "https://www.nankankeiba.com/program/20261016210805.do",
+        "https://www.jbis.or.jp/race/20261016/227/08/"
       ]
     },
     "schemaVersion": 1,
