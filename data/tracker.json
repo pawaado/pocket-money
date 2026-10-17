@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-16T20:02:45+09:00",
+  "updatedAt": "2026-10-17T13:04:14+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1512,10 +1512,10 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-17T09:59:18+09:00",
+      "lastSuccessfulWriteAt": "2026-10-17T13:04:14+09:00",
       "status": "ok",
-      "note": "2026-10-17 09:59 JST: Checked existing tracker first: 28 keiba / 9 stock records, no overdue pending/未確定. Saturday JRA Tokyo, Kyoto, Niigata; NAR Obihiro, Kochi, Saga. Verified 2026-10-17 JRA Fuji Stakes race card, weather/track and pre-race odds snapshots (latest explicitly dated source 06:50 JST); reviewed training/form and NAR Saga race card. Available snapshots were not sufficiently current/complete (race-day body weights and full changes/odds validation) for reliable EV>=100% A entry. No new A/B entry; no result updates; never backfill A. All existing keiba/stock records preserved, virtual only.",
-      "lastRunAt": "2026-10-17T09:59:18+09:00",
+      "note": "2026-10-17 13時台: 未確定0件。JRA東京・京都・新潟と地方佐賀・高知・帯広を確認。直近オッズと馬体重等の情報が十分でないため新規A0件・結果更新0件。Aの後付け禁止。競馬28件、株9件保持。",
+      "lastRunAt": "2026-10-17T13:04:14+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
