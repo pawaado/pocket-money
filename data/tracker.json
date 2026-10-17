@@ -1512,18 +1512,20 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-16T20:02:45+09:00",
+      "lastSuccessfulWriteAt": "2026-10-17T09:59:18+09:00",
       "status": "ok",
-      "note": "2026-10-16 20:02 JST: Existing tracker reviewed first (28 keiba / 9 stock); no overdue pending/未確定 horse-racing records. JRA not scheduled Friday. NAR confirmed Kawasaki, Nagoya, Sonoda; remaining races Kawasaki 11R 20:15 and 12R 20:50, Sonoda 11R 20:05 and 12R 20:40. Verified official race cards and odds snapshots: Kawasaki 12R 19:31, Sonoda 12R 19:42; track Kawasaki 晴/良, Sonoda 曇/良; Sonoda 9R #11 scratched (unrelated). Insufficient independent probability/fitness and sufficiently fresh odds validation to responsibly fix EV>=100% A before off; no new A or B records and no result updates. Never retroactively create A; virtual-only. Full existing records retained.",
-      "lastRunAt": "2026-10-16T20:02:45+09:00",
+      "note": "2026-10-17 09:59 JST: Checked existing tracker first: 28 keiba / 9 stock records, no overdue pending/未確定. Saturday JRA Tokyo, Kyoto, Niigata; NAR Obihiro, Kochi, Saga. Verified 2026-10-17 JRA Fuji Stakes race card, weather/track and pre-race odds snapshots (latest explicitly dated source 06:50 JST); reviewed training/form and NAR Saga race card. Available snapshots were not sufficiently current/complete (race-day body weights and full changes/odds validation) for reliable EV>=100% A entry. No new A/B entry; no result updates; never backfill A. All existing keiba/stock records preserved, virtual only.",
+      "lastRunAt": "2026-10-17T09:59:18+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=21&k_raceDate=2026/10/16",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=27&k_raceDate=2026/10/16",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=21&k_raceDate=2026/10/16&k_raceNo=12",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=27&k_raceDate=2026/10/16&k_raceNo=12",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=27&k_raceDate=2026/10/16&k_raceNo=12"
+        "https://www.jra.go.jp/",
+        "https://www.keibalab.jp/db/race/202610170511/syutsuba.html",
+        "https://pc.keibalab.jp/db/race/202610170511/odds.html",
+        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2605040611",
+        "https://tospo-keiba.jp/forecast/76601",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=32&k_raceDate=2026%2F10%2F17&k_raceNo=10",
+        "https://racenavi.sanspo.com/races/nar/20261017/32"
       ]
     },
     "schemaVersion": 1,
