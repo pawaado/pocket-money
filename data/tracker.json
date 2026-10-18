@@ -1512,20 +1512,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-18T11:04:53+09:00",
+      "lastSuccessfulWriteAt": "2026-10-18T12:03:00+09:00",
       "status": "ok",
-      "note": "2026-10-18 11:04 JST: 既存競馬28件・株9件を維持。発走済み未確定0件。東京・京都・新潟のJRA、盛岡・金沢・高知・佐賀の地方開催を確認。東京10R西湖特別、京都11R秋華賞の出走・近走・馬場・オッズを照合。馬体重確定値・独立調教情報・オッズの厳密な取得時刻などが揃わず、十分な根拠でEV100%以上と判定できないため新規A0件。B0件。後付けA登録なし。",
-      "lastRunAt": "2026-10-18T11:04:53+09:00",
+      "note": "2026-10-18 12:03 JST: 既存競馬28件・株9件を保持。発走済み未確定0件。JRA新潟・東京・京都、地方帯広・盛岡・金沢・高知・佐賀の開催情報を確認。京都11R秋華賞等の出走表・オッズ・近走を照合したが、最新オッズの厳密な取得時刻、確定馬体重、独立した調教情報、馬場状態など必要な全項目を確認できず、EV100%以上を信頼性高く固定できるA候補0件。B追加0件。後付けA登録なし。",
+      "lastRunAt": "2026-10-18T12:03:00+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keibalab.jp/db/race/",
-        "https://www.jbis.or.jp/race/20261018/105/10/",
-        "https://www.keiba.jp/db/race/202610180510/umabashira.html",
-        "https://sports.yahoo.co.jp/keiba/race/achievement/course/2605040710",
+        "https://jra.jp/keiba/g1/shuka.html",
         "https://www.keiba.jp/db/race/202610180811/index.html",
-        "https://www.horse-ticket-school.com/races/1154",
-        "https://www.horse-ticket-school.com/races/1145"
+        "https://www.jbis.or.jp/race/20261018/210/05/",
+        "https://sports.yahoo.co.jp/keiba_local/race/denma/20261018320507",
+        "https://uma5.com/race/20261018/0811/"
       ]
     },
     "schemaVersion": 1,
