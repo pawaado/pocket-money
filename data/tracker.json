@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-18T15:58:38+09:00",
+  "updatedAt": "2026-10-18T10:59:50.767Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1512,19 +1512,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-18T10:58:42.827Z",
+      "lastSuccessfulWriteAt": "2026-10-18T10:59:50.767Z",
       "status": "ok",
-      "note": "2026-10-18 15:58 JST。既存の競馬28件・株9件を全件保持。発走済みの未確定/pending記録0件。JRA新潟・東京・京都および地方盛岡・金沢・高知・佐賀の開催と残レースを確認。佐賀5R佐賀オータムスプリント(17:25、重)の15:54単勝オッズ、盛岡12Rネクストスター盛岡(18:15、晴・良)の15:44単勝オッズ・枠順・騎手・斤量・近走等を確認。盛岡は7リケアサンバ1.4倍、9セイカールトン9.2倍、10ゼノグレイス15.3倍、11マツリダゲンキマン17.8倍。佐賀は11ロードミッドナイト3.4倍、7ヘルシャフト5.6倍、6トルーマンテソーロ6.7倍。直前の馬体重・調教・取消変更と確率推定の十分な独立検証が揃わず、推定EV100%以上を高信頼で確定できるA候補は0件。B追加0件。事後A登録なし。 / 接続確認のため既存記録を保持したままheartbeat更新。新規予想・結果検証は未実施。",
-      "lastRunAt": "2026-10-18T10:58:42.827Z",
+      "note": "2026-10-18 19:59 JST。競馬28件・株9件の既存記録を保持。発走済み未確定0件。高知10R(20:20、曇・稍重)、11R(20:50)、佐賀夜間開催を調査。高知10Rは楽天競馬の単勝オッズ表示(5テンカハル3.5倍、9ケイアイシェルビー4.8倍、3メイショウミカワ5.5倍等)と別サイトの表示(同5番22.8倍、9番1.4倍、3番3.1倍)が大幅に乖離。各オッズの厳密な観測時刻・当日馬体重・調教・取消変更を同時点で確定できず、EV100%以上を合理的に確定できないためA追加0件。結果判明済みをAへ後付け登録せず、Bも追加0件。今回は監視heartbeatのみ更新。",
+      "lastRunAt": "2026-10-18T10:59:50.767Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://uma-x.jp/nar",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610181006090112",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610181000000012",
-        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=32&k_raceDate=2026%2F10%2F18&k_raceNo=5",
-        "https://uma-x.jp/nar_result/z322026101805",
-        "https://www.oddspark.com/keiba/yosou/11/2026/1018.html"
+        "https://keiba.rakuten.co.jp/race_analyze/predictionGross/RACEID/202610183129090210",
+        "https://yoso-umauma.com/race/DH6FZ6Jsj2WZjKRc-2mgilm3v",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610183129090210",
+        "https://www.jbis.or.jp/race/20261018/231/11/"
       ]
     },
     "schemaVersion": 1,
