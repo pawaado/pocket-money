@@ -1512,16 +1512,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-19T13:58:41+09:00",
+      "lastSuccessfulWriteAt": "2026-10-19T05:56:12.635Z",
       "status": "ok",
-      "note": "2026-10-19 13:58 JST。未確定既存0件。JRA開催なし。地方競馬の盛岡6R等を事前調査したが、馬場・馬体重の表示差と調教時計未確認によりA新規固定なし。B追加0件。既存競馬28件・株9件を全件維持。",
-      "lastRunAt": "2026-10-19T13:58:41+09:00",
+      "note": "2026-10-19 14:55 JST: existing records unchanged (28 racing, 9 stock). No unresolved records. Morioka 11R checked with 14:37 odds; insufficient verified current body-weight/training information to fix a qualifying pre-race selection. No additions.",
+      "lastRunAt": "2026-10-19T05:56:12.635Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610191006090206",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610191006090206",
-        "https://nar.netkeiba.com/odds/?race_id=202635101906&type=b0"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610191006090211",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610191006090211"
       ]
     },
     "schemaVersion": 1,
