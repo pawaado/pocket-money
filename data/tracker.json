@@ -1512,17 +1512,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-18T10:59:50.767Z",
+      "lastSuccessfulWriteAt": "2026-10-19T00:03:37.557Z",
       "status": "ok",
-      "note": "2026-10-18 19:59 JST。競馬28件・株9件の既存記録を保持。発走済み未確定0件。高知10R(20:20、曇・稍重)、11R(20:50)、佐賀夜間開催を調査。高知10Rは楽天競馬の単勝オッズ表示(5テンカハル3.5倍、9ケイアイシェルビー4.8倍、3メイショウミカワ5.5倍等)と別サイトの表示(同5番22.8倍、9番1.4倍、3番3.1倍)が大幅に乖離。各オッズの厳密な観測時刻・当日馬体重・調教・取消変更を同時点で確定できず、EV100%以上を合理的に確定できないためA追加0件。結果判明済みをAへ後付け登録せず、Bも追加0件。今回は監視heartbeatのみ更新。",
-      "lastRunAt": "2026-10-18T10:59:50.767Z",
+      "note": "2026-10-19 09時台 JST。既存競馬28件・株9件を保持。発走済み未確定/pending 0件。月曜日のJRA開催なし。地方は帯広ば(1R14:25)、盛岡(1R11:35)、浦和(1R12:20)、金沢(1R13:00)、名古屋(1R14:30)の5場開催を楽天競馬/NARで確認。午前9時時点は各場発売前で直近の投票オッズ・当日馬体重・馬場・取消変更などが確定しておらず、根拠十分なEV100%以上のA事前固定候補なし。B追加なし。結果後のA後付けなし。",
+      "lastRunAt": "2026-10-19T00:03:37.557Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_analyze/predictionGross/RACEID/202610183129090210",
-        "https://yoso-umauma.com/race/DH6FZ6Jsj2WZjKRc-2mgilm3v",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610183129090210",
-        "https://www.jbis.or.jp/race/20261018/231/11/"
+        "https://keiba.rakuten.co.jp/race_status/list/RACEID/202610190000000000",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
+        "https://www.jbis.or.jp/race/20261019/218/07/"
       ]
     },
     "schemaVersion": 1,
