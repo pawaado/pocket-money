@@ -1512,16 +1512,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-19T00:56:12.768Z",
+      "lastSuccessfulWriteAt": "2026-10-19T13:58:41+09:00",
       "status": "ok",
-      "note": "2026-10-19 09:55 JST。既存競馬28件・株9件保持。未確定0件。JRA開催なし。地方5場開催、盛岡1R発売前で単勝オッズと当日馬体重未確定。A/B新規0件、結果更新0件。",
-      "lastRunAt": "2026-10-19T00:56:12.768Z",
+      "note": "2026-10-19 13:58 JST。未確定既存0件。JRA開催なし。地方競馬の盛岡6R等を事前調査したが、馬場・馬体重の表示差と調教時計未確認によりA新規固定なし。B追加0件。既存競馬28件・株9件を全件維持。",
+      "lastRunAt": "2026-10-19T13:58:41+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_status/list/RACEID/202610190000000000",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://www.jbis.or.jp/race/20261019/218/07/"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610191006090206",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610191006090206",
+        "https://nar.netkeiba.com/odds/?race_id=202635101906&type=b0"
       ]
     },
     "schemaVersion": 1,
