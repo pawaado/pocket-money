@@ -1512,16 +1512,20 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-20T11:05:09.945Z",
+      "lastSuccessfulWriteAt": "2026-10-21T06:02:10.598Z",
       "status": "ok",
-      "note": "2026-10-20 20時台JST。既存競馬28件・株9件を維持。発走済み未確定記録0件。JRA開催なし、地方は盛岡・浦和・金沢・門別。盛岡1・2Rは取り止め。門別11R(20:15)晴・重、19:47時点単勝オッズと馬体重・近走を確認。門別12R(20:50)出馬表を確認したが当日馬体重・直近オッズ等の取得が不完全。確率推定の十分な独立根拠が揃わず、EV100%以上の新規A固定は0件。B追加0件。事後A登録なし。取得不完全箇所は次回再調査。",
-      "lastRunAt": "2026-10-20T11:05:09.945Z",
+      "note": "2026-10-21 15時台JST。既存競馬28件（A23・B5）、株9件を保持。発走済みの未確定/pending記録0件。JRA開催なし。地方は門別（雨・重）、浦和（晴・良）、笠松（曇・良）、園田（曇・良）で開催。楽天競馬当日一覧と笠松11R（15:45、14:57時点単勝3.8〜16.0倍）、浦和8R（16:00、近走・脚質・斤量・枠順）などを確認。笠松11Rの当日馬体重が未表示、独立した調教評価・適性と確率較正も不十分なため、EV100%以上を合理的に確定できる新規A候補は0件。B追加0件。結果判明後のA登録なし。情報不足箇所は次回再調査。",
+      "lastRunAt": "2026-10-21T06:02:10.598Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://uma-x.jp/nar/20261020",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610203601140411",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610203601140412/mode/1"
+        "https://www.jra.go.jp/news/202509/092201.html",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610213601140500",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610211813070300",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610212320120100",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610212726160400",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610212320120111",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610211813070308"
       ]
     },
     "schemaVersion": 1,
