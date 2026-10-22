@@ -1521,16 +1521,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-22T04:59:42.743Z",
+      "lastSuccessfulWriteAt": "2026-10-22T06:00:50.906Z",
       "status": "ok",
-      "note": "2026-10-22 JST: Existing 28 racing and 9 stock records retained. No unresolved results. No qualified A entries; live odds and other required inputs incomplete. B 0. Recheck next run.",
-      "lastRunAt": "2026-10-22T04:59:42.743Z",
+      "note": "2026-10-22 15:00 JST。JRA開催なし。地方は浦和・笠松・園田・門別の4場。発走済み未確定の既存記録0件。浦和11R(17:45)と門別11R(20:15)・12R(20:50)のレース前オッズ、出馬表、騎手・斤量、近走、馬場を確認。公開ページの当日馬体重は未掲載（-）で、独立した調教時計・取消変更の完全確認と確率推定の根拠が不足。EV100%以上を高信頼で固定できるA候補0件。B追加0件。結果後のA追加なし。",
+      "lastRunAt": "2026-10-22T06:00:50.906Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_status/list/RACEID/202610220000000000",
-        "https://keiba.rakuten.co.jp/",
-        "https://www.jbis.or.jp/race/20261022/236/09/"
+        "https://www.jra.go.jp/",
+        "https://uma-x.jp/nar",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610221800000011",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610223601140611",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610223601140611",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610223601140612"
       ]
     },
     "schemaVersion": 1,
