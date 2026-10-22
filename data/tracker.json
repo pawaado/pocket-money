@@ -1521,10 +1521,10 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-22T01:59:16.760Z",
+      "lastSuccessfulWriteAt": "2026-10-22T04:59:42.743Z",
       "status": "ok",
-      "note": "2026-10-22 11時台JST。既存の競馬28件・株9件を保持。発走済みの未確定/pending記録0件。JRA開催なし。地方は門別・浦和・笠松・園田が開催。楽天競馬の当日発売情報、JBISの門別9R出馬表（19:05発走、前走・騎手・斤量・枠順）、笠松岐阜金賞・門別ブロッサムカップの開催を確認。ただし当日レースの最新単勝オッズや当日馬体重・取消変更・調教・馬場情報を一体として検証できず、EV100%以上のA事前候補を合理的に固定できないため新規0件。B追加0件。結果判明後のA登録なし。情報不足のため次回再調査。",
-      "lastRunAt": "2026-10-22T01:59:16.760Z",
+      "note": "2026-10-22 JST: Existing 28 racing and 9 stock records retained. No unresolved results. No qualified A entries; live odds and other required inputs incomplete. B 0. Recheck next run.",
+      "lastRunAt": "2026-10-22T04:59:42.743Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
