@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-23T18:00:34+09:00",
+  "updatedAt": "2026-10-23T19:01:23.420+09:00",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,17 +1516,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-23T18:00:34+09:00",
+      "lastSuccessfulWriteAt": "2026-10-23T19:01:23.420+09:00",
       "status": "ok",
-      "note": "2026-10-23 18:00 JST。既存の競馬28件・株9件を保持し、発走済み未確定/pending記録0件。JRA開催なし、地方浦和・笠松・園田開催。浦和12R18:20、園田8R18:30〜12R20:40を確認。園田11R20:05兵庫ゴールドCは12頭、複数の事前AI評価と出走馬・枠順・騎手・斤量・近走・脚質を確認したが、利用可能な公開オッズは取得時刻を厳密に特定できず、当日馬体重・調教・取消変更の独立照合も不十分。外部モデルの勝率16%×表示オッズ15倍などは未較正・更新時刻不明のためA登録基準に達せず、候補0件。B追加0件。結果後のA登録なし。",
-      "lastRunAt": "2026-10-23T18:00:34+09:00",
+      "note": "2026-10-23 19時台JST。既存競馬28件・株9件を維持。発走済みの未確定/pending記録0件。JRA開催なし。地方は浦和・笠松・園田。園田10R19:30、11R20:05、12R20:40を確認。11Rは曇・良、12頭。事前公開AI予測は9ニクソンテソーロ勝率16%、表示15.0倍だが、別オッズ画面では27.2倍、6ブルーヒサシン2.0倍など数値が異なり、各オッズの厳密な更新時刻を確認できず。直前の馬体重・調教・取消変更の独立確認も不十分なためEV100%以上のAを固定しない。B追加0件。結果判明後のA登録なし。",
+      "lastRunAt": "2026-10-23T19:01:23.420+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://www.jbis.or.jp/race/20261023/227/11/",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/CompeteTable?k_babaCode=27&k_raceDate=2026%2F10%2F23&k_raceNo=11",
+        "https://nar.sp.netkeiba.com/odds/?race_id=202650102311&type=b1",
         "https://keibafact.jp/nar/2026-10-23/%E5%9C%92%E7%94%B0-11/",
-        "https://uma-free.com/races/2026-10-23/sonoda/11",
         "https://www.nankankeiba.com/program/20261023271606.do"
       ]
     },
