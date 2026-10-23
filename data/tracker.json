@@ -1516,17 +1516,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-23T19:01:23.420+09:00",
+      "lastSuccessfulWriteAt": "2026-10-23T11:03:28.481Z",
       "status": "ok",
-      "note": "2026-10-23 19時台JST。既存競馬28件・株9件を維持。発走済みの未確定/pending記録0件。JRA開催なし。地方は浦和・笠松・園田。園田10R19:30、11R20:05、12R20:40を確認。11Rは曇・良、12頭。事前公開AI予測は9ニクソンテソーロ勝率16%、表示15.0倍だが、別オッズ画面では27.2倍、6ブルーヒサシン2.0倍など数値が異なり、各オッズの厳密な更新時刻を確認できず。直前の馬体重・調教・取消変更の独立確認も不十分なためEV100%以上のAを固定しない。B追加0件。結果判明後のA登録なし。",
-      "lastRunAt": "2026-10-23T19:01:23.420+09:00",
+      "note": "2026-10-23 20時台JST。既存競馬28件・株9件を保持。未確定/pending既存記録0件（該当0）。JRA開催なし、地方は浦和・笠松・園田。園田12R（20:40発走、曇・良、ダ1400m）の20:01時点の単勝オッズと当日馬体重、騎手・斤量・枠順・近走・脚質を確認。1メイショウハチマキ10.6倍、2ホウオウロレンシア4.2倍、3ジョーカー1.7倍、11ジーティーピカソ6.7倍。追い切り・調教の独立確認ができず、モデル的中確率の十分な裏付けもないためEV100%以上のA候補は固定せず。B追加0件。レース結果を見た後のA登録なし。",
+      "lastRunAt": "2026-10-23T11:03:28.481Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/CompeteTable?k_babaCode=27&k_raceDate=2026%2F10%2F23&k_raceNo=11",
-        "https://nar.sp.netkeiba.com/odds/?race_id=202650102311&type=b1",
-        "https://keibafact.jp/nar/2026-10-23/%E5%9C%92%E7%94%B0-11/",
-        "https://www.nankankeiba.com/program/20261023271606.do"
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610232700000012",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610232700000012",
+        "https://www.jbis.or.jp/race/20261023/227/12/"
       ]
     },
     "schemaVersion": 1,
