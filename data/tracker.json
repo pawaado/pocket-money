@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-22T23:58:01.690Z",
+  "updatedAt": "2026-10-23T01:56:34.989Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1521,16 +1521,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-22T23:58:01.690Z",
+      "lastSuccessfulWriteAt": "2026-10-23T01:56:34.989Z",
       "status": "ok",
-      "note": "2026-10-23 朝（日本時間）。既存の競馬28件・株9件を全件保持。発走済みで結果未確定の既存記録0件。JRAは金曜で開催なし、地方は浦和・笠松・園田で開催予定を確認。園田は14:30開始予定、当日朝時点で馬場状態・当日馬体重・取消変更・直近の有効オッズ等が揃わず、勝率とEVを十分な根拠で確定できないためA新規0件。B追加0件。レース結果の後付けA登録なし。日中の再確認が必要。",
-      "lastRunAt": "2026-10-22T23:58:01.690Z",
+      "note": "2026-10-23 10:56 JSTごろ。既存競馬28件・株9件を維持、未確定の既存記録0件。金曜日のためJRA開催なし。地方は浦和・笠松・園田が開催（笠松1R10:30、浦和1R12:20、園田1R14:30）。出走表・近走情報・騎手斤量と開催を確認したが、10時台の直近有効オッズ・当日馬体重・取消変更・馬場/天候・調教を候補ごとに十分照合できず、信頼可能なEV100%以上のA候補は0件。結果後のA新規登録なし、B検証0件。次回再調査。",
+      "lastRunAt": "2026-10-23T01:56:34.989Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/",
-        "https://nar.sp.netkeiba.com/top/calendar.html?mode=pat&month=10&year=2026",
-        "https://nar.sp.netkeiba.com/top/race_list.html?kaisai_date=20261023&kaisai_id=2026501023"
+        "https://uma-x.jp/nar/20261023",
+        "https://www.jbis.or.jp/race/20261023/223/06/",
+        "https://www.jbis.or.jp/race/20261023/223/10/"
       ]
     },
     "schemaVersion": 1,
