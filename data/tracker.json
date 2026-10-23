@@ -1516,16 +1516,20 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-23T11:03:28.481Z",
+      "lastSuccessfulWriteAt": "2026-10-23T23:57:13.458Z",
       "status": "ok",
-      "note": "2026-10-23 20時台JST。既存競馬28件・株9件を保持。未確定/pending既存記録0件（該当0）。JRA開催なし、地方は浦和・笠松・園田。園田12R（20:40発走、曇・良、ダ1400m）の20:01時点の単勝オッズと当日馬体重、騎手・斤量・枠順・近走・脚質を確認。1メイショウハチマキ10.6倍、2ホウオウロレンシア4.2倍、3ジョーカー1.7倍、11ジーティーピカソ6.7倍。追い切り・調教の独立確認ができず、モデル的中確率の十分な裏付けもないためEV100%以上のA候補は固定せず。B追加0件。レース結果を見た後のA登録なし。",
-      "lastRunAt": "2026-10-23T11:03:28.481Z",
+      "note": "2026-10-24 9時前 JST。競馬28件・株9件の既存記録を維持。発走済みでresultStatus未確定/pendingの記録0件。JRA東京・京都・新潟、地方帯広・高知・佐賀の開催を確認。新潟1R 9:45、東京1R 10:05、佐賀1R 14:45、高知1R 15:05の発走予定と出走表・近走・騎手・斤量等を確認。一部掲載単勝オッズは時点と実売オッズの確定が不十分、当日馬体重・調教時計・取消変更・馬場状態を全項目独立確認できず、的中率推定の根拠も不足のためEV100%以上のAは0件。Bは0件。事後A登録なし。",
+      "lastRunAt": "2026-10-23T23:57:13.458Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610232700000012",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610232700000012",
-        "https://www.jbis.or.jp/race/20261023/227/12/"
+        "https://www.jra.go.jp/",
+        "https://www.keibalab.jp/db/race/",
+        "https://www.jbis.or.jp/race/20261024/105/12/",
+        "https://uma-x.jp/nar",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026102432",
+        "https://www.sagakeiba.net/raceinfo/start/",
+        "https://spaia-keiba.com/race/2604080501/ai-predictions"
       ]
     },
     "schemaVersion": 1,
