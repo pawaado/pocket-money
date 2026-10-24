@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-24T01:55:45.785Z",
+  "updatedAt": "2026-10-24T04:00:31.592Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,20 +1516,20 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-24T02:57:19.827Z",
+      "lastSuccessfulWriteAt": "2026-10-24T04:00:31.592Z",
       "status": "ok",
-      "note": "2026-10-24 12時前JST。既存競馬28件・株9件全件維持。未確定/pending記録0件。JRA東京・京都・新潟、地方高知・佐賀・帯広を調査。東京7R・10R、京都11R、新潟11Rなど出走表・近走・斤量・馬場・一部オッズを確認。東京10Rの公開オッズは前日21:30更新で古く、他の公開オッズも観測時刻と馬体重・調教・取消変更の全条件が揃わず、独立した的中確率の妥当な推定ができないためA固定0件。Bは当時情報の検証不足で0件。結果の後付けA登録なし。",
-      "lastRunAt": "2026-10-24T02:57:19.827Z",
+      "note": "2026-10-24 13時台JST。既存競馬28件・株9件を保持。未確定/pending既存記録0件。JRA東京・京都・新潟および地方帯広・高知・佐賀の開催を確認。京都11RカシオペアS(15:30)の12:58単勝オッズ、曇・稍重、枠順/騎手/斤量、近走・脚質、参考AI推定勝率を照合。6ゼンダンハヤブサは16.8倍、参考AI勝率7.1%だが、当日馬体重・信頼できる最新追い切り時計の照合不足とAI勝率の校正不確実性から独立したEV100%以上を確定せず。新潟11R(15:15)は06:55時点オッズが古く、東京11R(15:45)も直近オッズ・当日馬体重の確定が不足。地方3場も当該時点で独立EV確定に必要な当日情報不足。A0件、B0件、結果更新0件。結果後のA追加なし。",
+      "lastRunAt": "2026-10-24T04:00:31.592Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://www.keibalab.jp/db/race/",
-        "https://www.jbis.or.jp/race/20261024/105/07/",
-        "https://www.jbis.or.jp/race/20261024/108/11/",
-        "https://spaia-keiba.com/race/2604080510/race-cards",
-        "https://sports.yahoo.co.jp/keiba/race/odds/ut/2605040810",
-        "https://www.horse-ticket-school.com/races/1975"
+        "https://keiba.rakuten.co.jp/race_status/list/",
+        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2608040811?ninki=0",
+        "https://keiba-ai.jp/predictions/2026/10/24/",
+        "https://jra.jp/datafile/seiseki/replay/2026/074.html",
+        "https://pc.keibalab.jp/db/race/202610240411/odds.html",
+        "https://www.keibalab.jp/db/race/"
       ]
     },
     "schemaVersion": 1,
