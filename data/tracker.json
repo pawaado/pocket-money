@@ -1516,18 +1516,21 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-24T09:02:31.698Z",
+      "lastSuccessfulWriteAt": "2026-10-24T10:04:14.977Z",
       "status": "ok",
-      "note": "2026-10-24 18時台JST。既存競馬28件・株9件を全件保持。発走済み未確定/pending記録0件。JRA東京・京都・新潟は最終R終了。地方帯広ば・高知・佐賀は夜間開催。高知8R(18:45、曇・不良)の17:33時点単勝オッズ・出馬表・近走・騎手・斤量を照合したが当日馬体重欄が未掲載、取消・調教情報も確実に確認できず、他の夜間レースも必要な直近データと独立した確率推定が不足。信頼できるEV100%以上のA候補は固定せず0件。B追加0件。結果更新0件。事後A登録なし。",
-      "lastRunAt": "2026-10-24T09:02:31.698Z",
+      "note": "2026-10-24 19時台JST。既存競馬28件・株9件を全件保持、未確定/pending既存記録0件。JRA東京・京都・新潟は夕方までに終了、地方は帯広ば・高知・佐賀が夜間開催。高知10R(19:45、曇・不良)の18:56単勝オッズ・当日馬体重・斤量・騎手・近走を確認。3コパノハンプトン1.0倍の突出人気、他の馬は17.1倍以上で客観的な勝率上方修正を裏付けられず。高知11R(20:20、曇・不良)の18:45オッズ・近走・斤量・騎手を確認、7モズリッキー1.4倍、2ブルグミューラー8.1倍、1ステラマテュティナ9.2倍。当日馬体重・調教/変更の完全照合および独立した確率校正が不足。高知12R・佐賀・帯広も完全条件を満たす確率推定が揃わず、新規A0件、B0件、結果更新0件。事後A追加なし。監視実行記録のみ更新。",
+      "lastRunAt": "2026-10-24T10:04:14.977Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://jra.jp/keiba/calendar2026/2026/10/1024.html",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243129090308",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243129090308",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026102432"
+        "https://www.jra.go.jp/",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026102403",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243129090310",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243129090310",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243129090311",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243129090311",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243129090312",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243200000010"
       ]
     },
     "schemaVersion": 1,
