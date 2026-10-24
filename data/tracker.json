@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-24T01:03:42.484Z",
+  "updatedAt": "2026-10-24T01:55:45.785Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,21 +1516,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-24T01:03:42.484Z",
+      "lastSuccessfulWriteAt": "2026-10-24T01:55:45.785Z",
       "status": "ok",
-      "note": "2026-10-24 10時台 JST。既存競馬28件・株9件を保持。未確定/pending結果更新対象0件。JRA東京・京都・新潟、地方帯広・高知・佐賀の開催を確認。JRA東京は曇・芝良/ダ良、新潟芝良/ダ稍重。東京2R 10:35、京都2R 10:25、新潟2R 10:15の出馬表・斤量・一部近走・公開オッズ・調教情報を照合。ただし公開単勝オッズの取得時刻が確証できず、当日馬体重・取消・直前オッズ・調教の全頭検証と確率の独立推定が不十分なため、EV100%以上のA固定0件。B0件。レース後のA後付け登録なし。",
-      "lastRunAt": "2026-10-24T01:03:42.484Z",
+      "note": "2026-10-24 11時前 JST。既存競馬28件・株9件保持。未確定/pending既存記録0件。JRA東京・京都・新潟、地方帯広・高知・佐賀の開催を確認。JRA東京芝/ダ良、京都障害4R11:25、東京5R12:25、東京10R15:00の出走情報・近走・脚質・騎手・斤量と一部オッズを調査。確認できた東京10Rオッズ更新は前日21:30で直近性不足。馬体重・調教・取消変更・時刻付き当日オッズと的中確率の独立検証を全項目揃えられずA登録0件。Bは事前情報アーカイブ検証不足のため0件。レース後のA新規登録なし。",
+      "lastRunAt": "2026-10-24T01:55:45.785Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
         "https://www.keibalab.jp/db/race/",
-        "https://www.jbis.or.jp/race/20261024/105/02/",
-        "https://www.jbis.or.jp/race/20261024/104/03/",
         "https://keiba.rakuten.co.jp/race_status/list/",
-        "https://www.horse-ticket-school.com/races/1966",
-        "https://horse-ticket-school.com/races/1954",
-        "https://race.sp.netkeiba.com/?pid=oikiri&race_id=202604040302&rf=multimenu"
+        "https://spaia-keiba.com/race/2604080510/race-cards",
+        "https://www.keibalab.jp/db/race/202610240510/",
+        "https://www.jbis.or.jp/race/20261024/105/05/"
       ]
     },
     "schemaVersion": 1,
