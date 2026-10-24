@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-24T06:04:52.122Z",
+  "updatedAt": "2026-10-24T06:56:00.557Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,18 +1516,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-24T06:04:52.122Z",
+      "lastSuccessfulWriteAt": "2026-10-24T06:56:00.557Z",
       "status": "ok",
-      "note": "2026-10-24 15時台JST。既存競馬28件・株9件を全件維持。未確定/pending記録0件。JRA東京・京都・新潟と地方帯広・高知・佐賀を確認。JRA新潟11R魚沼S(15:15)、東京11RアルテミスS(15:45)、佐賀5Rもみじ賞(17:00)等の出馬表、近走・騎手・斤量、佐賀の曇・重を照合。ただし対象全馬の最新の確定オッズ・馬体重・取消変更・調教と独立校正済み的中確率を同時点で検証できず、EV100%以上のA事前固定0件。Bの再現性ある過去時点情報も揃わず0件。レース結果判明後のA追加なし。",
-      "lastRunAt": "2026-10-24T06:04:52.122Z",
+      "note": "2026-10-24 15:55台JST。既存の競馬28件・株9件全件維持、未確定/pending記録0件。JRA東京・京都・新潟、地方高知・佐賀の開催を確認。東京12Rダ1400m(16:30)、新潟12R芝1400m(16:00)、高知8Rダ1600m(18:45)、佐賀10Rダ1750m(19:35)など残レースの出馬表・近走情報を照合。ただしレース前の同一時点における最新オッズ・馬体重・取消/変更・調教と独立した的中確率推定を十分に揃えられず、EV100%以上のA固定候補なし。Bは当時のオッズ・予想に使える資料を検証できず追加なし。過去結果からAを後付け登録していない。",
+      "lastRunAt": "2026-10-24T06:56:00.557Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
+        "https://jra.jp/keiba/calendar2026/2026/10/1024.html",
         "https://www.jra.go.jp/",
-        "https://sp.jra.jp/JRADB/accessD.html?CNAME=sw01ddd0104202604031120261024%2F69",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=32&k_raceDate=2026%2F10%2F24&k_raceNo=01",
-        "https://nar.netkeiba.com/race/shutuba.html?race_id=202655102405",
-        "https://www.jbis.or.jp/race/20261024/231/08/"
+        "https://sp.jra.jp/JRADB/accessD.html?CNAME=sw01dde0104202604031220261024%2FE4",
+        "https://www.jbis.or.jp/race/20261024/105/12/",
+        "https://www.jbis.or.jp/race/20261024/231/08/",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243200000010"
       ]
     },
     "schemaVersion": 1,
