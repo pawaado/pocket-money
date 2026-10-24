@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-24T09:02:31.698Z",
+  "updatedAt": "2026-10-24T11:02:48.717Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,21 +1516,20 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-24T10:04:14.977Z",
+      "lastSuccessfulWriteAt": "2026-10-24T11:02:48.717Z",
       "status": "ok",
-      "note": "2026-10-24 19時台JST。既存競馬28件・株9件を全件保持、未確定/pending既存記録0件。JRA東京・京都・新潟は夕方までに終了、地方は帯広ば・高知・佐賀が夜間開催。高知10R(19:45、曇・不良)の18:56単勝オッズ・当日馬体重・斤量・騎手・近走を確認。3コパノハンプトン1.0倍の突出人気、他の馬は17.1倍以上で客観的な勝率上方修正を裏付けられず。高知11R(20:20、曇・不良)の18:45オッズ・近走・斤量・騎手を確認、7モズリッキー1.4倍、2ブルグミューラー8.1倍、1ステラマテュティナ9.2倍。当日馬体重・調教/変更の完全照合および独立した確率校正が不足。高知12R・佐賀・帯広も完全条件を満たす確率推定が揃わず、新規A0件、B0件、結果更新0件。事後A追加なし。監視実行記録のみ更新。",
-      "lastRunAt": "2026-10-24T10:04:14.977Z",
+      "note": "2026-10-24 20時台JST。既存競馬28件・株9件を全件保持。未確定/pending既存記録0件。JRA東京・京都・新潟は終了。高知11R(20:20、曇・不良)の19:51単勝オッズ・当日馬体重・近走・騎手・斤量を確認。7モズリッキー1.2倍、2ブルグミューラー7.7倍、1ステラマテュティナ10.9倍。佐賀12R(20:40、曇・重)の19:45単勝オッズを確認（8イントゥゴールデン2.4倍、6ウラノステソーロ3.1倍、13レディホークダイヤ4.6倍）。高知12R(20:50、曇・不良)の出馬表と単勝表示を確認。帯広12R(20:30)の出走情報も確認。候補の調教情報・取消変更・馬体重の全項目と確率推定の独立検証が不十分なためEV100%以上の新規Aを固定せず。B0件、結果更新0件。結果判明後のA後付け登録なし。",
+      "lastRunAt": "2026-10-24T11:02:48.717Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026102403",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243129090310",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243129090310",
         "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243129090311",
         "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243129090311",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243129090312",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243200000010"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243129090312",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243230120112",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243230120112",
+        "https://www-orign.oddspark.com/keiba/RaceList.do?opTrackCd=03&raceDy=20261024&raceNb=12&sponsorCd=04"
       ]
     },
     "schemaVersion": 1,
