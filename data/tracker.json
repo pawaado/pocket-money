@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-24T11:02:48.717Z",
+  "updatedAt": "2026-10-25T00:03:28.799Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,20 +1516,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-24T11:02:48.717Z",
+      "lastSuccessfulWriteAt": "2026-10-25T00:03:28.799Z",
       "status": "ok",
-      "note": "2026-10-24 20時台JST。既存競馬28件・株9件を全件保持。未確定/pending既存記録0件。JRA東京・京都・新潟は終了。高知11R(20:20、曇・不良)の19:51単勝オッズ・当日馬体重・近走・騎手・斤量を確認。7モズリッキー1.2倍、2ブルグミューラー7.7倍、1ステラマテュティナ10.9倍。佐賀12R(20:40、曇・重)の19:45単勝オッズを確認（8イントゥゴールデン2.4倍、6ウラノステソーロ3.1倍、13レディホークダイヤ4.6倍）。高知12R(20:50、曇・不良)の出馬表と単勝表示を確認。帯広12R(20:30)の出走情報も確認。候補の調教情報・取消変更・馬体重の全項目と確率推定の独立検証が不十分なためEV100%以上の新規Aを固定せず。B0件、結果更新0件。結果判明後のA後付け登録なし。",
-      "lastRunAt": "2026-10-24T11:02:48.717Z",
+      "note": "2026-10-25 09時台JST。既存競馬28件・株9件を全件保持。未確定/pending記録0件。JRA東京・京都・新潟および地方帯広・盛岡・金沢・高知・佐賀の開催を確認。京都1R(10:00)・東京1R(09:50)の出馬表、京都11R菊花賞(15:40)の近走・枠・騎手・斤量・一部オッズを調査。ただし直近の時刻確定オッズ、全馬の当日馬体重・調教・取消変更等が揃わず、独立した勝率推定の根拠が不十分。EV100%以上を確実に確認できたA候補0件。B追加0件、結果更新0件。後付けA登録なし。次回再調査。",
+      "lastRunAt": "2026-10-25T00:03:28.799Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243129090311",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243129090311",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243129090312",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610243230120112",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610243230120112",
-        "https://www-orign.oddspark.com/keiba/RaceList.do?opTrackCd=03&raceDy=20261024&raceNb=12&sponsorCd=04"
+        "https://www.jra.go.jp/keiba/g1/kikka.html",
+        "https://www.jbis.or.jp/race/20261025/108/11",
+        "https://www.keiba.jp/db/race/202610250811/",
+        "https://keiba.rakuten.co.jp/race_status/list/",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop"
       ]
     },
     "schemaVersion": 1,
