@@ -1516,18 +1516,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-25T02:55:40.937Z",
+      "lastSuccessfulWriteAt": "2026-10-25T04:04:25.386Z",
       "status": "ok",
-      "note": "2026-10-25 11時台JSTの再監視。既存競馬28件・株9件を全件保持。未確定/pending既存記録0件。JRA東京・京都・新潟、地方帯広・盛岡・金沢・高知・佐賀の当日開催を再確認。京都11R菊花賞(15:40、芝3000m、18頭)、新潟11Rルミエールオータムダッシュ(15:10、直線芝1000m)の出馬表・近走・コース適性・斤量を調査。菊花賞の当日馬体重未公表、直近オッズ取得時刻・取消変更の最終照合・独立勝率推定の校正不足でEV100%以上を根拠十分に固定できるA候補0件。B追加0件。結果後のA後付けなし。全レース完全評価を意味しない。",
-      "lastRunAt": "2026-10-25T02:55:40.937Z",
+      "note": "2026-10-25 13時台JSTの監視。既存競馬28件・株9件を保持。発走済みの未確定/pending既存記録0件。JRA東京・京都・新潟、地方帯広・盛岡・金沢・高知・佐賀の開催を確認。京都11R菊花賞(15:40、芝3000m、18頭)のJRA出馬表、脚質・前走・騎手・斤量・オッズと馬場情報を調査。取得情報の時刻同期・当日馬体重・調教時計・全馬取消変更の確証と独立勝率校正が不十分で、EV100%以上を確実に根拠づけられるA候補は0件。B新規0件。結果判明後のA登録はしていない。全レースを完全評価した意味ではない。",
+      "lastRunAt": "2026-10-25T04:04:25.386Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://www.jbis.or.jp/race/20261025/108/11",
-        "https://sports.yahoo.co.jp/keiba/race/achievement/course/2604040411",
-        "https://www.keiba.jp/db/race/202610250811/",
-        "https://keiba.rakuten.co.jp/race_card/list/"
+        "https://sp.jra.jp/JRADB/accessD.html?CNAME=sw01dde0108202604091120261025%2FC6",
+        "https://www.jra.go.jp/keiba/g1/kikka.html",
+        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://pc.keibalab.jp/db/race/202610250811/"
       ]
     },
     "schemaVersion": 1,
