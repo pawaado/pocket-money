@@ -1516,18 +1516,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-25T09:05:28.715Z",
+      "lastSuccessfulWriteAt": "2026-10-25T09:58:43.935Z",
       "status": "ok",
-      "note": "2026-10-25 18時台JST。既存の競馬28件・株9件を保持、未確定/pending既存記録0件。JRA東京・京都・新潟は最終レース発走済み。地方の開催は帯広・盛岡・金沢・高知・佐賀。盛岡12R絆カップ(18:15、ダ1200m、小雨・不良、12頭)の出馬表、枠順、斤量、騎手、近走と14:11時点単勝オッズを確認（9ショウナンナスカ2.2倍、7ルコルセール2.3倍等）。当日馬体重と18時台の直近オッズ・調教・取消変更を十分に検証できず、事前AのEV100%以上を根拠付きで固定できないためA新規0件。B新規0件。全開催・全レースの網羅検証ではない。事後A追加なし。",
-      "lastRunAt": "2026-10-25T09:05:28.715Z",
+      "note": "2026-10-25 19時前JST。既存の競馬28件・株9件を保持し、発走済み未確定/pending記録0件。JRAは最終レース発走済み、地方は高知8R(19:10)、9R(19:50)および佐賀7R(19:05)、8R(19:35)、9R(20:10)、10R(20:40)など残レースを確認。高知8R単勝14:03、高知9R単勝15:49時点の公開オッズ・天候雨/曇・不良・騎手斤量を確認したが、19時直近オッズ・当日馬体重・調教・取消変更を十分に検証できず、独立した的中確率を確定できないため事前A新規0件。B新規0件。全開催全レースの網羅確認ではない。結果判明後のA追加なし。",
+      "lastRunAt": "2026-10-25T09:58:43.935Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610251006090412",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610251006090412",
-        "https://keiba.rakuten.co.jp/"
+        "https://www.sagakeiba.net/raceinfo/start/",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610253129090408",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610253129090409",
+        "https://umajirushi.com/nar/kochi/20261025/"
       ]
     },
     "schemaVersion": 1,
