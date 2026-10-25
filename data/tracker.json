@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-25T09:05:28.715Z",
+  "updatedAt": "2026-10-25T10:55:35.699Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,17 +1516,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-25T09:58:43.935Z",
+      "lastSuccessfulWriteAt": "2026-10-25T10:55:35.699Z",
       "status": "ok",
-      "note": "2026-10-25 19時前JST。既存の競馬28件・株9件を保持し、発走済み未確定/pending記録0件。JRAは最終レース発走済み、地方は高知8R(19:10)、9R(19:50)および佐賀7R(19:05)、8R(19:35)、9R(20:10)、10R(20:40)など残レースを確認。高知8R単勝14:03、高知9R単勝15:49時点の公開オッズ・天候雨/曇・不良・騎手斤量を確認したが、19時直近オッズ・当日馬体重・調教・取消変更を十分に検証できず、独立した的中確率を確定できないため事前A新規0件。B新規0件。全開催全レースの網羅確認ではない。結果判明後のA追加なし。",
-      "lastRunAt": "2026-10-25T09:58:43.935Z",
+      "note": "2026-10-25 19:55頃JST。既存の競馬28件・株9件を保持。発走済み未確定/pending記録0件。JRAは当日最終レース発走済み。地方は高知11R(20:50、曇・不良、ダ1400m)と佐賀10R(20:40、ダ1400m)の出馬表・近走・騎手斤量を確認。高知11Rは楽天競馬19:40時点の単勝オッズ（12モズラストセール3.3倍、6リュネヴィル5.7倍、2ハチキンムスメ6.3倍など）を確認。ただし当日馬体重が未表示の馬が多く、独立した調教データ・取消変更の最終確認および勝率の十分な根拠が揃わずEV100%以上を確定できる候補は0件。B新規0件。全レース網羅ではない。結果判明後のA新規追加なし。",
+      "lastRunAt": "2026-10-25T10:55:35.699Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.sagakeiba.net/raceinfo/start/",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610253129090408",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610253129090409",
-        "https://umajirushi.com/nar/kochi/20261025/"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610253129090411",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610253129090411",
+        "https://umanity.jp/racing/card.php?race_id=2026102555120210",
+        "https://keiba.rakuten.co.jp/race_status/list/"
       ]
     },
     "schemaVersion": 1,
