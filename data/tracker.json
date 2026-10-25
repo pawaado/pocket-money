@@ -1516,17 +1516,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-25T07:02:11.238Z",
+      "lastSuccessfulWriteAt": "2026-10-25T08:05:05.049Z",
       "status": "ok",
-      "note": "2026-10-25 16時台JST。既存の競馬28件・株9件を全件維持。発走済みの未確定/pending記録0件。JRA東京・京都・新潟、地方帯広・盛岡・金沢・高知・佐賀の開催を公開情報で確認。直近オッズの時刻・馬体重・調教・取消変更を同一時点で十分に検証できず、根拠あるEV100%以上のAは固定せず0件。Bも当時の事前情報の再現性が不足するため0件。網羅調査は未完了、事後A登録なし。",
-      "lastRunAt": "2026-10-25T07:02:11.238Z",
+      "note": "2026-10-25 17時台JST。既存競馬28件・株9件を全件保持し、未確定/pending既存記録0件を確認。JRA東京・京都・新潟は本日最終レース終了済み。地方は帯広・盛岡・金沢・高知・佐賀の開催を確認。盛岡2R・3Rは濃霧による取止。高知6R（18:05、雨・不良、12頭）の出馬表・過去走・騎手・斤量・脚質・距離実績と16:16時点単勝オッズを照合したが、当日馬体重と十分に新しいオッズ、調教・変更情報の一括検証ができず、EV100%以上を根拠を持って確定できる事前予想Aは0件。Bも当時の事前情報の再現性不足につき0件。調査は全レース網羅ではない。結果確認後のA後付け追加なし。",
+      "lastRunAt": "2026-10-25T08:05:05.049Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://jra.jp/keiba/calendar2026/2026/10/1025.html",
-        "https://keiba.rakuten.co.jp/race_status/list/",
-        "https://keiba.rakuten.co.jp/race_card/list/"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610253129090406",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610253129090406",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610251006090412"
       ]
     },
     "schemaVersion": 1,
