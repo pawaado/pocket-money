@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-25T06:05:34.465Z",
+  "updatedAt": "2026-10-25T07:02:11.238Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,17 +1516,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-25T06:05:34.465Z",
+      "lastSuccessfulWriteAt": "2026-10-25T07:02:11.238Z",
       "status": "ok",
-      "note": "2026-10-25 15時台JST。競馬28件・株9件を全件保持。発走済みの未確定/pending記録0件。JRA東京・京都・新潟、地方帯広・盛岡・金沢・高知・佐賀の開催を確認。京都11R菊花賞（15:40）および地方残レースの出馬表・開催情報・公開オッズを調査。オッズの取得時刻の検証、当日馬体重・調教・取消変更の全項目確認、的中確率の独立した校正が揃わないため、EV100%以上と根拠を持って固定できるA候補は0件。Bは追加0件。全レース網羅検証ではなく、事後A登録はしない。",
-      "lastRunAt": "2026-10-25T06:05:34.465Z",
+      "note": "2026-10-25 16時台JST。既存の競馬28件・株9件を全件維持。発走済みの未確定/pending記録0件。JRA東京・京都・新潟、地方帯広・盛岡・金沢・高知・佐賀の開催を公開情報で確認。直近オッズの時刻・馬体重・調教・取消変更を同一時点で十分に検証できず、根拠あるEV100%以上のAは固定せず0件。Bも当時の事前情報の再現性が不足するため0件。網羅調査は未完了、事後A登録なし。",
+      "lastRunAt": "2026-10-25T07:02:11.238Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://www.jra.go.jp/keiba/g1/kikka.html",
-        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2608040911",
-        "https://uma-x.jp/nar",
+        "https://jra.jp/keiba/calendar2026/2026/10/1025.html",
+        "https://keiba.rakuten.co.jp/race_status/list/",
         "https://keiba.rakuten.co.jp/race_card/list/"
       ]
     },
