@@ -1516,15 +1516,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-26T00:00:12.967Z",
+      "lastSuccessfulWriteAt": "2026-10-26T01:03:58.510Z",
       "status": "ok",
-      "note": "2026-10-26 09:00 JST。既存競馬28件・株9件保持、発走済み未確定/pending 0件。JRA本日開催なし（2026年開催日程）。地方は帯広・盛岡・大井・佐賀の開催を確認。午前9時時点で当日直近単勝オッズ、馬体重、馬場、調教、取消変更等の同時確認ができず、EV100%以上と根拠を持って事前固定できるA候補0件。Bは当時の情報と判断時オッズが揃わず新規0件。結果を見てAを後付け登録しない。",
-      "lastRunAt": "2026-10-26T00:00:12.967Z",
+      "note": "2026-10-26 10時台JST。既存競馬28件・株9件を維持。発走済み未確定/pendingは0件。JRA月曜開催なし。地方は帯広・盛岡・大井・佐賀。盛岡1R(11:45)は10時前時点で曇・不良、出走12頭、騎手・斤量・出馬表確認。09:56時点で発売前、単勝オッズは全馬0.0表示、当日馬体重も未掲載。確定した直近オッズと当日馬体重を取得できず、EV100%以上のAを事前固定できないためA追加0件。Bは事前情報とオッズの再現性が確保できず追加0件。結果の後付けA登録なし。",
+      "lastRunAt": "2026-10-26T01:03:58.510Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://regimag.jp/nar/calendar_detail/?day=26&month=10&year=2026",
-        "https://www.jra.go.jp/news/202509/092201.html"
+        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610261006090500",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610261006090501",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=3&k_raceDate=2026%2F10%2F26&k_raceNo=4"
       ]
     },
     "schemaVersion": 1,
