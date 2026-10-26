@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-26T05:56:10.783Z",
+  "updatedAt": "2026-10-26T07:00:59.002Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1502,17 +1502,22 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-10-23T06:56:01.834Z",
-      "lastSuccessfulWriteAt": "2026-10-23T06:56:01.834Z",
+      "lastRunAt": "2026-10-26T07:00:59.002Z",
+      "lastSuccessfulWriteAt": "2026-10-26T07:00:59.002Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-10-23 東証通常営業（JPX公式休業日表で確認）。既存A保有中0件につき株価・損益・決済の更新対象なし。新規候補はアドバンテスト(6857)、東京エレクトロン(8035)、イビデン(4062)、キオクシアHD(285A)、三菱UFJ(8306)、ソフトバンクG(9984)、JT(2914)、ファーストリテイリング(9983)、ブロンコビリー(3091)、ベイカレント(6532)、INPEX(1605)、KDDI(9433)等を横断調査。10/22の日経平均-2.65%、10/23午前の大幅下落・半導体高変動、決算接近・過熱/反転リスクに加え、10/23終値とリスクリワードの十分な裏付けを得られなかったため新規A0件。後付けAなし。既存株9件・競馬28件と区分保持。",
+      "note": "2026-10-26 東証通常営業（JPX休業日表確認）。既存A保有中0件、株価・損益・決済更新対象なし。日経平均は前営業日比-503.51円(-0.80%)の62189.65円。流動性の高い銘柄を横断確認：INPEX(1605)4049円(+4.90%)、三菱商事(8058)4910円(+4.14%)、三井物産(8031)5089円(+2.97%)、伊藤忠(8001)2370.5円(+3.02%)、KDDI(9433)2870円(+0.16%)、三菱UFJ(8306)3304円(+0.27%)、JT(2914)7624円(10/29決算予定)等。資源・商社は当日の急伸後の追いかけリスク、商社の11/4決算接近、JTの10/29決算接近、その他は上値目標・損切水準を合理的に固定できるだけの短期テクニカル根拠不足。厳選基準に合う新規Aは0件。株9件・競馬28件およびA/B区分保持。",
       "sources": [
         "https://www.jpx.co.jp/corporate/about-jpx/calendar/",
-        "https://s.kabutan.jp/news/n202610230357/",
-        "https://atpages.jp/tokyo-open-hour-semis-rebound-sbg-data-desk-2026-10-23/",
-        "https://news.livedoor.com/article/detail/32630861/"
+        "https://minkabu.jp/news/4642207",
+        "https://finance.yahoo.co.jp/quote/1605.T",
+        "https://finance.yahoo.co.jp/quote/8058.T",
+        "https://finance.yahoo.co.jp/quote/8031.T",
+        "https://finance.yahoo.co.jp/quote/8001.T",
+        "https://finance.yahoo.co.jp/quote/9433.T",
+        "https://finance.yahoo.co.jp/quote/8306.T",
+        "https://finance.yahoo.co.jp/quote/2914.T"
       ]
     },
     "keiba": {
