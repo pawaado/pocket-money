@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-26T02:57:18.357Z",
+  "updatedAt": "2026-10-26T05:04:12.191Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,17 +1516,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-26T04:04:03.880Z",
+      "lastSuccessfulWriteAt": "2026-10-26T05:04:12.191Z",
       "status": "ok",
-      "note": "2026-10-26 13時台JST。既存の競馬28件・株9件を保持。発走済みの未確定/pending記録0件。JRA月曜開催なし。地方は帯広・盛岡・大井・佐賀。大井1R(14:30、雨・重、ダ1600m)と佐賀1R(14:20、雨・不良、ダ1300m)、盛岡8R(15:45、曇・不良、ダ1200m、8番騎手変更)の出馬表・近走・騎手・斤量・暫定オッズを確認。大井1Rの馬体重・調教情報未確認、佐賀1Rの有効オッズ未成立、盛岡8Rの当日馬体重未確定で、EV100%以上を信頼できる精度で判定できずA0件。B0件、結果更新0件。結果後のA追加なし。",
-      "lastRunAt": "2026-10-26T04:04:03.880Z",
+      "note": "2026-10-26 14時台JST。既存競馬28件・株9件を保持。発走済みの未確定/pending記録0件。JRA月曜開催なし、地方は帯広・盛岡・大井・佐賀。盛岡8R(15:45、曇・不良、ダ1200m)の枠順、騎手変更(8番 山本政聡→山本聡哉)、斤量、近走、12:01時点の単勝オッズ(9番3.0倍、8番3.8倍、12番5.7倍)を確認。大井3R(15:35、雨・重)の12:36時点オッズページ、大井2R(15:02)、佐賀2R(14:50)の出馬表を確認。現時点で直近オッズ更新時刻が古く、当日馬体重・調教・取消変更の網羅的な独立確認も不十分なため推定EV100%以上の信頼できるA新規候補0件。B0件、結果更新0件。事後A追加なし。",
+      "lastRunAt": "2026-10-26T05:04:12.191Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610262000000001",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610263200000001",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610261000000008"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610261000000008",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610261000000008",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610262015110103",
+        "https://www.jra.go.jp/news/202509/092201.html"
       ]
     },
     "schemaVersion": 1,
