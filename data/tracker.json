@@ -1516,17 +1516,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-25T10:55:35.699Z",
+      "lastSuccessfulWriteAt": "2026-10-26T00:00:12.967Z",
       "status": "ok",
-      "note": "2026-10-25 19:55頃JST。既存の競馬28件・株9件を保持。発走済み未確定/pending記録0件。JRAは当日最終レース発走済み。地方は高知11R(20:50、曇・不良、ダ1400m)と佐賀10R(20:40、ダ1400m)の出馬表・近走・騎手斤量を確認。高知11Rは楽天競馬19:40時点の単勝オッズ（12モズラストセール3.3倍、6リュネヴィル5.7倍、2ハチキンムスメ6.3倍など）を確認。ただし当日馬体重が未表示の馬が多く、独立した調教データ・取消変更の最終確認および勝率の十分な根拠が揃わずEV100%以上を確定できる候補は0件。B新規0件。全レース網羅ではない。結果判明後のA新規追加なし。",
-      "lastRunAt": "2026-10-25T10:55:35.699Z",
+      "note": "2026-10-26 09:00 JST。既存競馬28件・株9件保持、発走済み未確定/pending 0件。JRA本日開催なし（2026年開催日程）。地方は帯広・盛岡・大井・佐賀の開催を確認。午前9時時点で当日直近単勝オッズ、馬体重、馬場、調教、取消変更等の同時確認ができず、EV100%以上と根拠を持って事前固定できるA候補0件。Bは当時の情報と判断時オッズが揃わず新規0件。結果を見てAを後付け登録しない。",
+      "lastRunAt": "2026-10-26T00:00:12.967Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610253129090411",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610253129090411",
-        "https://umanity.jp/racing/card.php?race_id=2026102555120210",
-        "https://keiba.rakuten.co.jp/race_status/list/"
+        "https://regimag.jp/nar/calendar_detail/?day=26&month=10&year=2026",
+        "https://www.jra.go.jp/news/202509/092201.html"
       ]
     },
     "schemaVersion": 1,
