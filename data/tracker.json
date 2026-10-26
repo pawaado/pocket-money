@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-26T07:05:26.632Z",
+  "updatedAt": "2026-10-26T09:09:46.535Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1521,17 +1521,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-26T08:01:53.575Z",
+      "lastSuccessfulWriteAt": "2026-10-26T09:09:46.535Z",
       "status": "ok",
-      "note": "2026-10-26 17時台JST。競馬28件・株9件を保持。未確定/pending既存記録0件。JRA月曜開催なし。地方は帯広・盛岡・大井・佐賀の開催を確認。盛岡11R17:30・12R18:05、帯広7R17:30以降などが残るが、各候補の直前オッズ・馬体重・取消変更・調教と独立した勝率推定を網羅できず、EV100%以上を検証可能なAとして固定する根拠が不足。A新規0件、B新規0件、結果更新0件。事後A登録なし。既存データを維持してheartbeatのみ更新。",
-      "lastRunAt": "2026-10-26T08:01:53.575Z",
+      "note": "2026-10-26 18時台JST。既存競馬28件・株9件保持、未確定/pending既存記録0件。JRA月曜開催なし。地方は帯広・盛岡・大井・佐賀を確認。大井8R18:20、9R18:55、11R20:10などの出馬表・近走・馬場・オッズを確認したが、公開ページの更新時刻や馬体重・調教・取消変更の一貫した事前確認、独立した的中率推定を満たすA候補は固定できず0件。B追加0件、結果更新0件。結果判明後のA追加なし。既存データ保持のheartbeat更新。",
+      "lastRunAt": "2026-10-26T09:09:46.535Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=3&k_raceDate=2026%2F10%2F26",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026102610",
-        "https://sports.yahoo.co.jp/keiba_local/schedule/monthly?month=10&year=2026",
-        "https://keiba.rakuten.co.jp/race_status/list/"
+        "https://uma-x.jp/nar/20261026",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610262015110111/mode/0",
+        "https://www.jra.go.jp/news/202509/092201.html",
+        "https://www.nankankeiba.com/best/2026102620110111110900.do"
       ]
     },
     "schemaVersion": 1,
