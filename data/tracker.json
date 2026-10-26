@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-25T10:55:35.699Z",
+  "updatedAt": "2026-10-26T01:56:12.486Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,17 +1516,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-26T01:03:58.510Z",
+      "lastSuccessfulWriteAt": "2026-10-26T01:56:12.486Z",
       "status": "ok",
-      "note": "2026-10-26 10時台JST。既存競馬28件・株9件を維持。発走済み未確定/pendingは0件。JRA月曜開催なし。地方は帯広・盛岡・大井・佐賀。盛岡1R(11:45)は10時前時点で曇・不良、出走12頭、騎手・斤量・出馬表確認。09:56時点で発売前、単勝オッズは全馬0.0表示、当日馬体重も未掲載。確定した直近オッズと当日馬体重を取得できず、EV100%以上のAを事前固定できないためA追加0件。Bは事前情報とオッズの再現性が確保できず追加0件。結果の後付けA登録なし。",
-      "lastRunAt": "2026-10-26T01:03:58.510Z",
+      "note": "2026-10-26 10時台JST。既存競馬28件・株9件を保持し、発走済み未確定0件。JRA月曜開催なし。地方は盛岡・大井・佐賀・帯広。盛岡1R(11:45、曇・不良)の10:26時点単勝オッズ・騎手・斤量・枠順・前5走を確認。12頭の当日馬体重が未掲載（-表示）で調教・取消変更も十分検証できず、独立した勝率推定に必要な情報が不十分。事前EV100%以上のA候補を確証できず新規0件。Bも当時の再現可能情報不足で0件。結果後のA後付けなし。",
+      "lastRunAt": "2026-10-26T01:56:12.486Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610261006090500",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610261006090501",
         "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610261006090501",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=3&k_raceDate=2026%2F10%2F26&k_raceNo=4"
+        "https://uma-x.jp/nar/20261026",
+        "https://regimag.jp/nar/calendar_detail/?day=26&month=10&year=2026"
       ]
     },
     "schemaVersion": 1,
