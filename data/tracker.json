@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-27T07:01:40.599Z",
+  "updatedAt": "2026-10-27T10:01:16.598Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1525,15 +1525,17 @@
     "keiba": {
       "lastSuccessfulWriteAt": "2026-10-27T08:55:58.949Z",
       "status": "ok",
-      "note": "2026-10-27 17:55以降JST。競馬28件・株9件を全件保持。発走済み未確定/pending既存記録0件。JRA開催なし、地方は盛岡・大井・金沢・名古屋・門別。地方競馬情報サイトで残レース発走時刻を確認。楽天競馬で門別9Rアスター特別(18:45、ダ1000m)の17:53時点単勝オッズ(3マカラス1.9倍、12ユーキャンフライ4.7倍、5セイランマクフィ6.7倍)・枠順・騎手・斤量・近走を確認。馬場は取得ページ間で曇/稍重と雨/重の変動あり、当日馬体重欄は未表示。調教・取消変更の完全照合および較正された的中確率推定が揃わず、EV100%以上のA固定なし。Bの信頼できる当時情報の独立検証も追加なし。候補0件、結果更新0件。事後A登録なし。",
-      "lastRunAt": "2026-10-27T08:55:58.949Z",
+      "note": "2026-10-27 19:00台JST。競馬28件・株9件全保持。発走済み未確定0件。JRA開催なし、地方は盛岡・大井・金沢・名古屋・門別。19時以降の大井11R(20:10)18:45時点単勝オッズ(1コスモギガンティア2.2倍、3グレアネオンライト4.0倍、11ムットクルフェ6.6倍)、大井12R(20:50)18:47時点(14アイビーブリザード1.3倍)、門別12R(20:35)18:36時点(5スキャボロフェアー2.4倍、3ルクスシュナイダー2.6倍)を公式地方競馬情報サイトで確認。門別は雨・重、大井は曇・不良。門別10R11番バイデント取消、大井1R2番メロディレイ取消を確認。11R門別オッズ取得不可、当日馬体重・調教・確率モデルの独立検証不十分。推定EV100%以上を正当に確定できるA0件、B0件、結果更新0件。結果判明後のA登録なし。",
+      "lastRunAt": "2026-10-27T10:01:16.598Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610273600000009/mode/1",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610273600000009",
-        "https://uma-x.jp/nar"
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_RaceList?k_babaCode=36&k_raceDate=2026%2F10%2F27",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=36&k_raceDate=2026%2F10%2F27&k_raceNo=12",
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F27&k_raceNo=11",
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F27&k_raceNo=12",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_HenkouInfo?k_babaCode=36&k_raceDate=2026%2F10%2F27",
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_HenkouInfo_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F27"
       ]
     },
     "schemaVersion": 1,
