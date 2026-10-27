@@ -1521,18 +1521,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-27T02:59:49.661Z",
+      "lastSuccessfulWriteAt": "2026-10-27T04:02:04.949Z",
       "status": "ok",
-      "note": "2026-10-27 12時前後 JST。競馬28件・株9件を保持し、発走済み未確定0件を確認。JRA火曜開催なし。地方競馬は盛岡・名古屋・金沢・大井・門別の5場で開催。NAR当日開催表と名古屋2R出馬表、名古屋1R・盛岡2R等の発走予定を調査。直近の確定可能な単勝オッズ、取消/変更、馬体重・調教情報を同一時点で十分に照合できず、勝率推定の裏付けも不足。結果判明前のEV100%以上と合理的に固定できる候補なし（A0件）、B0件、結果更新0件。過去レースをAとして後付け追加していない。",
-      "lastRunAt": "2026-10-27T02:59:49.661Z",
+      "note": "2026-10-27 13時台 JST。既存競馬28件・株9件を保持、未確定0件。JRA開催なし。地方5場（盛岡・名古屋・金沢・大井・門別）の開催確認。名古屋4R（14:10、晴・稍重、ダ1500m）の12:48単勝オッズ、出馬表・近走・騎手・斤量を照合。馬体重が未掲載で調教情報も十分に検証できず、独立した的中確率推定を裏付ける情報が不足。EV100%以上と確定できる事前A候補0件、B追加0件、結果更新0件。過去レースの事後A追加なし。",
+      "lastRunAt": "2026-10-27T04:02:04.949Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
         "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=24&k_raceDate=2026%2F10%2F27",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610272433150102/mode/1",
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://uma-x.jp/nar/20261027"
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/OddsTanFuku_ipat?k_babaCode=24&k_raceDate=2026%2F10%2F27&k_raceNo=4",
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/DebaTable_ipat?k_babaCode=24&k_raceDate=2026%2F10%2F27&k_raceNo=4",
+        "https://keiba.rakuten.co.jp/race_card/list/"
       ]
     },
     "schemaVersion": 1,
