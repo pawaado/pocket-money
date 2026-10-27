@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-27T05:03:50.165Z",
+  "updatedAt": "2026-10-27T05:56:03.477Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1521,19 +1521,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-27T05:03:50.165Z",
+      "lastSuccessfulWriteAt": "2026-10-27T05:56:03.477Z",
       "status": "ok",
-      "note": "2026-10-27 14時台JST。既存競馬28件・株9件全件維持、未確定/pending記録0件。JRA本日開催なし。地方5場（門別・盛岡・大井・金沢・名古屋）開催を照合。門別1R（14:30、ダ1000m、8頭）の13:57単勝オッズ・当日馬体重・斤量・騎手・近走成績、名古屋6R（15:15、ダ1500m、12頭）の13:23単勝オッズ・出馬表を調査。門別2Rの2番、4Rの6番・7番、10Rの11番、大井1Rの2番の取消情報を確認。門別1Rはレース一覧の天候が雨、個別出馬表は曇と表示差あり。名古屋6Rの当日馬体重は未表示。独立調教データや較正された勝率推定に必要な情報が不足し、EV100%以上を合理的に固定できるA候補は0件。B追加0件、結果更新0件。事後A追加なし。",
-      "lastRunAt": "2026-10-27T05:03:50.165Z",
+      "note": "2026-10-27 14:55台JST。既存競馬28件・株9件を全件保持。発走済み未確定/pendingは0件。JRA本日開催なし、地方は門別・盛岡・大井・金沢・名古屋の5場。名古屋7R(15:50、1500m、晴・稍重)の出馬表、近5走、騎手、斤量、脚質手がかり、単勝人気・表示オッズを照合。馬体重未表示、オッズ取得時刻・調教/取消情報の独立検証が不足し、較正済み勝率に基づくEV100%以上のA候補は確定できず0件。B追加0件、結果更新0件。事後A登録なし。",
+      "lastRunAt": "2026-10-27T05:56:03.477Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=36&k_raceDate=2026%2F10%2F27",
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/OddsTanFuku_ipat?k_babaCode=36&k_raceDate=2026%2F10%2F27&k_raceNo=1",
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/DebaTable_ipat?k_babaCode=36&k_raceDate=2026%2F10%2F27&k_raceNo=1",
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=24&k_raceDate=2026%2F10%2F27",
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/OddsTanFuku_ipat?k_babaCode=24&k_raceDate=2026%2F10%2F27&k_raceNo=6",
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F27"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=24&k_raceDate=2026%2F10%2F27&k_raceNo=7",
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_RaceList_ipat?k_babaCode=24&k_raceDate=2026%2F10%2F27",
+        "https://www.jra.go.jp/"
       ]
     },
     "schemaVersion": 1,
