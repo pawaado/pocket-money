@@ -1523,18 +1523,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-27T07:56:37.335Z",
+      "lastSuccessfulWriteAt": "2026-10-27T08:55:58.949Z",
       "status": "ok",
-      "note": "2026-10-27 16:56以降JST。既存の競馬28件・株9件を全件保持。発走済み未確定記録0件。JRA開催なし、地方は盛岡・大井・金沢・名古屋・門別。盛岡11R(17:30、重)、門別9R(18:45)、大井11R(20:10、曇・不良)の出走表・近走・騎手斤量・公開単勝オッズを確認。大井11Rコスモギガンティア3.0倍、フジマサテイオー5.1倍、グレアネオンライト6.7倍等。ただしオッズの厳密な観測時刻、馬体重・調教・取消変更の独立照合と較正済み的中率推定が不十分なため、EV100%以上を確証できるAは0件。B追加0件、結果更新0件。事後A登録なし。",
-      "lastRunAt": "2026-10-27T07:56:37.335Z",
+      "note": "2026-10-27 17:55以降JST。競馬28件・株9件を全件保持。発走済み未確定/pending既存記録0件。JRA開催なし、地方は盛岡・大井・金沢・名古屋・門別。地方競馬情報サイトで残レース発走時刻を確認。楽天競馬で門別9Rアスター特別(18:45、ダ1000m)の17:53時点単勝オッズ(3マカラス1.9倍、12ユーキャンフライ4.7倍、5セイランマクフィ6.7倍)・枠順・騎手・斤量・近走を確認。馬場は取得ページ間で曇/稍重と雨/重の変動あり、当日馬体重欄は未表示。調教・取消変更の完全照合および較正された的中確率推定が揃わず、EV100%以上のA固定なし。Bの信頼できる当時情報の独立検証も追加なし。候補0件、結果更新0件。事後A登録なし。",
+      "lastRunAt": "2026-10-27T08:55:58.949Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://uma-x.jp/nar/20261027",
-        "https://uma-x.jp/nar_result/z102026102711",
-        "https://www.jbis.or.jp/race/20261027/236/09/",
-        "https://yoso-umauma.com/race/cBgitb39GKYc6ddH-ekvd6tmt",
-        "https://keiba.rakuten.co.jp/race_card/list/"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610273600000009/mode/1",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610273600000009",
+        "https://uma-x.jp/nar"
       ]
     },
     "schemaVersion": 1,
