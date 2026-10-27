@@ -1521,17 +1521,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-27T01:05:10.024Z",
+      "lastSuccessfulWriteAt": "2026-10-27T02:02:52.328Z",
       "status": "ok",
-      "note": "2026-10-27 10時台 JST。競馬既存28件・株9件を保持。既存未確定/pending0件。火曜JRA開催なし。地方5場（盛岡・名古屋・金沢・大井・門別）を確認。10時台の発売情報は各場とも発売前で直近実売オッズが得られず、馬体重・当日馬場・天候・取消変更・調教も十分に確定できないため、事前A新規固定0件。Bは過去時点情報の検証不足につき0件。事後A登録なし。",
-      "lastRunAt": "2026-10-27T01:05:10.024Z",
+      "note": "2026-10-27 11時台 JST。既存競馬28件・株9件保持。発走済み未確定0件。JRA火曜開催なし。地方5場（盛岡・名古屋・金沢・大井・門別）を確認。NAR公式で盛岡1R(11:40、曇・重)10:48単勝オッズ・馬体重・近走・斤量・騎手変更、名古屋1R(12:30、晴・稍重)10:57単勝オッズ・出走馬・近走を確認。盛岡1Rは6ライブリピュア1.9倍、3オッピポイカ7.4倍、8マリーオラス8.0倍、9ミクリ22.5倍。能力・距離適性・展開・重馬場を検討したが、調教の独立確認と推定勝率の根拠が不十分でEV100%以上を信頼して固定できずA0件。B0件。結果後のA追加なし。",
+      "lastRunAt": "2026-10-27T02:02:52.328Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=10&k_raceDate=2026%2F10%2F27",
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/OddsTanFuku_ipat?k_babaCode=10&k_raceDate=2026%2F10%2F27&k_raceNo=1",
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/DebaTable_ipat?k_babaCode=10&k_raceDate=2026%2F10%2F27&k_raceNo=1",
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/OddsTanFuku_ipat?k_babaCode=24&k_raceDate=2026%2F10%2F27&k_raceNo=1",
         "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://www.jbis.or.jp/race/20261027/236/09/",
-        "https://sports.yahoo.co.jp/keiba_local/race/denma/20261027220208",
-        "https://keibafact.jp/nar/2026-10-27/"
+        "https://www.jra.go.jp/"
       ]
     },
     "schemaVersion": 1,
