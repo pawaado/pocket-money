@@ -1523,19 +1523,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-27T10:01:16.598Z",
+      "lastSuccessfulWriteAt": "2026-10-27T11:05:23.065Z",
       "status": "ok",
-      "note": "2026-10-27 19:00台JST。競馬28件・株9件全保持。発走済み未確定0件。JRA開催なし、地方は盛岡・大井・金沢・名古屋・門別。19時以降の大井11R(20:10)18:45時点単勝オッズ(1コスモギガンティア2.2倍、3グレアネオンライト4.0倍、11ムットクルフェ6.6倍)、大井12R(20:50)18:47時点(14アイビーブリザード1.3倍)、門別12R(20:35)18:36時点(5スキャボロフェアー2.4倍、3ルクスシュナイダー2.6倍)を公式地方競馬情報サイトで確認。門別は雨・重、大井は曇・不良。門別10R11番バイデント取消、大井1R2番メロディレイ取消を確認。11R門別オッズ取得不可、当日馬体重・調教・確率モデルの独立検証不十分。推定EV100%以上を正当に確定できるA0件、B0件、結果更新0件。結果判明後のA登録なし。",
-      "lastRunAt": "2026-10-27T10:01:16.598Z",
+      "note": "2026-10-27 20:05頃JST。競馬28件・株9件を保持し、未確定/pending記録0件を確認。JRA開催なし、地方は盛岡・大井・金沢・名古屋・門別。発走前の大井12R(20:50、曇・不良、ダ1200m14頭)を楽天競馬で確認。19:45時点単勝14アイビーブリザード1.6倍、3キタノプレミアム6.4倍、10ジーティーウララ9.9倍。出馬表で騎手・斤量・近走を確認したが当日馬体重が未表示で、調教・取消変更と独立した勝率推定の十分な裏付けがなくA0件。門別12R(20:35)も直近オッズの取得に失敗しA見送り。B追加0件、結果更新0件。結果判明後のA追加なし。",
+      "lastRunAt": "2026-10-27T11:05:23.065Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_RaceList?k_babaCode=36&k_raceDate=2026%2F10%2F27",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=36&k_raceDate=2026%2F10%2F27&k_raceNo=12",
-        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F27&k_raceNo=11",
-        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F27&k_raceNo=12",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_HenkouInfo?k_babaCode=36&k_raceDate=2026%2F10%2F27",
-        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_HenkouInfo_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F27"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610272015110212/mode/1",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610272015110212",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=36&k_raceDate=2026%2F10%2F27&k_raceNo=12"
       ]
     },
     "schemaVersion": 1,
