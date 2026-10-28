@@ -1523,17 +1523,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-28T05:55:56.000Z",
+      "lastSuccessfulWriteAt": "2026-10-28T06:57:48.569Z",
       "status": "ok",
-      "note": "2026-10-28 14:55 JST。既存競馬28件・株9件保持。発走済み未確定記録0件（除外返還は確定扱い）。JRA開催なし、地方は園田・名古屋・大井・門別の4場。名古屋10R(17:27)・大井11Rマイルグランプリ(20:10)の出走表と近走、各場開催情報を確認。公開オッズには現在時刻より未来の20:51等の表示を含むキャッシュがあり、事前オッズとして採用しない。14:55以前の時刻付き実オッズと独立した的中確率推定が揃わず、EV100%以上と立証できるA候補なし。B新規0件、結果更新0件。次回再確認。",
-      "lastRunAt": "2026-10-28T05:55:56.000Z",
+      "note": "2026-10-28 15:57 JST。既存競馬28件・株9件を保持、発走済み未確定記録0件。JRA開催なし、地方は園田・名古屋・大井・門別。16時以降の名古屋10R・大井11Rマイルグランプリ等の出馬表・近走・開催情報を再確認。楽天競馬の大井11R単勝ページに現時刻より未来の20:52時点という表示があり、事前オッズとして使用不可。観測時刻の確実な最新オッズと独立した勝率推定が揃わないためEV100%以上を立証できるA候補0件。B新規0件、結果更新0件。次回継続確認。",
+      "lastRunAt": "2026-10-28T06:57:48.569Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jbis.or.jp/race/20261028/224/10/",
+        "https://uma-x.jp/nar",
         "https://www.jbis.or.jp/race/20261028/220/11/",
-        "https://www.nankankeiba.com/odds_nin/202610282011031103.do",
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/OddsUmLenFuku_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F28&k_raceNo=11"
+        "https://www.jbis.or.jp/race/20261028/224/10/",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282015110311",
+        "https://www.tokyocitykeiba.com/race/grade_race/2026-10-28/"
       ]
     },
     "schemaVersion": 1,
