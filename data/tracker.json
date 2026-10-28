@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-28T05:55:56.000Z",
+  "updatedAt": "2026-10-28T07:00:02.937Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1502,24 +1502,18 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-10-27T07:01:40.599Z",
-      "lastSuccessfulWriteAt": "2026-10-27T07:01:40.599Z",
+      "lastRunAt": "2026-10-28T07:00:02.937Z",
+      "lastSuccessfulWriteAt": "2026-10-28T07:00:02.937Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-10-27（火）東証通常営業。JPX休業日表で確認。既存A保有中0件、株価・前日比・含み損益・決済の更新対象なし。流動性の高い銘柄を業種横断で検討：INPEX(1605)3970円(-1.95%)、三菱UFJ(8306)3370円(+2.00%)、KDDI(9433)2850.5円(-0.68%)、三井物産(8031)5107円(+0.35%)、伊藤忠(8001)2366円(-0.19%)、JT(2914)7504円(-1.25%)、任天堂(7974)8453円(-1.43%)、トヨタ(7203)3102円(-0.48%)、ソフトバンクG(9984)4474円(+4.95%)、ファナック(6954)5820円(+3.21%)、東京海上(8766)、三菱商事(8058)等。資源は前日急伸から反落、銀行は中期トレンド不安、半導体・AI関連は高変動、JTは10/29決算、商社は11/4決算、その他も短期目標・損切の根拠/リスクリワード不足で新規A0件。終値ベースの仮想投資のみ。既存株9件・競馬28件を保持。",
+      "note": "2026-10-28（水）東証通常営業（JPX休業日カレンダーで確認）。A保有中0件、終値更新・仮想決済対象なし。東証プライム売買代金上位と業種横断でスクリーニング：キオクシアHD(285A)、MARUWA(5344)、太陽誘電(6976)、イビデン(4062)、ルネサス(6723)、SUMCO(3436)、KOKUSAI(6525)、村田製作所(6981)、JX金属(5016)、ソフトバンクG(9984)、アドバンテスト(6857)、東京エレクトロン(8035)、三菱UFJ(8306)、KDDI(9433)、任天堂(7974)、トヨタ(7203)、JT(2914)、伊藤忠(8001)、三菱商事(8058)等。14時時点で日経平均上昇にもかかわらずプライム値下がり1062銘柄と市場の広がりが弱い。半導体は急騰・ボラティリティ高く、キオクシアは10/30決算予定でイベントギャップリスク。終値確定値・損切り根拠・期待リスクリワードを十分検証できる銘柄がなく新規A0件。候補を無理に追加せず。既存の株9件・競馬28件、A/B区分維持。",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/",
-        "https://finance.yahoo.co.jp/quote/1605.T",
-        "https://finance.yahoo.co.jp/quote/8306.T",
-        "https://finance.yahoo.co.jp/quote/9433.T",
-        "https://finance.yahoo.co.jp/quote/8031.T",
-        "https://finance.yahoo.co.jp/quote/8001.T",
-        "https://finance.yahoo.co.jp/quote/2914.T",
-        "https://finance.yahoo.co.jp/quote/7974.T",
-        "https://finance.yahoo.co.jp/quote/7203.T",
-        "https://finance.yahoo.co.jp/quote/9984.T",
-        "https://finance.yahoo.co.jp/quote/6954.T"
+        "https://www.jpx.co.jp/english/corporate/about-jpx/calendar/",
+        "https://s.kabutan.jp/news/n202610280807/",
+        "https://minkabu.jp/stock/8766/news/4643791",
+        "https://quote.nomura.co.jp/nomura/cgi-bin/parser.pl?MKTN=T&QCODE=285A&TEMPLATE=nomura_tp_kabu_01",
+        "https://s.kabutan.jp/stocks/285A"
       ]
     },
     "keiba": {
