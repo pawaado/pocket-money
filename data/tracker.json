@@ -1517,18 +1517,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-28T06:57:48.569Z",
+      "lastSuccessfulWriteAt": "2026-10-28T07:56:44.345Z",
       "status": "ok",
-      "note": "2026-10-28 15:57 JST。既存競馬28件・株9件を保持、発走済み未確定記録0件。JRA開催なし、地方は園田・名古屋・大井・門別。16時以降の名古屋10R・大井11Rマイルグランプリ等の出馬表・近走・開催情報を再確認。楽天競馬の大井11R単勝ページに現時刻より未来の20:52時点という表示があり、事前オッズとして使用不可。観測時刻の確実な最新オッズと独立した勝率推定が揃わないためEV100%以上を立証できるA候補0件。B新規0件、結果更新0件。次回継続確認。",
-      "lastRunAt": "2026-10-28T06:57:48.569Z",
+      "note": "2026-10-28 16:56 JST。既存競馬28件・株9件、発走済み未確定の仮想購入記録0件。JRA開催なし、地方は園田・名古屋・大井・門別。名古屋11R夜長特別（18:00発走）の16:24時点単勝、 大井11Rマイルグランプリ（20:10発走）の16:52時点単勝と出馬表・対戦情報を照合。大井11Rは晴・重、名古屋11Rは晴・稍重。直近オッズは観測できたが、全馬の独立した的中確率推定、当日馬体重・調教・取消情報の十分な検証が揃わずEV100%以上を裏付ける事前予想Aは0件。B追加0件、結果更新0件。推定確率・EVの捏造なし。次回再確認。",
+      "lastRunAt": "2026-10-28T07:56:44.345Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://uma-x.jp/nar",
-        "https://www.jbis.or.jp/race/20261028/220/11/",
-        "https://www.jbis.or.jp/race/20261028/224/10/",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282433150211",
         "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282015110311",
-        "https://www.tokyocitykeiba.com/race/grade_race/2026-10-28/"
+        "https://www.nankankeiba.com/taisen/2026102820110311.do",
+        "https://nar.netkeiba.com/race/newspaper.html?race_id=202644102811"
       ]
     },
     "schemaVersion": 1,
