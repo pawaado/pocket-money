@@ -1523,17 +1523,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-28T00:02:32.689Z",
+      "lastSuccessfulWriteAt": "2026-10-28T01:04:32.676Z",
       "status": "ok",
-      "note": "2026-10-28 09時台JST。既存の競馬28件・株9件を保持。未確定/pending 0件。JRA水曜開催なし、地方競馬は園田・名古屋・大井・門別の4場を確認。名古屋の当日出馬表と開催予定を確認。9時台は当日馬体重・馬場・直近単勝オッズ・調教等の十分な確定情報を収集できず、独立した勝率推定も確証不足。EV100%以上を検証可能な事前A候補0件、B追加0件、結果更新0件。事後A登録なし。次回発走前に再評価。",
-      "lastRunAt": "2026-10-28T00:02:32.689Z",
+      "note": "2026-10-28 2026/10/28 10:04 JST。既存競馬28件・株9件を保持し、未確定/pending 0件を確認。JRA水曜開催なし、地方は園田・名古屋・大井・門別の4場。園田1R 10:40発走・曇・稍重、楽天競馬10:03時点の単勝オッズを確認（4クリノビックリバゴ1.1倍、7メイショウマンゲツ5.5倍等）。出走表の枠順・騎手・斤量・馬体重・近走を確認したが、早期オッズの変動リスクと調教等の独立裏付け不足により的中確率/EV100%以上を確証できずA新規0件。B追加0件、結果更新0件。事後A登録なし。次回再評価。",
+      "lastRunAt": "2026-10-28T01:04:32.676Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/keiba/calendar2026/oct.html",
         "https://regimag.jp/nar/calendar_detail/?day=28&month=10&year=2026",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_RaceList?k_babaCode=24&k_raceDate=2026%2F10%2F28",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_DebaTable?k_babaCode=24&k_raceDate=2026%2F10%2F28&k_raceNo=2"
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_RaceList_ipat?k_babaCode=27&k_raceDate=2026%2F10%2F28",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610282700000001",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282700000001"
       ]
     },
     "schemaVersion": 1,
