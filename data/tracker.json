@@ -1517,18 +1517,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-28T07:56:44.345Z",
+      "lastSuccessfulWriteAt": "2026-10-28T08:56:51.978Z",
       "status": "ok",
-      "note": "2026-10-28 16:56 JST。既存競馬28件・株9件、発走済み未確定の仮想購入記録0件。JRA開催なし、地方は園田・名古屋・大井・門別。名古屋11R夜長特別（18:00発走）の16:24時点単勝、 大井11Rマイルグランプリ（20:10発走）の16:52時点単勝と出馬表・対戦情報を照合。大井11Rは晴・重、名古屋11Rは晴・稍重。直近オッズは観測できたが、全馬の独立した的中確率推定、当日馬体重・調教・取消情報の十分な検証が揃わずEV100%以上を裏付ける事前予想Aは0件。B追加0件、結果更新0件。推定確率・EVの捏造なし。次回再確認。",
-      "lastRunAt": "2026-10-28T07:56:44.345Z",
+      "note": "2026-10-28 17:56 JST。既存競馬28件・株9件、発走済み未確定の仮想購入記録0件。JRA開催なし、地方は園田・名古屋・大井・門別。大井11Rマイルグランプリ（20:10発走）の17:52時点単勝オッズを南関東競馬公式で確認（リコースパロー3.3倍、ベアバッキューン4.8倍、ソニックスター5.1倍、ゴールドレガシー35.0倍等）。公式の重賞直前情報・過去成績と照合したが、全出走馬の独立した勝率推定と当日馬体重・最終調教の十分な確認が揃わず、EV100%以上を裏付けるA新規0件。B追加0件、結果更新0件。推定確率・EVの捏造なし。次回再確認。",
+      "lastRunAt": "2026-10-28T08:56:51.978Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://uma-x.jp/nar",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282433150211",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282015110311",
-        "https://www.nankankeiba.com/taisen/2026102820110311.do",
-        "https://nar.netkeiba.com/race/newspaper.html?race_id=202644102811"
+        "https://www.nankankeiba.com/odds_nin/202610282011031103.do",
+        "https://www.tokyocitykeiba.com/race/grade_race/2026-10-28/",
+        "https://www.jbis.or.jp/race/20261028/220/11/",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282015110311"
       ]
     },
     "schemaVersion": 1,
