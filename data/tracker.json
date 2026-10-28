@@ -1523,18 +1523,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-28T02:04:40.839Z",
+      "lastSuccessfulWriteAt": "2026-10-28T03:02:40.992Z",
       "status": "ok",
-      "note": "2026-10-28 11時台JST。既存競馬28件・株9件を保持。発走済み未確定/pending 0件。JRA開催なし、地方は園田・名古屋・大井・門別の4場。園田2R(11:10、曇・稍重)の11:02単勝オッズと出馬表(枠・騎手・斤量・当日馬体重・近5走・距離実績)、園田4R(12:10)の10:39単勝オッズと近走を確認。園田2Rは6オーシンボンバー3.7倍/5ドゥーエニシング4.6倍/8エザルターレ5.1倍、園田4Rは1ナムラトレビアン2.0倍/3クルシファー6.1倍/9サトノグラン6.1倍。園田4Rは当日馬体重未公表、調教・取消変更と独立した勝率推定が不足。2Rも近走とオッズだけでは市場を上回る優位性を検証できず、EV100%以上を合理的に固定できるA候補なし。A新規0、B追加0、結果更新0。事後A登録なし。次回再試行。",
-      "lastRunAt": "2026-10-28T02:04:40.839Z",
+      "note": "2026-10-28 12時台JST。既存の競馬28件・株9件を保持。発走済み未確定/pending記録0件。JRA開催なし、地方は園田・名古屋・大井・門別の4場。園田5R(12:40、曇・稍重、ダ1230m)の出馬表、騎手、斤量、枠順、近5走、コース実績と11:30時点の単勝オッズを確認。5エクスペリオン2.7倍、10ワキノグラス3.1倍、4キモンキャリントン4.5倍、6ブレッシングアイル11.1倍。オッズは11:30時点で直前値ではなく、当日馬体重・調教・取消変更の十分な独立照合と的中確率の根拠が不足。推定EV100%以上を合理的に固定できずA新規0件。B追加0件、結果更新0件。結果を見た後のA登録はしない。次回再検証。",
+      "lastRunAt": "2026-10-28T03:02:40.992Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://uma-x.jp/nar/20261028",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610282700000002",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282700000002",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610282726170104",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282726170104"
+        "https://nar.sp.netkeiba.com/top/calendar.html?mode=pat&month=10&year=2026",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610282726170105",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610282726170105"
       ]
     },
     "schemaVersion": 1,
