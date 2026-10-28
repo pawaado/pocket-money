@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-27T10:01:16.598Z",
+  "updatedAt": "2026-10-28T00:02:32.689Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1523,16 +1523,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-27T11:05:23.065Z",
+      "lastSuccessfulWriteAt": "2026-10-28T00:02:32.689Z",
       "status": "ok",
-      "note": "2026-10-27 20:05頃JST。競馬28件・株9件を保持し、未確定/pending記録0件を確認。JRA開催なし、地方は盛岡・大井・金沢・名古屋・門別。発走前の大井12R(20:50、曇・不良、ダ1200m14頭)を楽天競馬で確認。19:45時点単勝14アイビーブリザード1.6倍、3キタノプレミアム6.4倍、10ジーティーウララ9.9倍。出馬表で騎手・斤量・近走を確認したが当日馬体重が未表示で、調教・取消変更と独立した勝率推定の十分な裏付けがなくA0件。門別12R(20:35)も直近オッズの取得に失敗しA見送り。B追加0件、結果更新0件。結果判明後のA追加なし。",
-      "lastRunAt": "2026-10-27T11:05:23.065Z",
+      "note": "2026-10-28 09時台JST。既存の競馬28件・株9件を保持。未確定/pending 0件。JRA水曜開催なし、地方競馬は園田・名古屋・大井・門別の4場を確認。名古屋の当日出馬表と開催予定を確認。9時台は当日馬体重・馬場・直近単勝オッズ・調教等の十分な確定情報を収集できず、独立した勝率推定も確証不足。EV100%以上を検証可能な事前A候補0件、B追加0件、結果更新0件。事後A登録なし。次回発走前に再評価。",
+      "lastRunAt": "2026-10-28T00:02:32.689Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610272015110212/mode/1",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610272015110212",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=36&k_raceDate=2026%2F10%2F27&k_raceNo=12"
+        "https://www.jra.go.jp/keiba/calendar2026/oct.html",
+        "https://regimag.jp/nar/calendar_detail/?day=28&month=10&year=2026",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_RaceList?k_babaCode=24&k_raceDate=2026%2F10%2F28",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_DebaTable?k_babaCode=24&k_raceDate=2026%2F10%2F28&k_raceNo=2"
       ]
     },
     "schemaVersion": 1,
