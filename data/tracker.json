@@ -1517,17 +1517,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-28T09:58:54.898Z",
+      "lastSuccessfulWriteAt": "2026-10-28T11:02:35.565Z",
       "status": "ok",
-      "note": "2026-10-28 18:58 JST。tracker.jsonを先に読み、既存競馬28件・株9件、発走済み未確定0件を確認。JRA開催なし、地方は園田・名古屋・大井・門別の4場。大井11Rマイルグランプリ（20:10）出馬表・近走・南関東公式17:52時点単勝オッズ（リコースパロー3.3倍、ベアバッキューン4.8倍、ソニックスター5.1倍等）を確認。門別11Rセダム特別（19:55）も確認したが実オッズを十分確認できず。独立した勝率推定と直近オッズ、当日馬体重・調教等の裏付けが揃わないため、推定EV100%以上を確証できるA候補0件。B追加0件、結果更新0件。推定確率やオッズを捏造せず、既存全記録保持。",
-      "lastRunAt": "2026-10-28T09:58:54.898Z",
+      "note": "2026-10-28 20:02 JST。既存tracker.jsonを先に取得し、競馬28件・株9件と全件の結果状態を確認。発走済み未確定0件。JRA開催なし、地方は園田・名古屋・大井・門別の4場。残りは門別12Rエフフォーリア・プレミアム（20:35）、大井12R霜降賞（20:50）。地方競馬情報サイトの17:51時点単勝オッズ（門別12Rシラントロ2.8倍、大井12Rストライクノワール3.7倍等）、南関東公式の出馬表を照合。ただし20時前後の直近オッズ、取消・当日馬体重・調教の総合照合と独立した勝率推定を十分確証できず、EV100%以上を保証できるA候補0件。B追加0件、結果更新0件。予想オッズを実オッズとして扱わず、事前固定値は捏造しない。株・競馬既存記録とA/B分類を保持。報告は月次のみ。",
+      "lastRunAt": "2026-10-28T11:02:35.565Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.nankankeiba.com/odds_nin/202610282011031103.do",
-        "https://www.jbis.or.jp/race/20261028/220/11/",
         "https://uma-x.jp/nar",
-        "https://nar.sp.netkeiba.com/odds/index.html?race_id=202630102811"
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=36&k_raceDate=2026%2F10%2F28&k_raceNo=12",
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F28&k_raceNo=12&odds_flg=5",
+        "https://www.nankankeiba.com/odds/202610282011031201.do"
       ]
     },
     "schemaVersion": 1,
