@@ -1517,21 +1517,22 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-29T00:58:40.793Z",
+      "lastSuccessfulWriteAt": "2026-10-29T02:03:47.177Z",
       "status": "ok",
-      "note": "2026-10-29 10時前後 JST。tracker.json全件を読み込み、競馬28件・株9件を確認。既存競馬は的中2件・不的中25件・除外返還1件で発走済み未確定0件。JRA開催なし。地方競馬は園田（1R 10:40）、名古屋（1R 12:20）、門別（1R 14:20）、大井（1R 14:30）の4場。園田1Rの出馬表・近走・騎手・馬場（晴・稍重）を確認し、楽天競馬09:44時点の単勝/複勝は全馬0.0倍（発売前）で有効な判断時オッズを取得できず。独立した的中率推定の検証も不足のためEV100%以上のA候補0件。B追加0件、結果更新0件。未確認オッズ・結果は推測せず、既存のA/B区分と株・競馬全記録を保持。報告は月次のみ。",
-      "lastRunAt": "2026-10-29T00:58:40.793Z",
+      "note": "2026/10/29 11:03:47 JST。tracker.json全件を取得・検証。競馬28件（的中2・不的中25・除外返還1）、株9件を維持。発走済み未確定0件。2026-10-29（木）JRA開催なし、地方競馬は園田・名古屋・門別・大井の4場。園田2R（11:10、晴・稍重、1400m）は楽天競馬10:33時点の単勝オッズでフォーウィンド2.4倍、メイショウセツゲツ3.9倍、クレスコロッキー5.4倍を確認。園田3R（11:40）は10:46時点の単勝でオールザレイジ1.2倍、ニックオブタイム10.7倍、マグネター13.2倍を確認。ただし2Rオッズは観測時刻から30分程度経過、3Rは当日馬体重未表示、両Rとも独立した信頼できる的中確率の推定・直近オッズ照合が不十分。推定EV100%以上のA候補は確定できず新規0件。B追加0件、結果更新0件。未検証の推定値は記録せず。既存A/B区分と株・競馬全記録を保持。月次まとめのみ報告、実金購入なし。",
+      "lastRunAt": "2026-10-29T02:03:47.177Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292700000001",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292700000001",
         "https://uma-x.jp/nar/20261029",
-        "https://own.jra.jp/news/202509/092201.html"
+        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292700000002",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292700000002",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292726170203",
+        "https://jra.jp/news/202509/092201.html"
       ]
     },
     "schemaVersion": 1,
-    "policy": "各監視は候補0件でも正常完了時にheartbeatを書き込み、週次まとめはheartbeatで実行・保存成功を判定する。"
+    "policy": "各監視は候補0件でも正常完了時にheartbeatを書き込み、月次まとめはheartbeatで実行・保存成功を判定する。"
   }
 }
