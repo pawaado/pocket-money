@@ -1518,20 +1518,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-29T06:02:11.392Z",
+      "lastSuccessfulWriteAt": "2026-10-29T09:00:03.373Z",
       "status": "ok",
-      "note": "2026-10-29（木）15:02 JST頃。tracker.json全件取得、競馬28件（A23/B5）・株9件、発走済み未確定0件。JRA開催なし、地方は園田・名古屋・大井・門別の4場。名古屋7R（15:45）14:48時点の単勝オッズ：7イッツナッシング3.3倍、6ブルーザー5.6倍、8シヴァールバーニ11.3倍（7人気）。名古屋8R（16:20）14:47時点：6ラブラブフォー2.0倍、7ジュリスタ5.8倍。園田11Rネクストスター園田（15:55）15:00時点：11ジョイドール1.3倍、10チャーミングナイト4.6倍、3バドラ10.9倍。近走・脚質・騎手・当日馬体重/取消変更・馬場・調教を総合した独立勝率推定の検証が十分でなく、EV100%以上と根拠付きで確定できる事前A候補なし。B後付け追加なし、結果更新なし。既存競馬・株の全記録・A/B区分保持。実金購入なし。利用者向け定期報告は毎月1日19時のPocket Money月次まとめのみ。",
-      "lastRunAt": "2026-10-29T06:02:11.392Z",
+      "note": "2026-10-29（木）17:59〜18:00 JST。tracker.json全件取得・照合、競馬28件（発走済み未確定0件）・株9件を保持。JRA開催なし。地方競馬は園田・名古屋・大井・門別の4場。大井8R（18:20、曇・稍重、ダ1600m）の17:55時点単勝オッズと馬体重を確認：1グレイテストワーク2.9倍、8フクオトコ4.0倍、9キセログラフィカ5.0倍、5スカイイズユアーズ5.8倍、7ボラボラフレイバー6.1倍。独立した勝率推定を近走・展開・調教・馬場等から十分に検証できずEV100%以上と根拠付きで固定できる事前A候補なし。後付けB追加0件、結果更新0件。既存全レコードとA/B区分不変。実金購入なし。利用者への報告は月次まとめのみ。",
+      "lastRunAt": "2026-10-29T09:00:03.373Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://uma-x.jp/nar",
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292433150307",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292433150308",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292726170211",
-        "https://uma-x.jp/nar_result/z242026102907",
-        "https://uma-x.jp/nar_result/z272026102911"
+        "https://sports.yahoo.co.jp/keiba_local/schedule/monthly",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292015110408",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292015110400"
       ]
     },
     "schemaVersion": 1,
