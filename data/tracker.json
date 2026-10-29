@@ -1517,18 +1517,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-29T00:00:59.814Z",
+      "lastSuccessfulWriteAt": "2026-10-29T00:58:40.793Z",
       "status": "ok",
-      "note": "2026-10-29 09:00 JST頃。最初にtracker.json全件を取得し、競馬28件・株9件を確認。発走済み未確定0件。JRA開催なし。地方競馬は園田（1R 10:40）、名古屋（1R 12:20）、門別（1R 14:20）、大井（1R 14:30）の4場。園田1R（C3、ダ820m）の出馬表・近走成績を確認。09時時点で楽天競馬の園田1R単勝オッズ画面は「公表データはございません」と表示、各場発売前。直近実オッズ・当日馬体重・取消変更・独立的中率推定の十分な裏付けが揃わないため、EV100%以上のA事前固定0件。B追加0件、結果更新0件。推測オッズや未確認結果を作らず、既存記録とA/B区分を全件保持。報告は月次のみ。",
-      "lastRunAt": "2026-10-29T00:00:59.814Z",
+      "note": "2026-10-29 10時前後 JST。tracker.json全件を読み込み、競馬28件・株9件を確認。既存競馬は的中2件・不的中25件・除外返還1件で発走済み未確定0件。JRA開催なし。地方競馬は園田（1R 10:40）、名古屋（1R 12:20）、門別（1R 14:20）、大井（1R 14:30）の4場。園田1Rの出馬表・近走・騎手・馬場（晴・稍重）を確認し、楽天競馬09:44時点の単勝/複勝は全馬0.0倍（発売前）で有効な判断時オッズを取得できず。独立した的中率推定の検証も不足のためEV100%以上のA候補0件。B追加0件、結果更新0件。未確認オッズ・結果は推測せず、既存のA/B区分と株・競馬全記録を保持。報告は月次のみ。",
+      "lastRunAt": "2026-10-29T00:58:40.793Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_status/list/RACEID/202610290000000000",
+        "https://keiba.rakuten.co.jp/race_card/list/",
         "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292700000001",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292700000001?l-id=top_subNavi_odds",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292700000001",
         "https://uma-x.jp/nar/20261029",
-        "https://www.jra.go.jp/keiba/calendar2026/oct.html"
+        "https://own.jra.jp/news/202509/092201.html"
       ]
     },
     "schemaVersion": 1,
