@@ -1517,17 +1517,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-28T11:02:35.565Z",
+      "lastSuccessfulWriteAt": "2026-10-29T00:00:59.814Z",
       "status": "ok",
-      "note": "2026-10-28 20:02 JST。既存tracker.jsonを先に取得し、競馬28件・株9件と全件の結果状態を確認。発走済み未確定0件。JRA開催なし、地方は園田・名古屋・大井・門別の4場。残りは門別12Rエフフォーリア・プレミアム（20:35）、大井12R霜降賞（20:50）。地方競馬情報サイトの17:51時点単勝オッズ（門別12Rシラントロ2.8倍、大井12Rストライクノワール3.7倍等）、南関東公式の出馬表を照合。ただし20時前後の直近オッズ、取消・当日馬体重・調教の総合照合と独立した勝率推定を十分確証できず、EV100%以上を保証できるA候補0件。B追加0件、結果更新0件。予想オッズを実オッズとして扱わず、事前固定値は捏造しない。株・競馬既存記録とA/B分類を保持。報告は月次のみ。",
-      "lastRunAt": "2026-10-28T11:02:35.565Z",
+      "note": "2026-10-29 09:00 JST頃。最初にtracker.json全件を取得し、競馬28件・株9件を確認。発走済み未確定0件。JRA開催なし。地方競馬は園田（1R 10:40）、名古屋（1R 12:20）、門別（1R 14:20）、大井（1R 14:30）の4場。園田1R（C3、ダ820m）の出馬表・近走成績を確認。09時時点で楽天競馬の園田1R単勝オッズ画面は「公表データはございません」と表示、各場発売前。直近実オッズ・当日馬体重・取消変更・独立的中率推定の十分な裏付けが揃わないため、EV100%以上のA事前固定0件。B追加0件、結果更新0件。推測オッズや未確認結果を作らず、既存記録とA/B区分を全件保持。報告は月次のみ。",
+      "lastRunAt": "2026-10-29T00:00:59.814Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://uma-x.jp/nar",
-        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=36&k_raceDate=2026%2F10%2F28&k_raceNo=12",
-        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F28&k_raceNo=12&odds_flg=5",
-        "https://www.nankankeiba.com/odds/202610282011031201.do"
+        "https://keiba.rakuten.co.jp/race_status/list/RACEID/202610290000000000",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292700000001",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292700000001?l-id=top_subNavi_odds",
+        "https://uma-x.jp/nar/20261029",
+        "https://www.jra.go.jp/keiba/calendar2026/oct.html"
       ]
     },
     "schemaVersion": 1,
