@@ -1517,18 +1517,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-29T03:59:12.265Z",
+      "lastSuccessfulWriteAt": "2026-10-29T05:04:47.748Z",
       "status": "ok",
-      "note": "2026/10/29 12:59:12 JST。tracker.json全件取得、競馬28件・株9件を確認、発走済み未確定0件。2026-10-29（木）JRA開催なし、地方は園田・名古屋・大井・門別の4場。園田6R（13:10、晴・稍重、ダ1230m）の12:51時点単勝：イイクニパッション1.7倍、テラシエスタ3.5倍、アイムアクイーン8.9倍、当日馬体重を確認。園田7R（13:40、晴・稍重、ダ1400m）の12:31時点単勝：アースグレーザー1.3倍、エクスプロラベスト10.4倍、ミステリアスレディ11.4倍、当日馬体重は未表示。大井は14:30から、門別は14:20から。近走・調教・展開に基づく独立した信頼可能な的中確率推定、取消変更の十分な照合が揃わず、推定EV100%以上の事前予想Aを確証できないため新規A0件、B追加0件、結果更新0件。既存のA/Bと株・競馬全記録は変更せず保持。実金購入なし。報告は毎月1日19時のPocket Money月次まとめのみ。",
-      "lastRunAt": "2026-10-29T03:59:12.265Z",
+      "note": "2026-10-29（木）14:04 JST頃。tracker.json全件取得、競馬28件（A23/B5）・株9件、発走済み未確定0件。JRA開催なし、地方開催は園田・名古屋・大井・門別の4場。園田8R（14:10、晴・稍重、ダ1400m）13:40時点の単勝オッズと当日馬体重を確認：シャンデリュイーズ2.9倍（1人気）、ブラックジャック3.0倍（2人気）、セブンワンダーズ6.4倍（3人気）。大井1R（14:30、曇・稍重、ダ1600m）13:47時点の単勝オッズと当日馬体重を確認：シャムトラダイコウ3.7倍、アイトカコイトカ3.7倍、ブライトゲイザー7.6倍。独立した近走・調教・展開に基づく信頼できる勝率推定が十分に確立できず、EV100%以上を検証できる事前A候補なし。A新規0、B新規0、結果更新0。既存の株・競馬全記録とA/B区分は不変。実金購入なし。定期報告は毎月1日19時のPocket Money月次まとめのみ。",
+      "lastRunAt": "2026-10-29T05:04:47.748Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292726170200",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292726170206",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292726170207",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292015110400",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292726170208",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292726170208",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292015110401",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292015110401",
         "https://www.jbis.or.jp/race/20261029/227/01/"
       ]
     },
