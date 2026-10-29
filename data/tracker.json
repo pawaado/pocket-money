@@ -1517,18 +1517,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-29T02:57:36.597Z",
+      "lastSuccessfulWriteAt": "2026-10-29T03:59:12.265Z",
       "status": "ok",
-      "note": "2026/10/29 11:57:36 JST。GitHubのtracker.json全件取得、競馬28件（的中2・不的中25・除外返還1）と株9件を確認、発走済み未確定0件。2026-10-29（木）はJRA開催なし、地方は園田・名古屋・大井・門別の4場。園田4R（12:10発走、晴・稍重、ダ1230m）の11:41時点単勝はソレム2.2倍、ブレッティレディ2.4倍、テンタイムトップ6.7倍、当日馬体重を確認。園田5R（12:40発走）の11:31時点単勝はオクトンハッチ4.4倍、ニシノウインド4.4倍、ヒマリン5.5倍だが当日馬体重未表示。4Rはオッズ観測から約16分経過、5Rは約26分経過、近走・調教・展開に基づく独立した信頼可能な的中確率推定が不足。推定EV100%以上を事前固定できずA新規0件、B追加0件、結果更新0件。過去A/B予想と株・競馬全記録を保持、後付けをAに転用せず。月次報告のみ、実金購入なし。",
-      "lastRunAt": "2026-10-29T02:57:36.597Z",
+      "note": "2026/10/29 12:59:12 JST。tracker.json全件取得、競馬28件・株9件を確認、発走済み未確定0件。2026-10-29（木）JRA開催なし、地方は園田・名古屋・大井・門別の4場。園田6R（13:10、晴・稍重、ダ1230m）の12:51時点単勝：イイクニパッション1.7倍、テラシエスタ3.5倍、アイムアクイーン8.9倍、当日馬体重を確認。園田7R（13:40、晴・稍重、ダ1400m）の12:31時点単勝：アースグレーザー1.3倍、エクスプロラベスト10.4倍、ミステリアスレディ11.4倍、当日馬体重は未表示。大井は14:30から、門別は14:20から。近走・調教・展開に基づく独立した信頼可能な的中確率推定、取消変更の十分な照合が揃わず、推定EV100%以上の事前予想Aを確証できないため新規A0件、B追加0件、結果更新0件。既存のA/Bと株・競馬全記録は変更せず保持。実金購入なし。報告は毎月1日19時のPocket Money月次まとめのみ。",
+      "lastRunAt": "2026-10-29T03:59:12.265Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292700000004",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292726170205",
-        "https://www.jbis.or.jp/race/calendar/20261029/224/",
-        "https://prc.jp/jraracingviewer/contents/seiseki/"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292726170200",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292726170206",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610292726170207",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292015110400",
+        "https://www.jbis.or.jp/race/20261029/227/01/"
       ]
     },
     "schemaVersion": 1,
