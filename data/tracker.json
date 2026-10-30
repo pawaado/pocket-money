@@ -1532,19 +1532,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-30T02:03:50.901Z",
+      "lastSuccessfulWriteAt": "2026-10-30T02:58:48.854Z",
       "status": "ok",
-      "note": "2026-10-30（金）11時台JST。JRA開催なし、地方は名古屋・金沢・園田・大井の4場。既存競馬28件・株9件保持、発走済み未確定結果0件。9/2大井5R 6番ペイルムーン15.4倍、9/2門別6R 5番モウフブキ5.0倍、9/7水沢4R 2番エールヴァーゲ14.3倍、9/8水沢6R 8番ナズドゥラヴィ6.1倍の最終単勝オッズを楽天競馬の「最終オッズ」で検証し既存Aの同一IDに補完。事前固定値・確定損益は変更せず。名古屋1R 10:54時点オッズ・取消・稍重を確認したが、独立勝率推定の十分な裏付けなくEV100%以上のA候補0件、B追加0件。仮想のみ。ユーザー報告は月次のみ。",
-      "lastRunAt": "2026-10-30T02:03:50.901Z",
+      "note": "2026-10-30（金）12時前JST。JRA開催なし、地方競馬は名古屋・金沢・園田・大井の4場。発走済み未確定記録0件。名古屋1R（12:15発走）の楽天競馬単勝オッズ・出走取消（6番グラスフェザー）を確認。観測時刻と独立した的中率の十分な裏付けが揃わず、推定EV100%以上の事前固定A候補0件、後付けB追加0件、結果更新0件。既存競馬28件・株9件とA/B区分は保持。仮想のみ、月次報告のみ。",
+      "lastRunAt": "2026-10-30T02:58:48.854Z",
       "candidateCount": 0,
-      "resultUpdateCount": 4,
+      "resultUpdateCount": 0,
       "sources": [
         "https://keiba.rakuten.co.jp/race_card/list/",
         "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610302433150401",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609022000000005",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609023600000006",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609071106050204",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609081106050306"
+        "https://uma-x.jp/nar/20261030"
       ]
     },
     "schemaVersion": 1,
