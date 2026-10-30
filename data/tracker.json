@@ -1532,18 +1532,20 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-30T05:58:24.250Z",
+      "lastSuccessfulWriteAt": "2026-10-30T07:03:00.424Z",
       "status": "ok",
-      "note": "2026-10-30（金）2026/10/30 14:58:24 JST。JRA開催なし。地方競馬は大井・金沢・名古屋・園田の4場（楽天競馬当日開催一覧およびJBISサーチ当日出馬表で照合）。既存競馬28件は全件決着済み、発走済み未確定0件、株9件を保持。名古屋・園田・大井など当日出馬表と開催情報を調査したが、判断時刻を特定できる直近オッズと独立した的中確率推定・馬体重等の照合が不十分で、EV100%以上と裏付けられる事前予想A候補0件。B追加0件、結果更新0件。結果判明後の事前予想登録なし。実際の購入なし。月次報告のみ。",
-      "lastRunAt": "2026-10-30T05:58:24.250Z",
+      "note": "2026-10-30（金）16:02 JST頃の定期検証。JRA本日開催なし（次回10/31）。地方は大井・金沢・名古屋・園田の4場を確認。既存競馬28件は結果確定済み、発走済み未確定0件、株9件を保持。大井5R雷鳥特別（16:40）、金沢9R（17:20）、園田11R兵庫クイーンカップ（20:00）などの出走情報・公開オッズを照合。園田11Rは地方競馬情報サイト13:58時点の単勝オッズを確認、大井5Rは楽天競馬13:27時点、金沢9Rは14:32時点の公開情報を確認。ただし16時時点の直近オッズ・取消/馬体重等と独立した信頼できる勝率推定が十分に揃わず、EV100%以上を根拠づけられる事前A候補0件。B追加0件、結果更新0件。結果判明後にAを作成せず。仮想購入のみ、月次報告のみ。",
+      "lastRunAt": "2026-10-30T07:03:00.424Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
+        "https://www.jra.go.jp/",
         "https://keiba.rakuten.co.jp/race_status/list/",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610302400000000",
-        "https://www.jbis.or.jp/race/20261030/227/10/",
-        "https://www.tokyocitykeiba.com/race/",
-        "https://www.jra.go.jp/keiba/calendar/index.html"
+        "https://uma-x.jp/nar/20261030",
+        "https://www.jbis.or.jp/race/20261030/220/05/",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610302015110505",
+        "https://keiba.rakuten.co.jp/odds/umatan/RACEID/202610302218130309",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=27&k_raceDate=2026%2F10%2F30&k_raceNo=11"
       ]
     },
     "schemaVersion": 1,
