@@ -1533,15 +1533,17 @@
     },
     "keiba": {
       "lastSuccessfulWriteAt": "2026-10-30T02:58:48.854Z",
-      "status": "ok",
-      "note": "2026-10-30（金）12時前JST。JRA開催なし、地方競馬は名古屋・金沢・園田・大井の4場。発走済み未確定記録0件。名古屋1R（12:15発走）の楽天競馬単勝オッズ・出走取消（6番グラスフェザー）を確認。観測時刻と独立した的中率の十分な裏付けが揃わず、推定EV100%以上の事前固定A候補0件、後付けB追加0件、結果更新0件。既存競馬28件・株9件とA/B区分は保持。仮想のみ、月次報告のみ。",
-      "lastRunAt": "2026-10-30T02:58:48.854Z",
+      "status": "pending_write_verification",
+      "note": "2026-10-30（金）12:55頃JST。JRA開催なし。地方競馬は大井・金沢・名古屋・園田の4場。既存の競馬28件はすべて結果・払戻記録あり、発走済み未確定0件。名古屋3R（13:25発走）の出馬表・近走・公開単勝オッズを確認したが、オッズ観測時刻・当日馬体重・独立した的中確率の十分な裏付けを確保できず、EV100%以上として確実に事前固定できるA候補0件。B追加0件、結果更新0件。既存競馬28件・株9件保持。仮想のみ。月次報告のみ。",
+      "lastRunAt": "2026-10-30T03:55:59.664Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610302433150401",
-        "https://uma-x.jp/nar/20261030"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=24&k_raceDate=2026%2F10%2F30&k_raceNo=3",
+        "https://nar.netkeiba.com/odds/index.html?race_id=202648103003&type=b0",
+        "https://www.nar.winkeiba.jp/race/card?DOR=20261030&RaceNum=03&RacetrackCd=48",
+        "https://uma-x.jp/nar/20261030",
+        "https://keiba.rakuten.co.jp/race_status/list/"
       ]
     },
     "schemaVersion": 1,
