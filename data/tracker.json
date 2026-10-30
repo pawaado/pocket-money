@@ -349,14 +349,16 @@
       ],
       "resultStatus": "不的中",
       "result": "2番ペイシャケリーが1着。6番ペイルムーンは5着で単勝不的中。",
-      "finalOdds": null,
-      "finalOddsStatus": "unverified_after_result_page_odds_snapshot_unreliable",
+      "finalOdds": 15.4,
+      "finalOddsStatus": "verified_final",
       "payoutPer100": 0,
       "virtualProfit": -100,
       "resultCheckedAt": "2026-09-02T19:01:18+09:00",
       "resultSource": "楽天競馬 2026-09-02 大井5R 競走成績・払戻金",
-      "postRaceAudit": "確定着順は5着、単勝払戻対象外。結果確認時の公開オッズページで敗戦馬の最終単勝オッズを信頼できる形で固定できなかったためfinalOddsは未検証のまま保持。",
-      "auditStatus": "pre_race_locked_result_added_final_odds_unverified"
+      "postRaceAudit": "確定着順は5着、単勝払戻対象外。結果確認時の公開オッズページで敗戦馬の最終単勝オッズを信頼できる形で固定できなかったためfinalOddsは未検証のまま保持。 2026-10-30 楽天競馬の当該レース単勝ページ「最終オッズ」で15.4倍を確認。事前予想値・評価オッズ・A/B区分・確定損益は変更せず。",
+      "auditStatus": "pre_race_locked_result_added_final_odds_verified",
+      "finalOddsSource": "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609022000000005",
+      "finalOddsVerifiedAt": "2026-10-30T02:03:50.901Z"
     },
     {
       "id": "keiba-A-2026-09-02-monbetsu-6-5-moufubuki-win",
@@ -395,14 +397,16 @@
       ],
       "resultStatus": "不的中",
       "result": "10番エクセレンウイナーが1着。5番モウフブキは2着で単勝不的中。",
-      "finalOdds": null,
-      "finalOddsStatus": "unverified_after_result_page_odds_snapshot_unreliable",
+      "finalOdds": 5,
+      "finalOddsStatus": "verified_final",
       "payoutPer100": 0,
       "virtualProfit": -100,
       "resultCheckedAt": "2026-09-02T19:01:18+09:00",
       "resultSource": "楽天競馬 2026-09-02 門別6R 競走成績・払戻金",
-      "postRaceAudit": "確定着順は2着、単勝払戻対象外。結果確認後の公開オッズ比較ページが異常な同率値を示しており、最終単勝オッズとして採用できないためfinalOddsは未検証。",
-      "auditStatus": "pre_race_locked_result_added_final_odds_unverified"
+      "postRaceAudit": "確定着順は2着、単勝払戻対象外。結果確認後の公開オッズ比較ページが異常な同率値を示しており、最終単勝オッズとして採用できないためfinalOddsは未検証。 2026-10-30 楽天競馬の当該レース単勝ページ「最終オッズ」で5.0倍を確認。事前予想値・評価オッズ・A/B区分・確定損益は変更せず。",
+      "auditStatus": "pre_race_locked_result_added_final_odds_verified",
+      "finalOddsSource": "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609023600000006",
+      "finalOddsVerifiedAt": "2026-10-30T02:03:50.901Z"
     },
     {
       "id": "keiba-A-2026-09-02-monbetsu-10-6-wintolkien-win",
@@ -726,16 +730,18 @@
       ],
       "resultStatus": "不的中",
       "result": "9番シャトーボビーが1着。2番エールヴァーゲは6着で単勝不的中。",
-      "finalOdds": null,
-      "finalOddsStatus": "未検証",
+      "finalOdds": 14.3,
+      "finalOddsStatus": "verified_final",
       "lastVerifiedOdds": 17.8,
       "lastVerifiedOddsAt": "2026-09-07T11:47:00+09:00",
       "payoutPer100": 0,
       "virtualProfit": -100,
       "resultCheckedAt": "2026-09-07T19:58:35+09:00",
       "resultSource": "楽天競馬 2026-09-07 水沢4R 競走成績・払戻金",
-      "postRaceAudit": "確定着順は6着で単勝不的中。1着は9番シャトーボビー、単勝払戻280円。公開結果ページでは敗戦馬2番の最終単勝オッズを確実に固定できなかったためfinalOddsは未検証。事前固定値は改変せず、結果のみ追記。",
-      "auditStatus": "pre_race_locked_result_added_final_odds_unverified"
+      "postRaceAudit": "確定着順は6着で単勝不的中。1着は9番シャトーボビー、単勝払戻280円。公開結果ページでは敗戦馬2番の最終単勝オッズを確実に固定できなかったためfinalOddsは未検証。事前固定値は改変せず、結果のみ追記。 2026-10-30 楽天競馬の当該レース単勝ページ「最終オッズ」で14.3倍を確認。事前予想値・評価オッズ・A/B区分・確定損益は変更せず。",
+      "auditStatus": "pre_race_locked_result_added_final_odds_verified",
+      "finalOddsSource": "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609071106050204",
+      "finalOddsVerifiedAt": "2026-10-30T02:03:50.901Z"
     },
     {
       "id": "keiba-A-2026-09-08-mizusawa-6-8-nazduravi-win",
@@ -776,14 +782,16 @@
       ],
       "resultStatus": "不的中",
       "result": "1番ラペイエが1着。8番ナズドゥラヴィは4着で単勝不的中。",
-      "finalOdds": null,
-      "finalOddsStatus": "未検証",
+      "finalOdds": 6.1,
+      "finalOddsStatus": "verified_final",
       "payoutPer100": 0,
       "virtualProfit": -100,
       "resultCheckedAt": "2026-09-09T16:00:43+09:00",
       "resultSource": "楽天競馬 2026-09-08 水沢6R 競走成績・払戻金",
-      "postRaceAudit": "確定着順は4着で単勝不的中。1着は1番ラペイエ、単勝払戻1,220円。当日確定馬体重は463kg（+4kg）で、事前bodyWeightInfoの472kgは公開表示の別欄を誤読した可能性があるため事前ロック値は改変せず監査注記。敗戦馬8番の最終単勝オッズは信頼できる確定値を固定できなかったため未検証。",
-      "auditStatus": "pre_race_locked_result_added_final_odds_unverified"
+      "postRaceAudit": "確定着順は4着で単勝不的中。1着は1番ラペイエ、単勝払戻1,220円。当日確定馬体重は463kg（+4kg）で、事前bodyWeightInfoの472kgは公開表示の別欄を誤読した可能性があるため事前ロック値は改変せず監査注記。敗戦馬8番の最終単勝オッズは信頼できる確定値を固定できなかったため未検証。 2026-10-30 楽天競馬の当該レース単勝ページ「最終オッズ」で6.1倍を確認。事前予想値・評価オッズ・A/B区分・確定損益は変更せず。",
+      "auditStatus": "pre_race_locked_result_added_final_odds_verified",
+      "finalOddsSource": "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609081106050306",
+      "finalOddsVerifiedAt": "2026-10-30T02:03:50.901Z"
     },
     {
       "id": "keiba-A-2026-09-09-kawasaki-11-13-kramskoi-win",
@@ -1524,17 +1532,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-30T01:04:05.222Z",
+      "lastSuccessfulWriteAt": "2026-10-30T02:03:50.901Z",
       "status": "ok",
-      "note": "2026-10-30（金）10時台JST。GitHub競馬28件・株9件を照合。結果未確定0件。過去Aの最終単勝オッズ2件を確定結果・最終オッズ表示から補完（9/26阪神6R 11番5.2倍、9/29門別7R 10番1.4倍）。事前固定の予想値・評価オッズ・A/B区分は維持。JRA金曜開催なし。地方は名古屋（1R12:15）、金沢（1R12:25）、園田（1R14:20）、大井（1R14:30）の4場。10時台は最新実オッズと独立的中確率を同時に十分検証できずEV100%以上のA候補0件、B追加0件。仮想のみ、月次報告のみ。",
-      "lastRunAt": "2026-10-30T01:04:05.222Z",
+      "note": "2026-10-30（金）11時台JST。JRA開催なし、地方は名古屋・金沢・園田・大井の4場。既存競馬28件・株9件保持、発走済み未確定結果0件。9/2大井5R 6番ペイルムーン15.4倍、9/2門別6R 5番モウフブキ5.0倍、9/7水沢4R 2番エールヴァーゲ14.3倍、9/8水沢6R 8番ナズドゥラヴィ6.1倍の最終単勝オッズを楽天競馬の「最終オッズ」で検証し既存Aの同一IDに補完。事前固定値・確定損益は変更せず。名古屋1R 10:54時点オッズ・取消・稍重を確認したが、独立勝率推定の十分な裏付けなくEV100%以上のA候補0件、B追加0件。仮想のみ。ユーザー報告は月次のみ。",
+      "lastRunAt": "2026-10-30T02:03:50.901Z",
       "candidateCount": 0,
-      "resultUpdateCount": 2,
+      "resultUpdateCount": 4,
       "sources": [
         "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://uma-x.jp/nar/20261030",
-        "https://keiba.money-plan.net/race/20260926I06/",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609293600000007"
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610302433150401",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609022000000005",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609023600000006",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609071106050204",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609081106050306"
       ]
     },
     "schemaVersion": 1,
