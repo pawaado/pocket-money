@@ -1516,19 +1516,19 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-10-29T06:58:24.060Z",
-      "lastSuccessfulWriteAt": "2026-10-29T06:58:24.060Z",
+      "lastRunAt": "2026-10-30T07:04:37.521Z",
+      "lastSuccessfulWriteAt": "2026-10-30T07:04:37.521Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-10-29（木）東証通常営業（JPXカレンダー確認）。A保有中0件、終値更新・決済対象なし。業種横断で流動性・材料を調査：半導体・電子部品（キオクシア285A、アドバンテスト6857、イビデン4062、ルネサス6723、太陽誘電6976、東京エレクトロン8035、ソフトバンクG9984）、銀行・保険（三菱UFJ8306、みずほ8411、三井住友8316、東京海上8766）、通信・自動車・商社（KDDI9433、トヨタ7203、伊藤忠8001、三菱商事8058）、その他（ベイカレント6532、SHIFT3697、リソー教育G4714）。日経平均10/29終値64261.19円（+307.00円）。10/29・30は決算集中日。イベントギャップ、値動きの大きさ、個別確定終値と支持線・損切水準・リスクリワードの検証不足を考慮し新規A0件。未確認値を捏造せず。既存株9件・競馬28件とA/B区分維持。実売買なし。月次報告のみ。",
+      "note": "2026-10-30（金）東証通常営業（JPX公式2026年休業日一覧に非該当）。A保有0件、終値更新・仮想決済対象なし。10/30日経平均終値63,290.11円（前日比-1,369.36円、-2.12%）、TOPIX終値3,965.07（-38.21、-0.95%）。半導体・電子部品（アドバンテスト6857、東京エレクトロン8035、イビデン4062、ソフトバンクG9984）など急落、内需・ゲーム（コナミG9766、バンナムHD7832、ファストリ9983）は逆行高。金融・自動車・商社・通信なども市場横断で検討したが、決算集中・日銀会合・週末ギャップリスク、個別銘柄の支持線・損切・目標とリスクリワードの定量裏付け不足により新規A0件。未確認の個別終値・約定価格を創作しない。既存株9件・競馬28件、A/B区分保持。仮想売買のみ。月次報告のみ。",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/",
-        "https://stocks.monex.co.jp/JP%3A%24MNK/historical",
-        "https://www.traders.co.jp/market_jp/stock_ranking/price_up/month/tp/all",
-        "https://www.traders.co.jp/market_jp/stock_ranking/trading_value/month/tp/all",
-        "https://finance.matsui.co.jp/find-by-schedule/index",
-        "https://ufocatch.com/calendar/2026-10-29"
+        "https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html",
+        "https://finance.yahoo.co.jp/quote/998407.O/forum",
+        "https://finance.yahoo.co.jp/quote/998405.T/forum",
+        "https://finance.yahoo.co.jp/quote/8035.T/news",
+        "https://minkabu.jp/news/4646444",
+        "https://s.kabutan.jp/news/n202610300512/"
       ]
     },
     "keiba": {
