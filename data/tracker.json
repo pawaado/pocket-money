@@ -1518,18 +1518,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-29T10:57:45.243Z",
+      "lastSuccessfulWriteAt": "2026-10-30T00:01:50.074Z",
       "status": "ok",
-      "note": "2026-10-29（木）19:57以降JST。既存競馬28件・株9件を全件読み込み、発走済み未確定0件。JRA本日開催なし、地方は園田・名古屋・大井・門別。大井11Rイヴニングスター賞20:10、大井12Rアンドロメダ賞20:50、門別11Rエーデルワイス賞19:55などを確認。大井11Rは公式13:14時点のオッズとnetkeibaの無時刻表示、大井12Rはnetkeibaの無時刻表示、門別11Rは18:55時点のオッズを参照。判断時点で最新時刻を保証できるオッズと独立した的中率推定が揃わないため事前Aは登録なし。B追加なし、結果更新なし。全既存A/B・株データ不変。実金購入なし。利用者向け通知なし、月次まとめのみ。",
-      "lastRunAt": "2026-10-29T10:57:45.243Z",
+      "note": "2026-10-30（金）09時台JST。GitHub tracker.json の競馬28件・株9件を全件取得。既存の仮想購入記録は全件結果確定済み（未確定0件）。JRAは金曜開催なし。地方は金沢・名古屋・園田・大井の4場を開催予定として出馬時刻を確認（名古屋1R 12:15、金沢1R 12:25、園田1R 14:20、大井1R 14:30）。09時台の時点では発走前の観測時刻が確認できる直近オッズと独立した的中率推定の組合せを検証できないため、EV100%以上のA新規0件。B追加0件、結果更新0件。既存A/B区分・株データを変更せず。実金購入なし。ユーザー通知なし、月次まとめのみ。",
+      "lastRunAt": "2026-10-30T00:01:50.074Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/OddsTanFuku_ipat?k_babaCode=20&k_raceDate=2026%2F10%2F29&k_raceNo=11",
-        "https://nar.sp.netkeiba.com/odds/index.html?race_id=202644102911",
-        "https://nar.netkeiba.com/odds/index.html?race_id=202644102912&type=b0",
-        "https://www.nankankeiba.com/odds_nin/202610293615031108.do",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610292015110411"
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103020",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103022",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103024",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103027",
+        "https://uma-x.jp/nar/20261030",
+        "https://www.kanazawakeiba.com/"
       ]
     },
     "schemaVersion": 1,
