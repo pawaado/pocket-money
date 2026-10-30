@@ -1157,13 +1157,16 @@
       ],
       "resultStatus": "不的中",
       "result": "13番ミランドが1着。11番ブリオメンテは単勝不的中。",
-      "finalOdds": null,
+      "finalOdds": 5.2,
       "payoutPer100": 0,
       "virtualProfit": -100,
       "auditStatus": "pre_race_locked_result_added_final_odds_unverified",
-      "finalOddsStatus": "未確認",
+      "finalOddsStatus": "verified_final",
       "resultCheckedAt": "2026-09-27T10:02:23+09:00",
-      "resultSource": "スポーツナビ 2026-09-26 阪神6R 競走結果・払戻"
+      "resultSource": "スポーツナビ 2026-09-26 阪神6R 競走結果・払戻",
+      "finalOddsSource": "https://keiba.money-plan.net/race/20260926I06/",
+      "finalOddsVerifiedAt": "2026-10-30T01:04:05.222Z",
+      "postRaceAudit": "2026-10-30、過去レースの確定結果表で単勝最終オッズ5.2倍（3番人気）を検証。事前評価オッズ5.5倍・予想値は変更せず。"
     },
     {
       "id": "keiba-A-2026-09-29-monbetsu-7-10-mechanicballet-win",
@@ -1202,13 +1205,16 @@
       ],
       "resultStatus": "不的中",
       "result": "9番イズントイットが1着。10番メカニックバレエは2着で単勝不的中。",
-      "finalOdds": null,
+      "finalOdds": 1.4,
       "payoutPer100": 0,
       "virtualProfit": -100,
       "auditStatus": "pre_race_locked_result_added_final_odds_unverified",
-      "finalOddsStatus": "未確認",
+      "finalOddsStatus": "verified_final",
       "resultCheckedAt": "2026-09-29T17:58:37+09:00",
-      "resultSource": "楽天競馬 2026-09-29 門別7R 競走成績・払戻金"
+      "resultSource": "楽天競馬 2026-09-29 門別7R 競走成績・払戻金",
+      "finalOddsSource": "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609293600000007",
+      "finalOddsVerifiedAt": "2026-10-30T01:04:05.222Z",
+      "postRaceAudit": "2026-10-30、楽天競馬の「最終オッズ」表示で単勝1.4倍（1番人気）を検証。事前評価オッズ4.0倍・予想値は変更せず。"
     }
   ],
   "stockRecords": [
@@ -1518,19 +1524,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-30T00:01:50.074Z",
+      "lastSuccessfulWriteAt": "2026-10-30T01:04:05.222Z",
       "status": "ok",
-      "note": "2026-10-30（金）09時台JST。GitHub tracker.json の競馬28件・株9件を全件取得。既存の仮想購入記録は全件結果確定済み（未確定0件）。JRAは金曜開催なし。地方は金沢・名古屋・園田・大井の4場を開催予定として出馬時刻を確認（名古屋1R 12:15、金沢1R 12:25、園田1R 14:20、大井1R 14:30）。09時台の時点では発走前の観測時刻が確認できる直近オッズと独立した的中率推定の組合せを検証できないため、EV100%以上のA新規0件。B追加0件、結果更新0件。既存A/B区分・株データを変更せず。実金購入なし。ユーザー通知なし、月次まとめのみ。",
-      "lastRunAt": "2026-10-30T00:01:50.074Z",
+      "note": "2026-10-30（金）10時台JST。GitHub競馬28件・株9件を照合。結果未確定0件。過去Aの最終単勝オッズ2件を確定結果・最終オッズ表示から補完（9/26阪神6R 11番5.2倍、9/29門別7R 10番1.4倍）。事前固定の予想値・評価オッズ・A/B区分は維持。JRA金曜開催なし。地方は名古屋（1R12:15）、金沢（1R12:25）、園田（1R14:20）、大井（1R14:30）の4場。10時台は最新実オッズと独立的中確率を同時に十分検証できずEV100%以上のA候補0件、B追加0件。仮想のみ、月次報告のみ。",
+      "lastRunAt": "2026-10-30T01:04:05.222Z",
       "candidateCount": 0,
-      "resultUpdateCount": 0,
+      "resultUpdateCount": 2,
       "sources": [
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103020",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103022",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103024",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103027",
+        "https://keiba.rakuten.co.jp/race_card/list/",
         "https://uma-x.jp/nar/20261030",
-        "https://www.kanazawakeiba.com/"
+        "https://keiba.money-plan.net/race/20260926I06/",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202609293600000007"
       ]
     },
     "schemaVersion": 1,
