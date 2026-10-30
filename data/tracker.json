@@ -1532,18 +1532,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-30T09:58:07.398Z",
+      "lastSuccessfulWriteAt": "2026-10-30T10:58:17.932Z",
       "status": "ok",
-      "note": "2026-10-30（金）19時前後JSTの定期検証。GitHubの既存競馬28件は全件結果確定済み、発走済み未確定0件。既存株9件も保持。JRA本日開催なし、地方は大井・金沢・名古屋・園田の4場。大井11R（20:10）18:54時点の単勝オッズ（ペルセイズ3.9倍等）、園田11R兵庫クイーンカップ（20:00）18:41時点単勝オッズ（ヴィーリヤ3.0倍、シンリンゲンカイ4.3倍等）と12番競走除外、当日出馬表・馬場情報を確認。オッズと独立した的中率推定を十分に検証できずEV100%以上と認定できる事前A候補なし。A新規0件、B追加0件、結果更新0件。A/B既存記録を維持、実際の購入なし。月次報告のみ。",
-      "lastRunAt": "2026-10-30T09:58:07.398Z",
+      "note": "2026-10-30（金）19:58頃JSTの検証。tracker.jsonの既存競馬28件は全件結果確定済みで発走済み未確定0件、株9件も保持。JRA本日開催なし。地方は大井・金沢・名古屋・園田の4場。大井12R錦秋特別（20:50発走、ダ1200m、曇・良）の19:41時点単勝オッズを確認（ライペニング3.4倍、メイショウアキカゼ4.6倍、エーデルリッター6.1倍）。園田12R（20:40発走）の出走馬と近走を確認。ただし当日馬体重・調教・直前取消情報、独立した的中率推定の検証が不十分でEV100%以上を客観的に認定できず事前A0件。B追加0件、結果更新0件。既存A/B・株・競馬全件保持、実際の購入なし。月次報告のみ。",
+      "lastRunAt": "2026-10-30T10:58:17.932Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=20&k_raceDate=2026/10/30&k_raceNo=1",
-        "https://keiba.rakuten.co.jp/race_status/list/",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610302015110511",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610302726170311",
-        "https://www.jra.go.jp/news/202607/072601.html"
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610302015110512",
+        "https://www.jbis.or.jp/race/20261030/227/12/",
+        "https://www.jra.go.jp/keiba/calendar2026/2026/10/1031.html"
       ]
     },
     "schemaVersion": 1,
