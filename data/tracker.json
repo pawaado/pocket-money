@@ -1534,18 +1534,16 @@
     "keiba": {
       "lastSuccessfulWriteAt": "2026-10-31T03:59:55.506Z",
       "status": "ok",
-      "note": "2026-10-31（土）12:59 JST。既存競馬28件（的中2・不的中25・除外返還1）はすべて結果確定、結果更新0件。既存株9件とA/B区分を保持。JRA東京・京都、地方帯広ば・高知・佐賀を確認。東京8R13:45、京都8R14:00、東京10R14:55、高知1R15:00などの出走情報・公開オッズを調査。東京10Rのオッズは06:58、高知1Rは10:04時点で直近と判断できず、東京8R・京都8Rも観測時刻付き直近オッズと独立した勝率推定を十分に確保できないため、EV100%以上の事前予想Aは0件。B追加0件。仮想売買のみ。月次報告のみ。",
-      "lastRunAt": "2026-10-31T03:59:55.506Z",
+      "note": "2026-10-31（土）14時台JST。既存競馬28件（的中2・不的中25・除外返還1）は全件確定済み、結果更新0件。既存株9件とA/B区分を保持。JRA東京・京都、地方帯広ば・高知・佐賀の開催を確認。東京9R14:20、京都9R14:35、東京10R14:55、京都10R15:10等を調査。京都9RはJRA公式で13:54現在の単勝オッズと馬体重・近走を確認したが、独立した的中確率モデルの較正・優位性の裏付けが十分でなくEV100%以上の事前予想Aは確証できず新規0件。B追加0件。仮想購入のみ。利用者への定期報告は月次のみ。",
+      "lastRunAt": "2026-10-31T05:01:29.127Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/keiba/calendar2026/2026/10/1031.html",
         "https://www.keibalab.jp/db/race/",
-        "https://www.keibalab.jp/db/race/202610310510/odds.html",
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610313129090501",
-        "https://sports.yahoo.co.jp/keiba/race/list/26050410",
-        "https://sports.yahoo.co.jp/keiba/race/list/26080410"
+        "https://jra.jp/JRADB/accessD.html?CNAME=pw01dde0108202604100920261031/FA",
+        "https://www.uma5.com/race/20261031/0809/",
+        "https://keiba.rakuten.co.jp/race_card/list/"
       ]
     },
     "schemaVersion": 1,
