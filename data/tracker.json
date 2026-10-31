@@ -1532,19 +1532,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-31T06:05:34.542Z",
+      "lastSuccessfulWriteAt": "2026-10-31T06:58:19.420Z",
       "status": "ok",
-      "note": "2026-10-31（土）15時台JST。既存競馬28件（全件結果確定済み）、株9件を維持し、結果更新0件。JRA東京・京都、地方帯広ば・高知・佐賀開催。京都11RファンタジーS（15:45）について15:01更新の単勝オッズ、馬場状態、近走指数を照合。例えばブライトスクリプト2.4倍、イモージェン4.7倍、ビスケットサンド6.9倍。ただし独立した勝率推定の較正・馬場変動を含む優位性の定量根拠が不足するため、EV100%以上と判定できる事前予想Aは0件。B追加0件。後付けをAへ混同せず、既存記録は無変更。仮想購入のみ。報告は月次のみ。",
-      "lastRunAt": "2026-10-31T06:05:34.542Z",
+      "note": "2026-10-31（土）15:56〜15:59 JST。既存競馬28件は全件確定（不的中25、的中2、除外返還1）で結果追記対象0件。既存株9件も保持。JRA東京・京都、地方帯広ば・高知・佐賀の開催を公式日程で確認。東京12R（16:15）単勝中間オッズ15:47更新：ラヴェニュー1.7倍、オルグジェシダ4.1倍、アメテュストス9.9倍等。出馬表15:39更新、馬体重・馬場も確認。高知4R（16:40）単勝オッズは15:07時点で直前情報として不十分。近走・展開・調教・オッズを独立に較正した的中確率推定が揃わず、EV100%以上を根拠付きで確認できる事前A候補0件。後付けB追加0件。結果判明後の情報を事前Aへ混入させない。仮想購入のみ。月次報告のみ。",
+      "lastRunAt": "2026-10-31T06:58:19.420Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/keiba/calendar2026/2026/10/1031.html",
-        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2608041011",
-        "https://fukuuma.net/fantasy-stakes2026t/",
-        "https://www.keibalab.jp/db/race/",
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://www.jbis.or.jp/race/calendar/20261031/231/"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2605041012",
+        "https://sports.yahoo.co.jp/keiba/race/denma/2605041012",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=31&k_raceDate=2026%2F10%2F31&k_raceNo=4"
       ]
     },
     "schemaVersion": 1,
