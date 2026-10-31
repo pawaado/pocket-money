@@ -1532,19 +1532,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-30T23:57:59.771Z",
+      "lastSuccessfulWriteAt": "2026-10-31T01:00:35.599Z",
       "status": "ok",
-      "note": "2026-10-31（土）08:57頃JSTの事前検証。GitHub既存競馬28件は全件結果確定済みで発走済み未確定0件、株9件も保持。JRA本日開催は東京・京都の2場（東京1R09:50、京都1R10:05開始）。地方は帯広ば・高知・佐賀の3場（1R各14:45、15:00、14:50開始）。京都11RファンタジーSの中間単勝オッズ（ブライトスクリプト2.5倍、イモージェン5.5倍等）と出走情報、東京1R出馬表を確認。ただしオッズの正確な観測時刻、当日馬体重・調教・取消情報、独立した勝率推定の根拠が揃わず、EV100%以上を合理的に固定できるA候補なし。B追加0件、結果更新0件。既存A/B区分・競馬28件・株9件全件保持。実際の購入なし。報告は毎月1日19時の月次まとめのみ。",
-      "lastRunAt": "2026-10-30T23:57:59.771Z",
+      "note": "2026-10-31（土）午前10時台JST。既存競馬28件の発走済み未確定0件、株9件保持。JRA東京・京都開催、地方は帯広ば・高知・佐賀開催を公開情報で確認。東京1Rは09:50発走済み、東京2R10:20・京都2R10:35以降が対象。京都11RファンタジーS15:45、東京11RペルセウスS15:30などの出馬表と中間オッズを確認。ただし中間オッズの厳密な観測時刻と独立した勝率推定・馬体重/取消変更の網羅的照合が不足し、EV100%以上のAを根拠を持って固定できず新規0件。B追加0件、結果更新0件。既存競馬・株記録は無変更。実際の購入なし。月次報告のみ。",
+      "lastRunAt": "2026-10-31T01:00:35.599Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/keiba/calendar2026/2026/10/1031.html",
-        "https://www.jra.go.jp/",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/race_status/list/",
-        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2608041011",
-        "https://www.jbis.or.jp/race/20261031/105/01/"
+        "https://jra.jp/keiba/calendar2026/2026/10/1031.html",
+        "https://sports.yahoo.co.jp/keiba/race/list/26050410",
+        "https://sports.yahoo.co.jp/keiba/race/list/26080410",
+        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://www.jbis.or.jp/race/20261031/108/11/",
+        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2608041010"
       ]
     },
     "schemaVersion": 1,
