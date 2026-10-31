@@ -1532,18 +1532,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-31T06:58:19.420Z",
+      "lastSuccessfulWriteAt": "2026-10-31T08:01:56.540Z",
       "status": "ok",
-      "note": "2026-10-31（土）15:56〜15:59 JST。既存競馬28件は全件確定（不的中25、的中2、除外返還1）で結果追記対象0件。既存株9件も保持。JRA東京・京都、地方帯広ば・高知・佐賀の開催を公式日程で確認。東京12R（16:15）単勝中間オッズ15:47更新：ラヴェニュー1.7倍、オルグジェシダ4.1倍、アメテュストス9.9倍等。出馬表15:39更新、馬体重・馬場も確認。高知4R（16:40）単勝オッズは15:07時点で直前情報として不十分。近走・展開・調教・オッズを独立に較正した的中確率推定が揃わず、EV100%以上を根拠付きで確認できる事前A候補0件。後付けB追加0件。結果判明後の情報を事前Aへ混入させない。仮想購入のみ。月次報告のみ。",
-      "lastRunAt": "2026-10-31T06:58:19.420Z",
+      "note": "2026-10-31（土）17時台 JST。既存競馬28件の結果は全件確定済み、結果更新0件。既存株9件保持。JRA東京・京都は最終発走済み。地方は帯広ば・高知・佐賀の開催を確認。高知5R（17:15）単勝16:35時点：スマラグドス2.8倍、インユアアイズ3.3倍、ツマヤ6.2倍。帯広6R（17:25）単勝16:45時点：ヒノクニキングオー3.4倍、ガッツデー4.3倍、キョウエイブラック5.5倍。帯広7R（17:55）単勝16:49時点：ツガルタカラフジ2.1倍、ジェイマーサ3.7倍、トモコ4.3倍。直近オッズを確認したが、近走・馬場・調教・展開等を独立に較正した的中率の定量根拠が揃わずEV100%以上の事前A新規0件。後付けB追加0件。結果判明後の情報をAへ混入しない。仮想購入のみ。月次報告のみ。",
+      "lastRunAt": "2026-10-31T08:01:56.540Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/keiba/calendar2026/2026/10/1031.html",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2605041012",
-        "https://sports.yahoo.co.jp/keiba/race/denma/2605041012",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=31&k_raceDate=2026%2F10%2F31&k_raceNo=4"
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_RaceList?k_babaCode=31&k_raceDate=2026%2F10%2F31",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=31&k_raceDate=2026%2F10%2F31&k_raceNo=5",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=3&k_raceDate=2026%2F10%2F31&k_raceNo=6",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=3&k_raceDate=2026%2F10%2F31&k_raceNo=7",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610313230120400"
       ]
     },
     "schemaVersion": 1,
