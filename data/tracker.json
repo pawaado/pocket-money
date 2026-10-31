@@ -1532,18 +1532,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-10-31T09:58:41.395Z",
+      "lastSuccessfulWriteAt": "2026-10-31T10:58:14.854Z",
       "status": "ok",
-      "note": "2026-10-31（土）18:58頃JST。既存競馬28件（的中・不的中・除外返還）全件結果確定済み、更新0件。株9件保持。JRA東京・京都は終了、地方の高知・佐賀・帯広ばで夜間競走。高知9R（19:15）、10R（19:45）、佐賀9R（19:05）、10R（19:35）等の出馬表・発走時刻を確認。観測時刻が検証可能な直近実オッズと独立に較正した的中率推定が揃わないため、推定EV100%以上の事前A新規0件。後付けB新規0件。結果判明後の数値を事前オッズ・事前確率に流用しない。実際の購入なし。月次報告のみ。",
-      "lastRunAt": "2026-10-31T09:58:41.395Z",
+      "note": "2026-10-31（土）19:58頃JST。既存競馬28件（不的中25・的中2・除外返還1）は全件結果確定済み、結果更新0件。株9件を保持。JRA東京・京都は終了。地方高知11R20:20・12R20:50、佐賀11R20:10・12R20:40を確認。高知11Rの公式18:36時点単勝オッズ、佐賀12Rの16:37時点単勝オッズを照合したが、分析時点に十分近い直近オッズと独立に較正した勝率推定が揃わないためEV100%以上を裏付けるA候補0件。B新規0件。事前オッズと事後結果は混同せず、実際の購入なし。月次報告のみ。",
+      "lastRunAt": "2026-10-31T10:58:14.854Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/keiba/calendar2026/2026/10/1031.html",
         "https://www.jbis.or.jp/race/calendar/20261031/231/",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610313129090500",
         "https://keiba.rakuten.co.jp/race_card/list/RACEID/202610313230120400",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026103132"
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610313129090511",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=31&k_raceDate=2026%2F10%2F31&k_raceNo=11",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202610313230120412"
       ]
     },
     "schemaVersion": 1,
