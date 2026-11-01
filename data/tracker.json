@@ -1532,18 +1532,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-01T08:57:30.986Z",
+      "lastSuccessfulWriteAt": "2026-11-01T10:02:10.173Z",
       "status": "ok",
-      "note": "2026-11-01 17:57頃（日本時間）競馬EV検証。既存競馬28件すべて結果確定済み、株9件保持。JRA東京・京都と地方帯広ば・盛岡・高知・佐賀の開催を確認。今後発走の佐賀7R九州大賞典18:05（12番ブリッグオドーン競走除外、晴・稍重）と高知7R18:10以降、佐賀8R18:40以降の開催を照合。佐賀7R出馬表の単勝表示ではコスモジンバック3.3倍、フォードテソーロ4.1倍などを確認したが、直近の正確なオッズ観測時刻と独立較正済みの勝率推定を揃えられず、EV100%以上と信頼して事前固定できるA候補なし。B追加0件、結果更新0件。推測による買い目・的中確率・最終オッズは記録せず。既存のA/Bおよび株データを保持。実際の購入なし。月次報告のみ。",
-      "lastRunAt": "2026-11-01T08:57:30.986Z",
+      "note": "2026-11-01 19時台（日本時間）の競馬EV検証。既存競馬28件は全件結果確定済み（的中2・不的中25・除外返還1）、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の開催を確認。高知9R（19:20、晴・重）で楽天競馬18:56時点の単勝を照合し、12番ライゾマティクス1.9倍・1番人気、9番イルヴェント4.1倍・2番人気などを確認。高知10R以降・佐賀9R以降も発走予定を確認。ただし公開AIの勝率表示は同一レース内の合計が100%を超え、独立較正済みの勝率とみなせない。十分な独立勝率推定・調教検証がなく、EV100%以上のA候補は確証できず登録0件。B追加0件、結果更新0件。推測の買い目・オッズ・勝率は記録せず。既存A/B・株全件を保持。仮想購入のみ、月次報告のみ。",
+      "lastRunAt": "2026-11-01T10:02:10.173Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://jra.jp/keiba/calendar2026/2026/11/1101.html",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611013230120507",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611013230120508",
         "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611013129090600",
-        "https://uma-x.jp/nar"
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611013129090609",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611013230120500",
+        "https://nar-keiba-ai-web.pages.dev/race/2026/11/01/kochi/",
+        "https://jra.jp/keiba/calendar2026/2026/11/1101.html"
       ]
     },
     "schemaVersion": 1,
