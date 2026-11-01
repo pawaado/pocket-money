@@ -1532,18 +1532,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-01T07:00:55.427Z",
+      "lastSuccessfulWriteAt": "2026-11-01T07:59:32.407Z",
       "status": "ok",
-      "note": "2026-11-01（日）日本時間16:00台の競馬EV確認。既存競馬28件は全件結果確定、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の開催を確認。東京12R清里特別（16:25）の出馬表・中間オッズ、盛岡9R（16:30）の15:37時点単勝オッズ（1番人気2番リケアサブル2.3倍、2番人気5番タイセイフェスタ4.5倍）を照合。独立した勝率推定・直前オッズの較正が十分でないため推定EV100%以上を根拠付きで事前固定できる候補なし。A候補0件、B追加0件、結果更新0件。既存全レコードとA/B区分を保持。仮想のみ、月次報告のみ。",
-      "lastRunAt": "2026-11-01T07:00:55.427Z",
+      "note": "2026/11/01 16:59（日本時間）の競馬EV検証。GitHub既存競馬28件は結果確定済み、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の11月1日開催を照合。高知6R土佐秋月賞（17:40）の16:52時点単勝オッズ・馬体重・7番騎手変更（岡村卓弥→上田将司）を確認。7番カツテナイオイシサ1.7倍、3番トサノシュジンコウ5.3倍、5番モズガネシア7.7倍。独立した的中確率の較正、直前オッズと調教・展開の定量裏付けが不十分で、推定EV100%以上の事前予想Aは固定せず。B追加0件、A候補0件、結果更新0件。既存全レコードとA/B区分を維持。仮想のみ、月次報告のみ。",
+      "lastRunAt": "2026-11-01T07:59:32.407Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://jra.jp/keiba/calendar2026/2026/11/1101.html",
         "https://www.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://sports.yahoo.co.jp/keiba/race/odds/st/2605041112?ninki=0",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611011006100109",
-        "https://keiba.rakuten.co.jp/race_card/list/"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611013129090600",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611013129090606"
       ]
     },
     "schemaVersion": 1,
