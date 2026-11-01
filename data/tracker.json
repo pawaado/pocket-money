@@ -1532,18 +1532,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-01T03:00:17.396Z",
+      "lastSuccessfulWriteAt": "2026-11-01T03:57:07.642Z",
       "status": "ok",
-      "note": "2026-11-01（日）12時頃（日本時間）。既存競馬28件（不的中25・的中2・除外返還1）は全件結果確定で結果更新0件、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の開催を公式・出馬表で確認。東京6R（12:50）、京都7R（13:05）、盛岡2R（12:25）など発走前の情報を調査。東京6Rの公開単勝オッズ、京都7RのJRA公開単勝オッズを確認したが、オッズ観測時刻と較正済みの独立的中確率推定を十分に固定できず、推定EV100%以上のA新規0件、B新規0件。未検証値を創作しない。仮想のみ。報告は毎月1日19時の月次まとめのみ。",
-      "lastRunAt": "2026-11-01T03:00:17.396Z",
+      "note": "2026-11-01（日）日本時間13時頃。既存競馬28件は全件結果確定（不的中25・的中2・除外返還1）、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の開催を確認。東京7R（13:20、ダ1600m）と京都8R（13:35、芝2200m）を中心にJRA公式出馬表・公開単勝オッズ・近走成績、地方の当日開催・発走時刻を調査した。公表オッズの厳密な観測時刻と独立して較正した的中確率が十分に確定できず、推定EV100%以上と裏付けられるA候補は0件。B追加0件、結果更新0件。未検証の勝率・オッズを創作しない。仮想のみ。ユーザー報告は毎月1日19時の月次まとめのみ。",
+      "lastRunAt": "2026-11-01T03:57:07.642Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://sp.jra.jp/JRADB/accessD.html?CNAME=sw01dde0108202604110720261101%2FFD",
-        "https://www.horse-ticket-school.com/races/2868",
+        "https://own.jra.jp/JRADB/accessD.html?CNAME=pw01dde0105202604110720261101%2F92",
+        "https://www.jra.go.jp/JRADB/accessD.html?CNAME=pw01dde0108202604110820261101%2F25",
         "https://www.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611011006100100"
+        "https://keiba.rakuten.co.jp/race_card/list/"
       ]
     },
     "schemaVersion": 1,
