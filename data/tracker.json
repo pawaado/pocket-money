@@ -1532,18 +1532,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-01T05:04:07.747Z",
+      "lastSuccessfulWriteAt": "2026-11-01T05:57:43.959Z",
       "status": "ok",
-      "note": "2026-11-01（日）日本時間14時台。既存競馬28件は全件結果確定（不的中25・的中2・除外返還1）、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の開催を再確認。JRA京都9R愛宕特別（14:10）・京都10R古都S（14:45）・東京11R天皇賞秋（15:40）、盛岡9R（16:30）等の出馬表、公開オッズ・近走を確認したが、オッズの厳密な観測時刻と独立した確率推定の較正が不足し、推定EV100%以上を裏付けられる事前A候補は0件。B追加0件、結果更新0件。数値や結果の捏造なし。仮想のみ。月次まとめのみ報告。",
-      "lastRunAt": "2026-11-01T05:04:07.747Z",
+      "note": "2026-11-01（日）日本時間14:57台の定期確認。既存競馬28件は全件結果確定（不的中25・的中2・除外返還1）、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の開催を確認。東京11R天皇賞秋（15:40）の14:48中間単勝オッズ・当日馬体重、盛岡7R（15:25）の14:55単勝オッズと8R（15:55）の14:56単勝オッズを照合。独立した勝率推定の精度・較正が不十分で、オッズ変動リスクもあり、推定EV100%以上を根拠をもって固定できる事前A候補なし。B追加なし、結果更新なし。仮想のみ。月次まとめ以外の報告なし。",
+      "lastRunAt": "2026-11-01T05:57:43.959Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/JRADB/accessD.html?CNAME=pw01dde0108202604110920261101%2FDA",
-        "https://sp.jra.jp/JRADB/accessD.html?CNAME=sw01dde0105202604111120261101%2F33",
-        "https://www.keibalab.jp/db/race/202611010810/syutsuba.html",
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://www.jbis.or.jp/race/20261101/210/09/"
+        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2605041111",
+        "https://sports.yahoo.co.jp/keiba/race/denma/2605041111",
+        "https://uma5.com/race/20261101/0511/",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611011006100107",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611011006100108",
+        "https://keiba.rakuten.co.jp/race_card/list/"
       ]
     },
     "schemaVersion": 1,
