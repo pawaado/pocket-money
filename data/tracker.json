@@ -1532,18 +1532,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-01T05:57:43.959Z",
+      "lastSuccessfulWriteAt": "2026-11-01T07:00:55.427Z",
       "status": "ok",
-      "note": "2026-11-01（日）日本時間14:57台の定期確認。既存競馬28件は全件結果確定（不的中25・的中2・除外返還1）、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の開催を確認。東京11R天皇賞秋（15:40）の14:48中間単勝オッズ・当日馬体重、盛岡7R（15:25）の14:55単勝オッズと8R（15:55）の14:56単勝オッズを照合。独立した勝率推定の精度・較正が不十分で、オッズ変動リスクもあり、推定EV100%以上を根拠をもって固定できる事前A候補なし。B追加なし、結果更新なし。仮想のみ。月次まとめ以外の報告なし。",
-      "lastRunAt": "2026-11-01T05:57:43.959Z",
+      "note": "2026-11-01（日）日本時間16:00台の競馬EV確認。既存競馬28件は全件結果確定、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀の開催を確認。東京12R清里特別（16:25）の出馬表・中間オッズ、盛岡9R（16:30）の15:37時点単勝オッズ（1番人気2番リケアサブル2.3倍、2番人気5番タイセイフェスタ4.5倍）を照合。独立した勝率推定・直前オッズの較正が十分でないため推定EV100%以上を根拠付きで事前固定できる候補なし。A候補0件、B追加0件、結果更新0件。既存全レコードとA/B区分を保持。仮想のみ、月次報告のみ。",
+      "lastRunAt": "2026-11-01T07:00:55.427Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sports.yahoo.co.jp/keiba/race/odds/tfw/2605041111",
-        "https://sports.yahoo.co.jp/keiba/race/denma/2605041111",
-        "https://uma5.com/race/20261101/0511/",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611011006100107",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611011006100108",
+        "https://jra.jp/keiba/calendar2026/2026/11/1101.html",
+        "https://www.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
+        "https://sports.yahoo.co.jp/keiba/race/odds/st/2605041112?ninki=0",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611011006100109",
         "https://keiba.rakuten.co.jp/race_card/list/"
       ]
     },
