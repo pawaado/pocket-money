@@ -1532,17 +1532,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-02T00:57:18.990Z",
+      "lastSuccessfulWriteAt": "2026-11-02T01:58:22.050Z",
       "status": "ok",
-      "note": "2026-11-02（月）09:57台（日本時間）の競馬EV検証。JRAは本日開催なし、地方競馬は帯広ば・盛岡・船橋・笠松の4場（NAR公式・楽天競馬2026-11-02開催情報）。既存競馬28件は的中2件・不的中25件・除外返還1件ですべて確定済み、発走済み未確定0件。株9件保持。笠松1R（10:30）楽天競馬09:53時点、盛岡1R（11:45）NAR公式09:50時点の単勝オッズは全頭0.0で発売前のため有効な実オッズなし。出走馬・馬体重・騎手・馬場等の公開情報は確認したが、実オッズと独立した的中確率の検証が揃わずEV100%以上のA事前固定候補0件。B追加0件、結果更新0件。既存A/B区分と競馬・株全記録を維持。仮想購入のみ。ユーザー報告は月次まとめのみ。",
-      "lastRunAt": "2026-11-02T00:57:18.990Z",
+      "note": "2026-11-02（月）10:58頃（日本時間）競馬EV検証。GitHub既存競馬28件・株9件を確認し、競馬記録は全件確定済みで未確定0件。JRA開催なし、地方競馬は帯広ば・盛岡・船橋・笠松の4場。NAR公式・楽天競馬で当日開催と笠松3R（11:30）、盛岡1R（11:45）等の出走予定を確認。対象レースの時刻付き直近単勝オッズと独立した的中率推定の十分な照合ができず、EV100%以上のA新規固定0件、B追加0件、結果更新0件。既存全件・A/B区分保持。実際の購入なし。月次報告のみ。",
+      "lastRunAt": "2026-11-02T01:58:22.050Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=10&k_raceDate=2026/11/02&k_raceNo=1",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611022320120401",
-        "https://www.jra.go.jp/"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=10&k_raceDate=2026%2F11%2F02",
+        "https://keiba.rakuten.co.jp/race_status/list/",
+        "https://regimag.jp/nar/calendar_detail/?day=2&month=11&year=2026"
       ]
     },
     "schemaVersion": 1,
