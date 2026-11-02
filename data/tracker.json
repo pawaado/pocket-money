@@ -1532,16 +1532,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-02T05:01:46.711Z",
+      "lastSuccessfulWriteAt": "2026-11-02T06:02:28.597Z",
       "status": "ok",
-      "note": "2026-11-02（月）14時台（日本時間）競馬EV検証。tracker.jsonの既存競馬28件・株9件を読み込み、発走済み未確定0件（除外返還は確定扱い）。JRA本日開催なし。NAR公式の開催情報で地方は帯広ば・盛岡・船橋・笠松の4場。船橋1R（14:45、2歳三、ダ1200m、12頭、雨・良）と当日開催レースを確認。netkeiba船橋1R掲載の数値は「予想オッズ」であり実オッズとしては採用不可。実オッズの直近時刻・馬体重・調教・近走・取消変更等の独立照合と勝率推定が不足するため、EV100%以上を裏付けるA候補0件。B追加0件、結果更新0件。既存の競馬・株およびA/B区分は全件保持。仮想のみ。報告は月次のみ。",
-      "lastRunAt": "2026-11-02T05:01:46.711Z",
+      "note": "2026-11-02（月）15時台（日本時間）競馬EV検証。既存競馬28件・株9件の全記録を確認、発走済み未確定0件（除外返還は確定扱い）。JRA開催なし。NAR公式の本日開催は帯広ば・盛岡・船橋・笠松。盛岡8R（15:55、雨・重）の楽天競馬13:19時点単勝実オッズとNAR公式13:01時点単勝実オッズ、船橋2R（15:15）出馬表・netkeiba掲載の予想オッズを確認。予想オッズを実オッズと混同せず、直近の観測時刻がある実オッズ・馬体重・調教・近走・取消変更・独立勝率推定の一式が十分でないためEV100%以上の事前A候補0件。後付けB追加0件、結果更新0件。全既存データおよびA/B区分を保持。実購入なし。報告は月次のみ。",
+      "lastRunAt": "2026-11-02T06:02:28.597Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021000000008",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=10&k_raceDate=2026%2F11%2F02&k_raceNo=8",
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=19&k_raceDate=2026%2F11%2F02",
-        "https://nar.netkeiba.com/odds/index.html?race_id=202643110201&type=b0",
+        "https://nar.sp.netkeiba.com/odds/index.html?race_id=202643110202",
         "https://www.jra.go.jp/"
       ]
     },
