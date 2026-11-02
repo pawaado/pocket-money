@@ -1532,17 +1532,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-02T03:02:54.706Z",
+      "lastSuccessfulWriteAt": "2026-11-02T04:01:28.441Z",
       "status": "ok",
-      "note": "2026-11-02（月）12時台（日本時間）競馬EV検証。既存競馬28件・株9件を全件読み込み、発走済みの未確定レース記録0件。NAR公式で本日開催は帯広ば・盛岡・船橋・笠松の4場、JRA開催なし。盛岡3R（12:55、重馬場、9頭）のNAR公式出馬表・近5走・11:39時点の単勝オッズ（ホウオウルバン1.5倍、アジャイブ4.6倍、グレル7.2倍等）を照合。ただし直前更新オッズと馬体重・調教情報の確認が十分でなく、独立した的中確率の定量的裏付けも不十分のためEV100%以上を確信して事前固定できるA候補なし。B追加なし。既存記録・株記録・A/B区分は全件保持。実購入なし。月次報告のみ。",
-      "lastRunAt": "2026-11-02T03:02:54.706Z",
+      "note": "2026-11-02（月）13時台（日本時間）競馬EV検証。既存競馬28件・株9件を全件確認。発走済みで未確定の記録0件（除外返還は確定扱い）。JRA本日開催なし、地方競馬は帯広ば・盛岡・船橋・笠松の4場。NAR公式の盛岡5R（14:05、C2五組、10頭）12:59時点の単勝オッズ（アドマイヤパープル1.3倍、マッシブショット3.9倍、エネルゲイア13.5倍等）を確認。ただし近走・調教・馬体重等の十分な独立検証および信頼できる的中確率の推定が揃わず、EV100%以上を裏付けられる事前予想Aの登録なし。後付けB追加なし。既存記録とA/B区分は全件保持。実購入なし。報告は月次のみ。",
+      "lastRunAt": "2026-11-02T04:01:28.441Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=10&k_raceDate=2026%2F11%2F02",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=10&k_raceDate=2026%2F11%2F02&k_raceNo=3",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=10&k_raceDate=2026%2F11%2F02&k_raceNo=3"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_RaceList?k_babaCode=10&k_raceDate=2026%2F11%2F02",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_OddsTan?k_babaCode=10&k_raceDate=2026%2F11%2F02&k_raceNo=5",
+        "https://www.jra.go.jp/news/202509/092201.html"
       ]
     },
     "schemaVersion": 1,
