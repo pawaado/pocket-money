@@ -1532,18 +1532,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-02T10:01:32.280Z",
+      "lastSuccessfulWriteAt": "2026-11-02T11:05:10.935Z",
       "status": "ok",
-      "note": "2026-11-02（月）19時台（日本時間）の競馬EV検証。既存競馬28件・株9件を全件保持。発走済み未確定記録0件。JRA開催なし、地方競馬は帯広ば・盛岡・船橋・笠松の4場。船橋9R（19:05）、10R（19:40）、11R（20:15）、12R（20:50）の発走時刻と出走予定を地方競馬情報サイト・スポーツナビで照合。直近の観測時刻付き単勝オッズおよび独立した的中確率推定を十分に検証できないため、推定EV100%以上の事前A候補は登録せず。後付けB追加0件、結果更新0件。既存レコードとA/B区分は変更なし。実購入なし。報告は毎月1日19時の月次のみ。",
-      "lastRunAt": "2026-11-02T10:01:32.280Z",
+      "note": "2026-11-02（月）20時台（日本時間）の競馬EV検証。既存競馬28件・株9件を全件保持。発走済み未確定記録0件。JRA開催なし、地方競馬は帯広ば・盛岡・船橋・笠松の4場。船橋11R（20:15発走）の単勝オッズは楽天競馬13:42時点表示、船橋12R（20:50発走）は19:36時点表示を確認。船橋11Rは直前性不足、12Rは馬体重増減表示が未確定で、両レースとも近走・調教・展開を反映した独立的中確率の信頼できる検証ができないため、EV100%以上の事前A候補を固定しない。後付けB追加0件、結果更新0件。過去のA/B区分・全既存レコードと株監視情報は変更なし。実購入なし。報告は毎月1日19時の月次のみ。",
+      "lastRunAt": "2026-11-02T11:05:10.935Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=19&k_raceDate=2026%2F11%2F02",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026110219",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021914080100",
-        "https://www.jra.go.jp/"
+        "https://www.jra.go.jp/",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021914080111",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021914080112",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021914080112/mode/1"
       ]
     },
     "schemaVersion": 1,
