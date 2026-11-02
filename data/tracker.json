@@ -1532,18 +1532,20 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-02T08:08:14.987Z",
+      "lastSuccessfulWriteAt": "2026-11-02T09:08:26.846Z",
       "status": "ok",
-      "note": "2026-11-02（月）17時台（日本時間）競馬EV検証。既存競馬28件・株9件を全件保持し、発走済み未確定0件（除外返還は確定扱い）。JRA開催なし、NAR公式の開催は帯広ば・盛岡・船橋・笠松。船橋6R（17:20発走）出馬表と盛岡10Rの単勝オッズ表示（リコーアストラ2.2倍、アドマイヤアーデル3.5倍、グランヴァルール6.7倍）を調査。ただし当該オッズの観測時刻を独立に確定できず、船橋6Rの直近実オッズ、当日馬体重・取消変更・近走/調教等の独立検証に基づく信頼可能な的中率推定が揃わないため、EV100%以上と判断できる事前A候補なし。B追加なし、結果更新なし。既存記録・事前評価値は変更せず。実購入なし。月次報告のみ。",
-      "lastRunAt": "2026-11-02T08:08:14.987Z",
+      "note": "2026-11-02（月）18時台（日本時間）の競馬EV検証。既存競馬28件・株9件を全件保持。発走済み未確定記録0件（除外返還は確定扱い）。JRA開催なし。地方競馬は帯広ば・盛岡・船橋・笠松の4場。楽天競馬で盛岡12R（18:15発走、重馬場）の17:53時点単勝オッズと馬体重（ヤマニンリーリオ2.9倍、パーティーベル4.3倍、リベルテ6.8倍）を確認。船橋9R（19:05）、帯広11R（20:00）などのレース・オッズページも確認。ただし直近オッズと独立した信頼できる的中確率推定の根拠が十分に揃わず、EV100%以上を立証できる事前A候補は0件。B追加0件、結果更新0件。既存レコードとA/B区分は変更なし。実購入なし。月次報告のみ。",
+      "lastRunAt": "2026-11-02T09:08:26.846Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://sports.yahoo.co.jp/keiba_local/schedule/monthly",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021914080106/mode/1",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021006100210",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021914080101/mode/0",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=23&k_raceDate=2026%2F11%2F02",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021000000000",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021914080100",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611020304150600",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021006100212",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021914080109",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611020304150611",
         "https://www.jra.go.jp/"
       ]
     },
