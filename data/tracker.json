@@ -1532,20 +1532,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-02T09:08:26.846Z",
+      "lastSuccessfulWriteAt": "2026-11-02T10:01:32.280Z",
       "status": "ok",
-      "note": "2026-11-02（月）18時台（日本時間）の競馬EV検証。既存競馬28件・株9件を全件保持。発走済み未確定記録0件（除外返還は確定扱い）。JRA開催なし。地方競馬は帯広ば・盛岡・船橋・笠松の4場。楽天競馬で盛岡12R（18:15発走、重馬場）の17:53時点単勝オッズと馬体重（ヤマニンリーリオ2.9倍、パーティーベル4.3倍、リベルテ6.8倍）を確認。船橋9R（19:05）、帯広11R（20:00）などのレース・オッズページも確認。ただし直近オッズと独立した信頼できる的中確率推定の根拠が十分に揃わず、EV100%以上を立証できる事前A候補は0件。B追加0件、結果更新0件。既存レコードとA/B区分は変更なし。実購入なし。月次報告のみ。",
-      "lastRunAt": "2026-11-02T09:08:26.846Z",
+      "note": "2026-11-02（月）19時台（日本時間）の競馬EV検証。既存競馬28件・株9件を全件保持。発走済み未確定記録0件。JRA開催なし、地方競馬は帯広ば・盛岡・船橋・笠松の4場。船橋9R（19:05）、10R（19:40）、11R（20:15）、12R（20:50）の発走時刻と出走予定を地方競馬情報サイト・スポーツナビで照合。直近の観測時刻付き単勝オッズおよび独立した的中確率推定を十分に検証できないため、推定EV100%以上の事前A候補は登録せず。後付けB追加0件、結果更新0件。既存レコードとA/B区分は変更なし。実購入なし。報告は毎月1日19時の月次のみ。",
+      "lastRunAt": "2026-11-02T10:01:32.280Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=23&k_raceDate=2026%2F11%2F02",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021000000000",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=19&k_raceDate=2026%2F11%2F02",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026110219",
         "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021914080100",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611020304150600",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021006100212",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021914080109",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611020304150611",
         "https://www.jra.go.jp/"
       ]
     },
