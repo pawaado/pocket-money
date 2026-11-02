@@ -1532,16 +1532,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-01T11:03:33.398Z",
+      "lastSuccessfulWriteAt": "2026-11-02T00:04:01.096Z",
       "status": "ok",
-      "note": "2026-11-01 20時台（日本時間）競馬EV検証。既存競馬28件は全件結果確定済み、株9件保持。JRA東京・京都、地方帯広ば・盛岡・高知・佐賀を確認。残る佐賀12R（20:40）と高知12R（20:50）を確認。楽天競馬の佐賀12R単勝オッズは19:41時点（7番スーパービジー1.3倍）、高知12Rは20:01時点（2番ショウナンラジョア3.9倍、9番トドイワウィンド5.1倍）で確認。独立した勝率の較正・調教等の裏付けが不十分でEV100%以上と確証できるA候補なし。B追加0件、結果更新0件。既存記録・A/B区分を保持。仮想購入のみ。報告は月次のみ。",
-      "lastRunAt": "2026-11-01T11:03:33.398Z",
+      "note": "2026-11-02（月）09時台（日本時間）競馬EV検証。JRAは開催なし。地方競馬は帯広ば・盛岡・船橋・笠松の4場（地方競馬情報サイト2026-11-02開催情報で照合）。既存競馬28件は的中2件、不的中25件、除外返還1件で全件結果処理済み。株9件保持。笠松1R10:30、盛岡1R11:45、帯広ば1R14:30、船橋1R14:45を確認。9時台時点で直近の確実な実オッズと独立した的中確率の根拠が揃わず、EV100%以上のA事前固定候補0件。B追加0件、結果更新0件。A/B区分と既存全記録を保持。仮想購入のみ。報告は月次のみ。",
+      "lastRunAt": "2026-11-02T00:04:01.096Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611013230120512",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611013129090612"
+        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://www.jra.go.jp/",
+        "https://spaia-keiba.com/nar/race/table?date=20261102&place=10&race_number=1"
       ]
     },
     "schemaVersion": 1,
