@@ -1532,17 +1532,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-02T07:03:29.140Z",
+      "lastSuccessfulWriteAt": "2026-11-02T08:08:14.987Z",
       "status": "ok",
-      "note": "2026-11-02（月）16時台（日本時間）競馬EV検証。GitHub既存競馬28件・株9件を全件保持し、発走済み未確定0件（除外返還は確定扱い）。JRA開催なし。NAR公式の開催は帯広ば・盛岡・船橋・笠松。盛岡9R（16:30、重）楽天競馬10:42時点の実単勝オッズ（シックザイン2.5、マルジェラ3.0、ステップ4.5）と船橋5R（16:50、良）13:42時点の実単勝オッズ（ハイスピードバイオ1.7、スマイルプラス3.4）を確認。両方とも分析時点16時台に対しオッズ観測が古く、当日馬体重・取消変更・独立した勝率推定の十分な照合が揃わないため、EV100%以上の根拠を確保できず事前A登録0件。後付けB追加0件、結果更新0件。既存A/B・株・競馬記録は変更なし。実購入なし。月次報告のみ。",
-      "lastRunAt": "2026-11-02T07:03:29.140Z",
+      "note": "2026-11-02（月）17時台（日本時間）競馬EV検証。既存競馬28件・株9件を全件保持し、発走済み未確定0件（除外返還は確定扱い）。JRA開催なし、NAR公式の開催は帯広ば・盛岡・船橋・笠松。船橋6R（17:20発走）出馬表と盛岡10Rの単勝オッズ表示（リコーアストラ2.2倍、アドマイヤアーデル3.5倍、グランヴァルール6.7倍）を調査。ただし当該オッズの観測時刻を独立に確定できず、船橋6Rの直近実オッズ、当日馬体重・取消変更・近走/調教等の独立検証に基づく信頼可能な的中率推定が揃わないため、EV100%以上と判断できる事前A候補なし。B追加なし、結果更新なし。既存記録・事前評価値は変更せず。実購入なし。月次報告のみ。",
+      "lastRunAt": "2026-11-02T08:08:14.987Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
         "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021006100209",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021914080105",
+        "https://sports.yahoo.co.jp/keiba_local/schedule/monthly",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021914080106/mode/1",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611021006100210",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611021914080101/mode/0",
         "https://www.jra.go.jp/"
       ]
     },
