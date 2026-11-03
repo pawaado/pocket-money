@@ -1532,17 +1532,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-03T05:05:02.745Z",
+      "lastSuccessfulWriteAt": "2026-11-03T06:05:20.270Z",
       "status": "ok",
-      "note": "2026-11-03 14時台JST。既存競馬28件・株9件保持。既存レース結果は的中・不的中・除外返還で確定済み、更新対象なし。JRA開催なし、地方は船橋・金沢・門別。開催と出馬表を確認。直近オッズの時刻付き検証と独立した的中確率推定が不十分なため事前A追加0件、B追加0件。実購入なし。報告は月次のみ。",
-      "lastRunAt": "2026-11-03T05:05:02.745Z",
+      "note": "2026-11-03 15時台JST。既存競馬28件・株9件保持。未確定の既存競馬記録0件。JRA開催なし、地方は船橋・金沢・門別。金沢JBCクラシック16:25発走等を確認。直近オッズと独立した的中確率推定の十分な照合ができず事前A追加0件、B追加0件。実購入なし。月次報告のみ。",
+      "lastRunAt": "2026-11-03T06:05:20.270Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://www.kanazawakeiba.com/",
-        "https://www.f-keiba.com/index.html",
-        "https://regimag.jp/nar/calendar_detail/?day=3&month=11&year=2026"
+        "https://uma-x.jp/nar",
+        "https://spaia-keiba.com/nar/race/prediction?date=20261103&place=22&race_number=9"
       ]
     },
     "schemaVersion": 1,
