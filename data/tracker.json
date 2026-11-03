@@ -1532,16 +1532,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-03T01:57:36.569Z",
+      "lastSuccessfulWriteAt": "2026-11-03T03:04:00.000Z",
       "status": "ok",
-      "note": "2026-11-03 10:57 JST頃。既存競馬28件・株9件を維持。発走済み未確定記録0件。地方競馬は船橋・金沢・門別、JRA国内開催なし。出馬表・発走時刻を確認したが観測時刻付き直近オッズと独立した的中率推定が不足しA登録0件、B追加0件、結果更新0件。実購入なし。報告は月次のみ。",
-      "lastRunAt": "2026-11-03T01:57:36.569Z",
+      "note": "2026-11-03 12:04 JST。既存競馬28件・株9件を維持し発走済み未確定記録なし。JRA国内開催なし、地方競馬は船橋・金沢・門別の3場。出馬表・開催時刻確認済み。観測時刻付き直近オッズと独立した的中率推定が揃わないためA候補0件、B追加0件、結果更新0件。実購入なし。月次のみ報告。",
+      "lastRunAt": "2026-11-03T03:04:00.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
+        "https://www.jra.go.jp/news/202610/101801.html",
         "https://uma-x.jp/nar",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611032200000001/mode/1",
-        "https://www.kanazawakeiba.com/"
+        "https://f-keiba.com/schedule/timetable.html",
+        "https://sports.yahoo.co.jp/keiba_local/schedule/monthly"
       ]
     },
     "schemaVersion": 1,
