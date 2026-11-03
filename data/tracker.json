@@ -1516,19 +1516,14 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-02T06:58:15.396Z",
-      "lastSuccessfulWriteAt": "2026-11-02T06:58:15.396Z",
-      "status": "ok",
+      "lastRunAt": "2026-11-03T07:00:16.743Z",
+      "lastSuccessfulWriteAt": "2026-11-03T07:00:16.743Z",
+      "status": "market_closed",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-02（月）JPX公式2026年休業日一覧に非該当の通常営業日。A保有0件につき株価・決済更新対象なし。主要高流動性銘柄を市場横断で調査（半導体・電子部品:8035/6857/285A/7735/4062/6920/9984/5802、銀行:8306、自動車:7203、商社:8053/8058、通信:9432、食料・医薬:2282/4568、サービス:6098、その他:9983/6752）。11/2 15:00時点の日経平均63,218.99円（前営業日比-71.12円）は場中値であり確定終値ではない。値下がり900/値上がり596銘柄。半導体は銘柄ごとに騰落が分かれ、決算集中（11/2,11/4-6）と11/3文化の日休場によるギャップリスク、個別の確定終値・支持線・損切・目標とリスクリワードを定量的に確認できないため、事前A候補0件。未検証の個別終値・仮想買値は創作しない。既存株9件・競馬28件およびA/B区分保持。実売買なし。報告は毎月1日19時の月次のみ。",
+      "note": "日本株休場のため売買・価格更新なし",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/",
-        "https://finance.matsui.co.jp/news/633696/index",
-        "https://minkabu.jp/stock/6146/news/4648292",
-        "https://scouter.monex.co.jp/schedule",
-        "https://finance.yahoo.co.jp/quote/8058.T/forum",
-        "https://minkabu.jp/stock/8035/chart"
+        "https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html"
       ]
     },
     "keiba": {
