@@ -1527,15 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-03T08:58:04.952Z",
+      "lastSuccessfulWriteAt": "2026-11-03T10:02:39.794Z",
       "status": "ok",
-      "note": "2026-11-03 17:57 JST。既存競馬28件・株9件保持、未確定結果0件。地方開催は船橋・金沢・門別。直近実オッズと独立した的中率推定が揃わず事前A候補0件、B追加0件。月次のみ報告。",
-      "lastRunAt": "2026-11-03T08:58:04.952Z",
+      "note": "2026-11-03 19時台JST。既存記録の未確定結果0件。地方開催は船橋・金沢・門別。船橋9R以降が残るが、判断時点の実オッズと独立した的中率推定の照合不足につきA候補0件、B追加0件。月次のみ報告。",
+      "lastRunAt": "2026-11-03T10:02:39.794Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=19&k_raceDate=2026%2F11%2F03"
+        "https://uma-x.jp/nar",
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=22&k_raceDate=2026%2F11%2F03&k_raceNo=7&odds_flg=2"
       ]
     },
     "schemaVersion": 1,
