@@ -1532,18 +1532,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-02T23:59:58.176Z",
+      "lastSuccessfulWriteAt": "2026-11-03T00:59:29.302Z",
       "status": "ok",
-      "note": "2026-11-03（火・祝）9時前（日本時間）の競馬EV検証。既存競馬28件・株9件を保持し、発走済み未確定の既存記録0件。JRA国内開催なし（メルボルンカップ海外発売のみ）。地方開催は船橋・金沢・門別の3場。JBCは金沢7R/8R/9Rと門別9R。金沢1R（10:50発走）の公式出馬表・楽天競馬の単勝複勝オッズページを確認したが、確認時点では『公表データはございません』と表示され、時刻付き実オッズなし。馬体重・当日取消等と独立した的中確率の検証も不十分でEV100%以上の事前Aを固定しない。B追加0件、結果更新0件。実購入なし。報告は毎月1日19時の月次のみ。",
-      "lastRunAt": "2026-11-02T23:59:58.176Z",
+      "note": "2026-11-03（火・祝）10時前JST。既存競馬28件・株9件保持、発走済み未確定0件。地方競馬は門別・金沢・船橋の3場、JRA国内開催なし。門別1R10:35、金沢1R10:50の発走予定を確認。信頼できる観測時刻付き直近オッズと独立的中確率の照合不足によりEV100%以上の事前Aは固定せず。B追加0件、結果更新0件。実購入なし。月次のみ報告。",
+      "lastRunAt": "2026-11-03T00:59:29.302Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/",
-        "https://sports.yahoo.co.jp/keiba_local/schedule/monthly/",
-        "https://www.keiba.go.jp/jbc2026/index.html",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_DebaTable?k_babaCode=22&k_raceDate=2026%2F11%2F03&k_raceNo=1",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611032218130401"
+        "https://uma-x.jp/nar",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611032200000001/mode/1",
+        "https://www.kanazawakeiba.com/"
       ]
     },
     "schemaVersion": 1,
