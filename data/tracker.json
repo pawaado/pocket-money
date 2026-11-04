@@ -1527,15 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-03T23:59:17.213Z",
+      "lastSuccessfulWriteAt": "2026-11-04T00:58:34.824Z",
       "status": "ok",
-      "note": "2026-11-04 朝JST。既存競馬28件（除外返還含め全件確定）・株9件保持。地方開催は盛岡・門別・船橋・金沢・園田、JRA開催なし。朝時点では直近実オッズと独立的中確率の照合が不十分なためA/B追加0件。月次のみ報告。",
-      "lastRunAt": "2026-11-03T23:59:17.213Z",
+      "note": "2026-11-04 09時台JST。既存競馬28件・株9件保持。地方5場（盛岡・船橋・金沢・園田・門別）、JRA開催なし。事前オッズと独立勝率の照合が不十分でA/B追加なし。月次報告のみ。",
+      "lastRunAt": "2026-11-04T00:58:34.824Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://nar.sp.netkeiba.com/top/calendar.html?mode=keibajyo&month=11&year=2026",
-        "https://regimag.jp/nar/calendar_detail/?day=4&month=11&year=2026"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=27&k_raceDate=2026%2F11%2F04",
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_TodayRaceInfoTop_ipat"
       ]
     },
     "schemaVersion": 1,
