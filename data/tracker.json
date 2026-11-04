@@ -1516,14 +1516,14 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-03T07:00:16.743Z",
-      "lastSuccessfulWriteAt": "2026-11-03T07:00:16.743Z",
-      "status": "market_closed",
+      "lastRunAt": "2026-11-04T06:56:27.861Z",
+      "lastSuccessfulWriteAt": "2026-11-04T06:56:27.861Z",
+      "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "日本株休場のため売買・価格更新なし",
+      "note": "2026-11-04 東証通常営業日。既存株9件は全件決済済み、保有Aなし。市場情報と損切・目標水準の十分な独立検証を満たす新規候補を確定できず、Aエントリー0件。既存の株・競馬記録およびA/B区分は維持。月次報告のみ。",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html"
+        "https://www.jpx.co.jp/english/corporate/about-jpx/calendar/"
       ]
     },
     "keiba": {
