@@ -1527,15 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-04T10:57:24.000Z",
+      "lastSuccessfulWriteAt": "2026-11-04T23:56:55.000Z",
       "status": "ok",
-      "note": "2026-11-04 19:57 JST。既存競馬28件・株9件保持。未確定0件。直近オッズと独立勝率の十分な照合ができずA/B追加0件。月次報告のみ。",
-      "lastRunAt": "2026-11-04T10:57:24.000Z",
+      "note": "2026-11-05 08:56 JST。既存競馬28件・株9件保持。確定・除外返還済みを除く発走済み未確定0件。直近オッズと独立した勝率推定を十分に確認できずA/B追加0件。月次報告のみ。",
+      "lastRunAt": "2026-11-04T23:56:55.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://uma-x.jp/nar/202611"
+        "https://keiba.rakuten.co.jp/"
       ]
     },
     "schemaVersion": 1,
