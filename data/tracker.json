@@ -1528,15 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-06T07:04:28.082Z",
+      "lastSuccessfulWriteAt": "2026-11-06T08:05:08.252Z",
       "status": "ok",
-      "note": "2026-11-06 16時台 JST。既存競馬28件・株9件保持、未確定0件。JRA開催なし、地方は帯広・船橋・笠松・園田。独立した的中確率推定と時刻付き直近オッズの照合不足により事前A候補0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-06T07:04:28.082Z",
+      "note": "2026-11-06 17時台 JST。既存競馬28件・株9件保持。競馬の結果未確定0件（除外返還は確定扱い）。JRA開催なし、地方は帯広・船橋・笠松・園田。信頼できる時刻付き直近オッズと独立的中率推定が揃わずA新規0件、B新規0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-06T08:05:08.252Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=27&k_raceDate=2026%2F11%2F06",
-        "https://nar.sp.netkeiba.com/top/calendar.html?mode=pat"
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026110623"
       ]
     },
     "schemaVersion": 1,
