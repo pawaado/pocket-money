@@ -1527,16 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-05T11:02:04.000Z",
+      "lastSuccessfulWriteAt": "2026-11-06T00:00:13.000Z",
       "status": "ok",
-      "note": "2026-11-05 20時台JST。既存競馬28件・株9件を保持、発走済み未確定0件。JRA開催なし、地方は船橋・笠松・園田・門別。門別12R道営記念は20:35発走予定だが、観測時刻付き直近オッズと独立した的中確率推定を照合できずA新規0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-05T11:02:04.000Z",
+      "note": "2026-11-06 09:00 JST。既存競馬28件・株9件保持、発走済み未確定0件。JRA金曜開催なし。地方は船橋など開催予定を確認したが、現時点で観測時刻付き直近オッズと独立勝率推定が揃わずA新規0件、B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-06T00:00:13.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jbis.or.jp/race/20261105/236/12",
-        "https://www.jbis.or.jp/race/calendar/20261105/236/",
-        "https://www.f-keiba.com/"
+        "https://nar.sp.netkeiba.com/top/calendar.html?jyo_cd=43&mode=keibajyo&month=11&year=2026",
+        "https://www.keibalab.jp/db/race/"
       ]
     },
     "schemaVersion": 1,
