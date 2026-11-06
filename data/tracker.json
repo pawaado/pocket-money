@@ -1527,15 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-06T03:59:05.074Z",
+      "lastSuccessfulWriteAt": "2026-11-06T05:03:29.160Z",
       "status": "ok",
-      "note": "2026-11-06 13時台 JST。既存競馬・株記録を維持。JRA開催なし、地方は船橋・笠松・園田・帯広。発走前の観測時刻付きオッズと独立した的中確率推定が揃わずA候補0件、B追加0件。月次報告のみ。",
-      "lastRunAt": "2026-11-06T03:59:05.074Z",
+      "note": "2026-11-06 14時台 JST。既存競馬28件・株9件を保持。未確定レース0件。JRA開催なし、地方は帯広・船橋・笠松・園田。観測時刻付き直近オッズと独立した勝率推定が不足しA候補0件、B追加0件。月次報告のみ。",
+      "lastRunAt": "2026-11-06T05:03:29.160Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/",
-        "https://nar.sp.netkeiba.com/top/calendar.html?mode=pat"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=19&k_raceDate=2026%2F11%2F06",
+        "https://kichiuma-chiho.net/"
       ]
     },
     "schemaVersion": 1,
