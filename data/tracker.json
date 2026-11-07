@@ -1528,15 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-07T00:01:00.000Z",
+      "lastSuccessfulWriteAt": "2026-11-07T00:58:31.009Z",
       "status": "ok",
-      "note": "2026-11-07 09:01 JST。既存競馬28件・株9件保持、発走済み未確定0件。JRA東京・京都・福島、地方帯広・高知・佐賀開催。発走前の観測時刻付き直近オッズと独立勝率推定を十分に確認できないためA候補0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-07T00:01:00.000Z",
+      "note": "2026-11-07 09:58 JST。既存競馬28件・株9件を保持、未確定0件。JRA東京・京都・福島、地方帯広・高知・佐賀の開催を確認。発走前の観測時刻付き直近オッズと独立した的中率推定の十分な照合ができず、A候補0件、B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-07T00:58:31.009Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://jra.jp/datafile/seiseki/replay/2026/jyusyo.html",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop"
+        "https://www.jra.go.jp/",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop"
       ]
     },
     "schemaVersion": 1,
