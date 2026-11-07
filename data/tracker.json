@@ -1528,15 +1528,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-07T04:00:51.759Z",
+      "lastSuccessfulWriteAt": "2026-11-07T05:01:17.370Z",
       "status": "ok",
-      "note": "2026-11-07 13時台JST。既存競馬28件・株9件保持。発走済み未確定0件（除外返還は確定扱い）。JRA東京・京都・福島、地方帯広・高知・佐賀の開催情報を確認。直近の実オッズと独立した的中確率の十分な裏付けが揃わず、A候補0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-07T04:00:51.759Z",
+      "note": "2026-11-07 14時台JST。競馬28件・株9件保持。発走済み未確定0件（除外返還は確定）。JRA東京・京都・福島、地方帯広・高知・佐賀の開催確認。高知1Rの13:55時点単勝オッズを確認したが、独立した的中確率推定の根拠が不足し事前A候補0件。B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-07T05:01:17.370Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=31&k_raceDate=2026/11/07&k_raceNo=1"
       ]
     },
     "schemaVersion": 1,
