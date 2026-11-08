@@ -1528,15 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-08T09:55:21.532Z",
+      "lastSuccessfulWriteAt": "2026-11-08T11:02:41.000Z",
       "status": "ok",
-      "note": "2026-11-08 18:55頃JST。JRA東京・京都・福島、地方帯広・盛岡・高知・佐賀の開催を確認。既存競馬28件・株9件保持、未確定0件。発走前の時刻明示オッズと独立した勝率推定の検証が不足し、新規A/Bとも0件。結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-08T09:55:21.532Z",
+      "note": "2026-11-08 20:02 JST。JRA東京・京都・福島、地方帯広・盛岡・高知・佐賀の開催を確認。既存競馬28件・株9件、未確定0件。20時以降の地方競馬は直近オッズと独立勝率推定の十分な照合ができずA候補なし。B追加なし、結果更新なし。月次報告のみ。",
+      "lastRunAt": "2026-11-08T11:02:41.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.jra.go.jp/",
-        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
         "https://uma-x.jp/nar/202611"
       ]
     },
