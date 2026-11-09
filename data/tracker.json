@@ -1528,15 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-08T23:58:09.179Z",
+      "lastSuccessfulWriteAt": "2026-11-09T00:57:44.720Z",
       "status": "ok",
-      "note": "2026-11-09 08:58 JST。既存競馬28件・株9件を保持。発走済み未確定0件。JRA月曜の開催および地方競馬の当日出走・直近オッズを十分に検証できず、根拠不十分のためA候補0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-08T23:58:09.179Z",
+      "note": "2026-11-09 09:57 JST。既存競馬28件・株9件保持。未確定結果0件（除外返還は確定扱い）。地方競馬は盛岡・名古屋・佐賀・川崎の開催情報を確認。直近の実オッズと独立した的中確率の十分な検証ができず、A候補0件、B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-09T00:57:44.720Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/",
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop"
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
+        "https://www.jra.go.jp/"
       ]
     },
     "schemaVersion": 1,
