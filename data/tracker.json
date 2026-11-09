@@ -1516,15 +1516,14 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-06T06:59:19.048Z",
-      "lastSuccessfulWriteAt": "2026-11-06T06:59:19.048Z",
+      "lastRunAt": "2026-11-09T06:58:43.243Z",
+      "lastSuccessfulWriteAt": "2026-11-09T06:58:43.243Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-06 東証通常営業日。株の既存9件は全件決済済み、保有Aなし。個別銘柄の当日終値・流動性・リスクリワードの十分な裏付けが得られず新規A候補0件。既存の株・競馬記録とA/B分類を保持。月次報告のみ。",
+      "note": "2026-11-09 東証通常営業日（JPX公式休業日一覧確認）。既存A保有なし。検証可能な当日終値・流動性・リスクリワードが揃わないため新規A候補0件。既存株・競馬記録とA/B分類を維持。報告は月次のみ。",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html",
-        "https://marketcalendars.com/markets/jpx?year=2026"
+        "https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html"
       ]
     },
     "keiba": {
