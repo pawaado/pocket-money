@@ -1527,15 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-10T07:57:08.561Z",
+      "lastSuccessfulWriteAt": "2026-11-10T09:02:22.212Z",
       "status": "ok",
-      "note": "2026-11-10 17時前 JST。JRA開催なし、地方競馬は盛岡・川崎・金沢・名古屋・門別の5場。既存競馬28件に未確定結果なし。直近実オッズと独立した的中率推定を十分に照合できず事前A追加0件、B追加0件。既存競馬28件・株9件を保持。月次報告のみ。",
-      "lastRunAt": "2026-11-10T07:57:08.561Z",
+      "note": "2026-11-10 18時台JST。既存競馬28件・株9件を保持。未確定記録0件。川崎競馬の開催・発走時刻を公式サイトで確認。直近の時刻付き実オッズと独立した勝率推定が十分に揃わないためA新規0件、B新規0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-10T09:02:22.212Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://uma-x.jp/nar"
+        "https://www.kawasaki-keiba.jp/",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026111021"
       ]
     },
     "schemaVersion": 1,
