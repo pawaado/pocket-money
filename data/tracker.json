@@ -1527,15 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-09T23:59:13.318Z",
+      "lastSuccessfulWriteAt": "2026-11-10T01:01:33.199Z",
       "status": "ok",
-      "note": "2026-11-10 09時前JST。既存記録を確認。JRA開催なし、地方は門別・盛岡・川崎・金沢・名古屋。発走前の実オッズと独立的中確率の十分な検証が未完了のため新規A候補0件。B追加0件、結果更新0件。既存競馬・株記録維持。月次報告のみ。",
-      "lastRunAt": "2026-11-09T23:59:13.318Z",
+      "note": "2026-11-10 10時JST。JRA開催なし、地方は盛岡・川崎・金沢・名古屋・門別。発走前の直近実オッズと独立的中確率を十分に検証できずA候補0件。結果の確証がない記録は変更せず、B追加0件。既存の競馬・株記録保持。報告は月次のみ。",
+      "lastRunAt": "2026-11-10T01:01:33.199Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.kawasaki-keiba.jp/race/calendar/index.html",
-        "https://nar.sp.netkeiba.com/top/calendar.html?mode=kaisai&month=11&year=2026"
+        "https://sports.yahoo.co.jp/keiba_local/schedule/monthly",
+        "https://www.kawasaki-keiba.jp/race/calendar/index.html"
       ]
     },
     "schemaVersion": 1,
