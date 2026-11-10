@@ -1527,15 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-10T11:04:19.368Z",
+      "lastSuccessfulWriteAt": "2026-11-10T23:55:38.525Z",
       "status": "ok",
-      "note": "2026-11-10 20時台JST。JRA開催なし。地方競馬情報サイトで門別・盛岡・川崎・金沢・名古屋の開催を確認。既存未確定記録0件。川崎12Rなどの公開情報を調査したが、直近時刻付き単勝オッズと独立した的中率推定の十分な裏付けが揃わずA新規0件、B追加0件、結果更新0件。既存競馬28件・株9件を保持。月次報告のみ。",
-      "lastRunAt": "2026-11-10T11:04:19.368Z",
+      "note": "2026-11-11 08:55 JST頃。既存競馬28件・株9件を保持。発走済み未確定0件。JRA平日開催なし。地方競馬は川崎ロジータ記念の開催情報を確認したが、発走前の時刻付き直近オッズと独立した的中確率の十分な裏付けがなくA新規0件、B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-10T23:55:38.525Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://www.kawasaki-keiba.jp/race/calendar/index.html"
+        "https://umanity.jp/info.php?id=9691"
       ]
     },
     "schemaVersion": 1,
