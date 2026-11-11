@@ -1528,15 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-11T06:58:42.857Z",
+      "lastSuccessfulWriteAt": "2026-11-11T08:04:07.000Z",
       "status": "ok",
-      "note": "2026-11-11 15:58頃JST。既存競馬28件・株9件を保持。発走済み未確定記録なし。JRA開催なし、地方開催は園田・名古屋・門別・川崎。レース前の時刻付き直近オッズと独立した的中確率の十分な検証ができずA候補0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-11T06:58:42.857Z",
+      "note": "2026-11-11 17:04 JST。既存競馬28件・株9件保持、発走済み未確定なし。JRA開催なし、地方は川崎・名古屋・園田・門別。時刻付き直近オッズと独立した勝率推定を十分照合できずA新規0件、B新規0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-11T08:04:07.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://uma-x.jp/nar",
+        "https://uma-x.jp/nar/202611",
         "https://umadan.jp/races/nar"
       ]
     },
