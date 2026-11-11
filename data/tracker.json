@@ -1516,14 +1516,15 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-10T07:03:29.419Z",
-      "lastSuccessfulWriteAt": "2026-11-10T07:03:29.419Z",
+      "lastRunAt": "2026-11-11T06:59:47.242Z",
+      "lastSuccessfulWriteAt": "2026-11-11T06:59:47.242Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-10 東証通常営業日（JPX公式休業日一覧確認）。既存A保有0件。個別銘柄の当日終値・流動性・損切根拠・リスクリワードを同時検証できる候補がないため、新規Aエントリー0件。既存株9件・競馬28件とA/B分類を維持。月次報告のみ。",
+      "note": "2026-11-11 東証通常営業日（JPX公式休業日一覧で確認）。既存A保有0件。高流動性銘柄の市場動向を確認したが、当日終値・損切根拠・リスクリワードを同時に十分検証できる候補がなく新規Aは0件。既存株9件・競馬28件とA/B分類を維持。月次報告のみ。",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html"
+        "https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html",
+        "https://minkabu.jp/stock/6532/news/4657480"
       ]
     },
     "keiba": {
