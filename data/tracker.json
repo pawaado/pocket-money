@@ -1527,15 +1527,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-10T23:55:38.525Z",
+      "lastSuccessfulWriteAt": "2026-11-11T01:00:16.238Z",
       "status": "ok",
-      "note": "2026-11-11 08:55 JST頃。既存競馬28件・株9件を保持。発走済み未確定0件。JRA平日開催なし。地方競馬は川崎ロジータ記念の開催情報を確認したが、発走前の時刻付き直近オッズと独立した的中確率の十分な裏付けがなくA新規0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-10T23:55:38.525Z",
+      "note": "2026-11-11 10:00 JST。既存競馬28件・株9件保持、発走済み未確定0件。JRA開催なし。地方競馬は名古屋・川崎・門別の開催情報を確認。直近の時刻付きオッズと独立した的中確率推定を十分に照合できず、事前A候補0件、後付けB追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-11T01:00:16.238Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://umanity.jp/info.php?id=9691"
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_RaceList_ipat?k_babaCode=24&k_raceDate=2026%2F11%2F11",
+        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_DebaTable_ipat?k_babaCode=21&k_raceDate=2026%2F11%2F11&k_raceNo=11"
       ]
     },
     "schemaVersion": 1,
