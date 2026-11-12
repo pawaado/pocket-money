@@ -1528,15 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-11T23:56:50.000Z",
+      "lastSuccessfulWriteAt": "2026-11-12T00:59:26.500Z",
       "status": "ok",
-      "note": "2026-11-12 08:56 JST。既存競馬28件・株9件を保持。発走済み未確定記録0件。JRA平日開催なし、地方は川崎・園田・名古屋・門別の開催予定を確認。直近の有効オッズと独立した的中確率推定が揃わずA/B新規0件。月次報告のみ。",
-      "lastRunAt": "2026-11-11T23:56:50.000Z",
+      "note": "2026-11-12 09:59 JST頃。競馬28件・株9件を保持し発走済み未確定0件。JRA開催なし、地方は園田・名古屋・川崎・門別。レース前の観測時刻付きオッズと独立勝率の照合が不十分でA新規0件、B新規0件。月次のみ報告。",
+      "lastRunAt": "2026-11-12T00:59:26.500Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_RaceList_ipat?k_babaCode=21&k_raceDate=2026%2F11%2F12",
-        "https://regimag.jp/nar/calendar_detail/?day=12&month=11&year=2026"
+        "https://uma-x.jp/nar/202611",
+        "https://www.kawasaki-keiba.jp/race/calendar/index.html"
       ]
     },
     "schemaVersion": 1,
