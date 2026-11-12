@@ -1528,15 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-12T03:05:02.500Z",
+      "lastSuccessfulWriteAt": "2026-11-12T03:57:54.000Z",
       "status": "ok",
-      "note": "2026-11-12 12時台JST。既存競馬28件・株9件を保持。未確定記録の確認と本日開催4場（園田・名古屋・川崎・門別）の確認を実施。信頼できる直近オッズと独立的中確率の同時検証が不十分なためA/B新規0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-12T03:05:02.500Z",
+      "note": "2026-11-12 12:57 JST。既存競馬・株記録を維持。地方4場（園田・名古屋・川崎・門別）開催を確認。未確定記録を点検。事前オッズと独立した的中確率を十分検証できずA/B追加0件。月次報告のみ。",
+      "lastRunAt": "2026-11-12T03:57:54.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://sports.yahoo.co.jp/keiba_local/race/list/2026111221",
-        "https://umadan.jp/kekka/2026-11-12"
+        "https://umasis.net/racecard_nar_20261112"
       ]
     },
     "schemaVersion": 1,
