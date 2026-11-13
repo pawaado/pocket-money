@@ -1529,16 +1529,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-13T08:09:53.027Z",
+      "lastSuccessfulWriteAt": "2026-11-13T09:02:11.767Z",
       "status": "ok",
-      "note": "2026-11-13 17時台JST。既存競馬28件・株9件保持。仮想購入の未確定結果0件（除外返還は確定扱い）。JRA開催なし、地方4場（川崎・金沢・名古屋・園田）。発走前の時刻付き直近実オッズと独立勝率推定を十分に照合できないためA新規0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-13T08:09:53.027Z",
+      "note": "2026-11-13 18時台JST。競馬28件・株9件を維持。既存未確定結果0件。JRA開催なし、地方は川崎・金沢・名古屋・園田の4場。時刻付き直近オッズと独立的中率の照合が不十分なためA新規0件、B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-13T09:02:11.767Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/",
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://sports.yahoo.co.jp/keiba_local/race/list/2026111321"
+        "https://uma-x.jp/nar",
+        "https://www.kawasaki-keiba.jp/",
+        "https://www.kanazawakeiba.com/"
       ]
     },
     "schemaVersion": 1,
