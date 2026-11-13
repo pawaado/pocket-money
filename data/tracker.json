@@ -1529,16 +1529,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-13T10:55:28.000Z",
+      "lastSuccessfulWriteAt": "2026-11-13T23:56:23.666Z",
       "status": "ok",
-      "note": "2026-11-13 19:55 JST。既存競馬28件・株9件を保持。発走済み未確定記録0件。今回、直近オッズと独立した的中確率を十分に検証できる新規事前A候補なし。A新規0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-13T10:55:28.000Z",
+      "note": "2026-11-14 08:56 JST。JRA東京・京都・福島開催を確認。既存競馬28件・株9件保持。発走済み未確定の要更新記録なし（除外返還は確定済み）。直近オッズと独立した的中確率の照合が未完了のためA新規0件、B追加0件、結果更新0件。地方開催の全件照合は未完了。月次報告のみ。",
+      "lastRunAt": "2026-11-13T23:56:23.666Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.kawasaki-keiba.jp/",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RefundMoneyList?k_babaCode=21&k_raceDate=2026%2F11%2F13",
-        "https://www.jbis.or.jp/race/20261113/227/10/"
+        "https://www.jra.go.jp/",
+        "https://www.keiba.go.jp/"
       ]
     },
     "schemaVersion": 1,
