@@ -1529,15 +1529,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-12T23:57:30.499Z",
+      "lastSuccessfulWriteAt": "2026-11-13T01:03:17.000Z",
       "status": "ok",
-      "note": "2026-11-13 朝JST。競馬28件・株9件を保持。発走済み未確定の仮想購入なし（除外返還は確定扱い）。JRA開催なし、地方は川崎・金沢・名古屋・園田。レース前の直近オッズと独立した的中率の十分な検証が揃わずA/B新規0件。月次報告のみ。",
-      "lastRunAt": "2026-11-12T23:57:30.499Z",
+      "note": "2026-11-13 10:03 JST。競馬28件・株9件を保持。発走済み未確定の仮想購入なし（除外返還は確定扱い）。JRA開催なし、地方は園田・名古屋・川崎・金沢。時刻付き直近オッズと独立した的中確率を十分に検証できずA新規0件、B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-13T01:03:17.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://regimag.jp/nar/calendar_detail/?day=13&month=11&year=2026",
-        "https://keiba.rakuten.co.jp/race_card/list/"
+        "https://nar.umanity.jp/",
+        "https://umadan.jp/races/nar/2026-11-13/sonoda",
+        "https://www.kanazawakeiba.com/"
       ]
     },
     "schemaVersion": 1,
