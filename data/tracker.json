@@ -1529,16 +1529,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-13T06:56:27.379Z",
+      "lastSuccessfulWriteAt": "2026-11-13T08:09:53.027Z",
       "status": "ok",
-      "note": "2026-11-13 15:56 JST。既存競馬28件・株9件を保持。発走済み未確定の仮想購入記録0件。JRA開催なし、地方は園田・名古屋・川崎・金沢。時刻付き直近実オッズと独立勝率推定を十分に検証できずA候補0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-13T06:56:27.379Z",
+      "note": "2026-11-13 17時台JST。既存競馬28件・株9件保持。仮想購入の未確定結果0件（除外返還は確定扱い）。JRA開催なし、地方4場（川崎・金沢・名古屋・園田）。発走前の時刻付き直近実オッズと独立勝率推定を十分に照合できないためA新規0件、B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-13T08:09:53.027Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=21&k_raceDate=2026%2F11%2F13&k_raceNo=12",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=24&k_raceDate=2026%2F11%2F13&k_raceNo=8",
-        "https://umasis.net/racecard_nar_20261113"
+        "https://www.keiba.go.jp/",
+        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026111321"
       ]
     },
     "schemaVersion": 1,
