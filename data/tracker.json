@@ -1529,15 +1529,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-14T03:02:14.321Z",
+      "lastSuccessfulWriteAt": "2026-11-14T04:03:21.249Z",
       "status": "ok",
-      "note": "2026-11-14 12時台JST。JRA東京・京都・福島の開催を確認。競馬28件・株9件維持。未確定の要精査記録なし（除外返還は決着済み）。直近オッズと独立的中率の同時検証が不十分なため新規Aなし、B追加なし。地方競馬の網羅的検証は未完了。月次報告のみ。",
-      "lastRunAt": "2026-11-14T03:02:14.321Z",
+      "note": "2026-11-14 13時台JST。既存競馬28件・株9件維持。発走済み未確定0件。JRA東京・京都・福島開催を確認。直近実オッズと独立的中率の同時照合ができず新規Aなし。地方競馬の網羅的検証は未完了。B追加なし。月次報告のみ。",
+      "lastRunAt": "2026-11-14T04:03:21.249Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/",
-        "https://www.keibalab.jp/db/race/",
+        "https://www.jra.go.jp/keiba/race/103.html",
+        "https://www.jra.go.jp/keiba/race/104/horse.html",
         "https://www.keiba.go.jp/"
       ]
     },
