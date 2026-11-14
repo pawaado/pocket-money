@@ -1529,16 +1529,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-14T09:04:17.660Z",
+      "lastSuccessfulWriteAt": "2026-11-14T10:01:11.485Z",
       "status": "ok",
-      "note": "2026-11-14 18時台JST。既存競馬28件・株9件を維持。未確定レースを点検。JRA東京・京都・福島の開催を確認。結果確定の追加情報および観測時刻つき直近オッズと独立勝率の照合が不十分なため、新規A/B 0件、結果更新0件。推定値は捏造せず、月次報告のみ。",
-      "lastRunAt": "2026-11-14T09:04:17.660Z",
+      "note": "2026-11-14 19時台JST。既存競馬28件・株9件を保持、未確定レース0件。JRA東京・京都・福島、地方帯広・佐賀・高知を確認。レース前の時刻付き実オッズと独立勝率を十分に照合できず新規A/B 0件。結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-14T10:01:11.485Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/keiba/baba/",
-        "https://www.jra.go.jp/keiba/race/103.html",
-        "https://www.keiba.go.jp/"
+        "https://www.jra.go.jp/JRADB/",
+        "https://sports.yahoo.co.jp/keiba/race/list/26050503",
+        "https://umadan.jp/kekka/2026-11-14"
       ]
     },
     "schemaVersion": 1,
