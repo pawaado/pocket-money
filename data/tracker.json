@@ -1529,14 +1529,14 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-14T05:04:43.333Z",
+      "lastSuccessfulWriteAt": "2026-11-14T05:58:17.000Z",
       "status": "ok",
-      "note": "2026-11-14 14時台JST。既存競馬28件・株9件維持。既存結果欄を確認。JRA東京・京都・福島開催、武蔵野S開催日を確認。直近の実オッズと独立した勝率推定を同時検証できず新規Aなし。地方競馬の網羅的検証は未完了。B追加なし。月次報告のみ。",
-      "lastRunAt": "2026-11-14T05:04:43.333Z",
+      "note": "2026-11-14 14:58 JST。既存競馬28件・株9件、未確定競馬0件を確認。JRA東京・京都・福島の開催を確認。観測時刻付き直近オッズと独立勝率の同時検証が不十分でA追加0、B追加0。地方競馬の網羅的調査は未完了。月次報告のみ。",
+      "lastRunAt": "2026-11-14T05:58:17.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/keiba/race/103.html",
+        "https://jra.jp/",
         "https://www.keiba.go.jp/"
       ]
     },
