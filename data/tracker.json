@@ -1529,16 +1529,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-14T10:01:11.485Z",
+      "lastSuccessfulWriteAt": "2026-11-14T11:04:28.205Z",
       "status": "ok",
-      "note": "2026-11-14 19時台JST。既存競馬28件・株9件を保持、未確定レース0件。JRA東京・京都・福島、地方帯広・佐賀・高知を確認。レース前の時刻付き実オッズと独立勝率を十分に照合できず新規A/B 0件。結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-14T10:01:11.485Z",
+      "note": "2026-11-14 20時台JST。競馬28件・株9件保持、未確定0件。JRA東京・京都・福島、地方帯広・佐賀・高知。帯広12R 20:30発走の出馬表を確認。直近時刻付き実オッズと独立勝率推定の照合不足のためA/B新規0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-14T11:04:28.205Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/JRADB/",
-        "https://sports.yahoo.co.jp/keiba/race/list/26050503",
-        "https://umadan.jp/kekka/2026-11-14"
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_DebaTable?k_babaCode=3&k_raceDate=2026%2F11%2F14&k_raceNo=12",
+        "https://umadan.jp/races/nar"
       ]
     },
     "schemaVersion": 1,
