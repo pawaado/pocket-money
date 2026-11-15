@@ -1529,14 +1529,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-15T10:00:51.000Z",
+      "lastSuccessfulWriteAt": "2026-11-15T11:01:44.971Z",
       "status": "ok",
-      "note": "2026-11-15 19時台 JST。既存競馬28件・株9件と全ID・A/B区分を保持。発走済み未確定0件。JRA東京・京都・福島と地方金沢を確認。事前時刻付きオッズと独立勝率推定が揃わず新規A/B 0件。月次報告のみ、実購入なし。",
-      "lastRunAt": "2026-11-15T10:00:51.000Z",
+      "note": "2026-11-15 20時台JST。既存競馬28件・株9件を保持し、発走済み未確定0件。JRA東京・京都・福島および地方金沢・高知の開催を確認。発走前の直近オッズと独立した的中確率を同時に検証できる候補なし。A/B追加0件、実購入なし。月次報告のみ。",
+      "lastRunAt": "2026-11-15T11:01:44.971Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://own.jra.jp/keiba/calendar2026/2026/11/1115.html",
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026111522",
         "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611152218140300"
       ]
     },
