@@ -1529,16 +1529,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-15T06:59:00.084Z",
+      "lastSuccessfulWriteAt": "2026-11-15T08:01:58.175Z",
       "status": "ok",
-      "note": "2026-11-15 16時台 JST。既存競馬28件・株9件を保持。結果未確定の既存競馬記録0件。JRA東京・京都・福島および地方開催情報を確認。観測時刻付き直近オッズと独立した的中確率推定を十分に検証できず、事前A追加0件・後付けB追加0件。月次報告のみ。",
-      "lastRunAt": "2026-11-15T06:59:00.084Z",
+      "note": "2026-11-15 17時台 JST。既存競馬28件・株9件を保持。競馬全28件に結果区分があり未確定0件。JRA東京・京都・福島、地方金沢の開催を確認。発走前の時刻付き実オッズと独立勝率推定の十分な照合ができず新規A/B各0件。月次報告のみ。",
+      "lastRunAt": "2026-11-15T08:01:58.175Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://jra.jp/kouza/yoko/2026/1115.pdf",
-        "https://sports.yahoo.co.jp/keiba/race/list/26080504",
-        "https://www.kanazawakeiba.com/wp-content/uploads/2026/11/4537bc05f5425213a0c49926e4c5b124.pdf"
+        "https://www.kanazawakeiba.com/wp-content/uploads/2026/11/9ae2907c3cef0a568c5c1d0cc686a174-1.pdf"
       ]
     },
     "schemaVersion": 1,
