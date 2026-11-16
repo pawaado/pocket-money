@@ -1529,15 +1529,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-16T02:01:16.674Z",
+      "lastSuccessfulWriteAt": "2026-11-16T03:02:02.000Z",
       "status": "ok",
-      "note": "2026-11-16 11時台JST。NAR公式で帯広・水沢・大井・金沢の開催を確認、JRA開催なし。既存28件の競馬記録は結果確定済みで追加更新対象なし。信頼できる直近オッズと独立した的中確率の組合せを検証できず事前A候補0件、B追加0件。全記録維持。月次報告のみ。",
-      "lastRunAt": "2026-11-16T02:01:16.674Z",
+      "note": "2026-11-16 12時台JST。NAR公式の開催一覧で帯広・水沢・大井・金沢を確認。既存競馬28件を確認し、除外返還1件は既に結果確定扱い。追加の結果更新0件。直近オッズと独立した的中確率の信頼できる組合せが揃わずA候補0件、B追加0件。既存競馬・株の全記録を保持。月次報告のみ。",
+      "lastRunAt": "2026-11-16T03:02:02.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=11&k_raceDate=2026%2F11%2F16"
       ]
     },
     "schemaVersion": 1,
