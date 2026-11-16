@@ -1516,16 +1516,16 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-13T07:03:56.348Z",
-      "lastSuccessfulWriteAt": "2026-11-13T07:03:56.348Z",
+      "lastRunAt": "2026-11-16T07:05:18.056Z",
+      "lastSuccessfulWriteAt": "2026-11-16T07:05:18.056Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-13 東証通常営業日（JPX公式休業日一覧で確認）。A保有0件。日経平均と主要株式市場・決算動向を確認。個別銘柄の当日確定終値・損切設定・十分なリスクリワードを一体で検証できないため新規A 0件。株9件・競馬28件と全ID・A/B分類を維持。月次報告のみ。",
+      "note": "2026-11-16 東証通常営業日（JPX公式カレンダー確認）。A保有0件、決済対象なし。半導体・通信・医薬品・小売などの市況を確認。個別銘柄の当日終値・損切根拠・リスクリワードを十分に確定できず、新規Aエントリー0件。株9件・競馬28件および全ID・A/B区分を保持。報告は月次のみ。",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html",
-        "https://finance.yahoo.co.jp/quote/998407.O/history",
-        "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881"
+        "https://www.jpx.co.jp/calendar/",
+        "https://s.kabutan.jp/news/n202611160471/",
+        "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/"
       ]
     },
     "keiba": {
