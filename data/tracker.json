@@ -1529,16 +1529,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-16T14:58:45+09:00",
+      "lastSuccessfulWriteAt": "2026-11-16T07:00:08.525Z",
       "status": "ok",
-      "note": "2026-11-16 14:58 JST。競馬28件（全件結果確定）・株9件を維持。JRA開催なし、地方は帯広・水沢・大井・金沢の4場。公開出走表と一部オッズを確認したが、観測時刻が十分新しいオッズと独立的中率の組合せが揃わず事前A追加0件。B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-16T14:58:45+09:00",
+      "note": "2026-11-16 16時頃 JST。競馬28件・株9件を保持、未確定既存記録なし。JRA開催なし、地方は帯広・水沢・大井・金沢。公式当日レース一覧・払戻・一部オッズを確認。新鮮な観測時刻付きオッズと独立勝率推定が揃わずA追加0、B追加0、結果更新0。月次報告のみ。",
+      "lastRunAt": "2026-11-16T07:00:08.525Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=20&k_raceDate=2026%2F11%2F16",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsUmLenFuku?k_babaCode=22&k_raceDate=2026%2F11%2F16&k_raceNo=6"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RefundMoneyList?k_babaCode=11&k_raceDate=2026%2F11%2F16&k_raceNo=6",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsWide?k_babaCode=22&k_raceDate=2026%2F11%2F16&k_raceNo=6"
       ]
     },
     "schemaVersion": 1,
