@@ -1516,16 +1516,15 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-16T07:05:18.056Z",
-      "lastSuccessfulWriteAt": "2026-11-16T07:05:18.056Z",
+      "lastRunAt": "2026-11-17T07:04:01.780Z",
+      "lastSuccessfulWriteAt": "2026-11-17T07:04:01.780Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-16 東証通常営業日（JPX公式カレンダー確認）。A保有0件、決済対象なし。半導体・通信・医薬品・小売などの市況を確認。個別銘柄の当日終値・損切根拠・リスクリワードを十分に確定できず、新規Aエントリー0件。株9件・競馬28件および全ID・A/B区分を保持。報告は月次のみ。",
+      "note": "2026-11-17 JPX公式カレンダーで通常営業日確認。保有中Aなし。半導体・銀行・商社など市場動向を確認したが、個別銘柄の当日終値・損切水準・リスクリワードの検証が十分でないため新規Aは0件。株9件・競馬28件と全ID、A/B区分を維持。月次報告のみ。",
       "sources": [
         "https://www.jpx.co.jp/calendar/",
-        "https://s.kabutan.jp/news/n202611160471/",
-        "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/"
+        "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-17/"
       ]
     },
     "keiba": {
