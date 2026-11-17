@@ -1528,16 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-17T11:01:49.937Z",
+      "lastSuccessfulWriteAt": "2026-11-17T23:55:35.000Z",
       "status": "ok",
-      "note": "2026-11-17 20時台JST。既存競馬28件・株9件保持。発走済み未確定記録0件。JRA開催なし、地方は水沢・金沢・大井。地方競馬公式の開催・払戻情報確認。直前の実オッズと独立勝率推定の十分な検証ができず事前A追加0件、B追加0件。月次のみ報告。",
-      "lastRunAt": "2026-11-17T11:01:49.937Z",
+      "note": "2026-11-18 08:55 JST。既存記録の未確定状況を確認。JRA開催なし、地方は大井・笠松・園田（地方競馬情報サイト公式）。現時点では開催前で観測時刻付き直近オッズと独立勝率推定の裏付けが揃わずA候補0件、B追加0件。既存競馬・株記録を保持。月次報告のみ。",
+      "lastRunAt": "2026-11-18T08:55:35+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RefundMoneyList_ipat?k_babaCode=11&k_raceDate=2026%2F11%2F17&k_raceNo=1",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RefundMoneyList?k_babaCode=20&k_raceDate=2026%2F11%2F17&k_raceNo=11&odds_flg=5",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RefundMoneyList?k_babaCode=22&k_raceDate=2026%2F11%2F17&k_raceNo=1&odds_flg=5"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://www.keiba.go.jp/jranet/calendar/202611.html"
       ]
     },
     "schemaVersion": 1,
