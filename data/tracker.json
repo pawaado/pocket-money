@@ -1529,15 +1529,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-17T01:00:56.000Z",
+      "lastSuccessfulWriteAt": "2026-11-17T02:04:31.000Z",
       "status": "ok",
-      "note": "2026-11-17 10時台 JST。既存競馬28件・株9件保持。発走済み未確定記録0件。JRA火曜開催なし、地方競馬は水沢・大井・金沢の計36R開催。発走前の観測時刻付き直近実オッズと独立した的中率推定の十分な組合せを確認できず、A候補0件、B追加0件、結果更新0件。月次報告のみ。",
-      "lastRunAt": "2026-11-17T01:00:56.000Z",
+      "note": "2026-11-17 11時台JST。既存競馬28件・株9件を保持。発走済み未確定の既存記録0件（記録上の未確定判定）。JRA開催なし、地方は水沢・大井・金沢の36R。発走前の観測時刻付き実オッズと独立した的中率推定が揃わずA候補0件、B追加0件、結果更新0件。月次報告のみ。",
+      "lastRunAt": "2026-11-17T02:04:31.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://keibafact.jp/nar/2026-11-17/"
+        "https://keiba.rakuten.co.jp/race_status/list/",
+        "https://umasis.net/racecard_nar_20261117"
       ]
     },
     "schemaVersion": 1,
