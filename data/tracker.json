@@ -1528,16 +1528,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-18T03:56:44.032Z",
+      "lastSuccessfulWriteAt": "2026-11-18T05:00:06.429Z",
       "status": "ok",
-      "note": "2026-11-18 12:56 JST。既存競馬28件・株9件を維持、未精算記録なし。JRA開催なし、地方は笠松・園田・大井。発走前オッズの時刻付き検証と独立勝率推定が不十分なためA/B新規0件。月次報告のみ。",
-      "lastRunAt": "2026-11-18T03:56:44.032Z",
+      "note": "2026-11-18 14時 JST。既存競馬28件・株9件保持、未精算の仮想購入なし。JRA開催なし、地方は笠松・園田・大井。直近オッズと独立勝率推定の十分な照合ができずA/B新規0件。月次報告のみ。",
+      "lastRunAt": "2026-11-18T05:00:06.429Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.kasamatsu-keiba.com/resources/pdfs/news/2026/1794543543_86cd6d1045b0f0f3deae.pdf",
-        "https://uma-x.jp/nar/202611",
-        "https://umadan.jp/races/nar/2026-11-18/oi"
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026111823",
+        "https://uma-x.jp/nar/202611"
       ]
     },
     "schemaVersion": 1,
