@@ -1516,17 +1516,17 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-18T07:02:16.169Z",
-      "lastSuccessfulWriteAt": "2026-11-18T07:02:16.169Z",
+      "lastRunAt": "2026-11-19T07:00:16.537Z",
+      "lastSuccessfulWriteAt": "2026-11-19T07:00:16.537Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-18 JPX公式カレンダーで通常営業日確認。保有中Aなし。半導体・銀行・商社・輸出関連の市況を確認。個別銘柄の当日終値・損切水準・リスクリワードを十分に検証できず新規Aは0件。株9件・競馬28件の既存IDとA/B区分を維持。月次報告のみ。",
+      "note": "2026-11-19 JPX公式休業日一覧で通常営業日確認。保有中Aなし。売買代金上位の半導体・小売・自動車・銀行・非鉄・商社等を確認。海外投資家売り越し、米中ロ首脳会談及び米IPO等のイベントリスク、個別確定終値と損切・目標水準の検証不足により新規Aなし。月次報告のみ。",
       "sources": [
-        "https://www.jpx.co.jp/calendar/",
-        "https://s.kabutan.jp/news/n202611180360/",
-        "https://minkabu.jp/news/4667841",
-        "https://www.reuters.com/markets/asia/japan-exports-set-record-october-strong-chip-related-demand-2026-11-18/"
+        "https://www.jpx.co.jp/corporate/about-jpx/calendar/",
+        "https://s.kabutan.jp/news/n202611190356/",
+        "https://s.kabutan.jp/news/n202611190219/",
+        "https://s.minkabu.jp/stock/8001/news/4668743"
       ]
     },
     "keiba": {
