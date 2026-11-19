@@ -1530,15 +1530,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-19T06:02:00Z",
+      "lastSuccessfulWriteAt": "2026-11-19T07:02:01Z",
       "status": "ok",
-      "note": "2026-11-19 15時台 JST。地方公式当日メニューで大井・笠松・園田を確認。JRA開催なし。既存未確定なし（見送りBは損益対象外）。出馬表・指数は確認したが校正済み勝率と時刻付き実オッズを照合できずA・B追加なし。月次報告のみ。",
-      "lastRunAt": "2026-11-19T06:02:00Z",
+      "note": "2026-11-19 16時台 JST。公式当日メニューで大井・笠松・園田確認。中央開催なし。既存未確定なし。公開予測には同一競走の勝率合計が100%を超える例があり、独立した校正および時刻付き実オッズの照合が不足するためA・B追加なし。",
+      "lastRunAt": "2026-11-19T07:02:01Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=23&k_raceDate=2026%2F11%2F19&k_raceNo=8",
-        "https://umasis.net/racecard_nar_20261119"
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=20&k_raceDate=2026%2F11%2F19&k_raceNo=11",
+        "https://keibafact.jp/nar/2026-11-19/",
+        "https://umadan.jp/kekka/2026-11-19"
       ]
     },
     "schemaVersion": 1,
