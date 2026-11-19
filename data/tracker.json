@@ -1530,16 +1530,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-19T08:03:02Z",
+      "lastSuccessfulWriteAt": "2026-11-19T08:57:22.742Z",
       "status": "ok",
-      "note": "2026-11-19 17時台 JST。大井・笠松・園田開催、中央開催なし。未確定記録なし。公開予測の勝率整合性に疑義があり、大井6R公式直近オッズ取得不可のためA・B追加なし。",
-      "lastRunAt": "2026-11-19T08:03:02Z",
+      "note": "2026-11-19 18時前 JST。既存28件の結果確定済み（除外返還含む）。大井開催の出馬表・事前予想を確認したが楽天競馬8R直近オッズ取得不可、独立した勝率推定も不足。A/B追加なし。前回確認の笠松・園田開催も含め確実な新規候補なし。",
+      "lastRunAt": "2026-11-19T08:57:22.742Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keibafact.jp/nar/2026-11-19/",
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RefundMoneyList_ipat?k_babaCode=23&k_raceDate=2026%2F11%2F19&k_raceNo=2",
-        "https://umadan.jp/kekka/2026-11-19"
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611192000000000",
+        "https://note.com/umakatsu_memo/n/n151b7838e83e",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611192000000008"
       ]
     },
     "schemaVersion": 1,
