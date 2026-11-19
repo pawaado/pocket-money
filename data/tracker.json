@@ -1530,16 +1530,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-19T05:00:36Z",
+      "lastSuccessfulWriteAt": "2026-11-19T06:02:00Z",
       "status": "ok",
-      "note": "2026-11-19 14:00 JST。地方公式払戻ページで大井・笠松・園田開催を確認。JRA平日開催なし。既存未確定なし（除外返還は確定済み）。公開AI評価は確認したが校正済み勝率と時刻付き直近オッズを照合できずA登録なし。B追加なし。月次報告のみ。",
-      "lastRunAt": "2026-11-19T05:00:36Z",
+      "note": "2026-11-19 15時台 JST。地方公式当日メニューで大井・笠松・園田を確認。JRA開催なし。既存未確定なし（見送りBは損益対象外）。出馬表・指数は確認したが校正済み勝率と時刻付き実オッズを照合できずA・B追加なし。月次報告のみ。",
+      "lastRunAt": "2026-11-19T06:02:00Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RefundMoneyList_ipat?k_babaCode=23&k_raceDate=2026%2F11%2F19&k_raceNo=2",
-        "https://nar-keiba-ai-web.pages.dev/article/2026/11/19/",
-        "https://umalab-ai.jp/sonoda/2026-11-19"
+        "https://www.keiba.go.jp/KeibaWeb_IPAT/TodayRaceInfo/RaceList_ipat?k_babaCode=23&k_raceDate=2026%2F11%2F19&k_raceNo=8",
+        "https://umasis.net/racecard_nar_20261119"
       ]
     },
     "schemaVersion": 1,
