@@ -1530,15 +1530,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-18T11:04:30.000Z",
+      "lastSuccessfulWriteAt": "2026-11-19T01:03:13Z",
       "status": "ok",
-      "note": "2026-11-18 20:04 JST。既存競馬・株記録を保持。発走済み未確定記録なし。JRA開催なし、地方は笠松・園田・大井。大井11Rは20:10発走で事前オッズと独立勝率を十分に検証できずA登録なし。B追加なし。月次報告のみ。",
-      "lastRunAt": "2026-11-18T11:04:30.000Z",
+      "note": "2026-11-19 10:03 JST。JRA開催なし、地方は笠松・園田・大井の36R。既存未確定なし。公開予測とオッズを確認したが観測時刻と独立勝率の信頼性を十分に確認できずA登録なし。B追加なし。月次報告のみ。",
+      "lastRunAt": "2026-11-19T01:03:13Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.tokyocitykeiba.com/race/grade_race/",
-        "https://keiba.rakuten.co.jp/odds/umatan/RACEID/202611182015120300"
+        "https://keibafact.jp/nar/2026-11-19/",
+        "https://umasis.net/racecard_nar_20261119",
+        "https://umadan.jp/kekka/2026-11-19"
       ]
     },
     "schemaVersion": 1,
