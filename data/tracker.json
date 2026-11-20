@@ -1,7 +1,7 @@
 {
   "app": "Pocket Money",
   "version": 4,
-  "updatedAt": "2026-10-29T06:58:24.060Z",
+  "updatedAt": "2026-11-20T06:59:49.137Z",
   "classification": {
     "A": "事前予想・事前エントリー。本番の成績評価に使用",
     "B": "結果判明後の後付け検証。サンプル拡張用でAとは分離評価"
@@ -1516,17 +1516,17 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-19T07:00:16.537Z",
-      "lastSuccessfulWriteAt": "2026-11-19T07:00:16.537Z",
+      "lastRunAt": "2026-11-20T06:59:49.137Z",
+      "lastSuccessfulWriteAt": "2026-11-20T06:59:49.137Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-19 JPX公式休業日一覧で通常営業日確認。保有中Aなし。売買代金上位の半導体・小売・自動車・銀行・非鉄・商社等を確認。海外投資家売り越し、米中ロ首脳会談及び米IPO等のイベントリスク、個別確定終値と損切・目標水準の検証不足により新規Aなし。月次報告のみ。",
+      "note": "2026-11-20 JPX営業日確認。保有中Aなし。半導体、通信、銀行、重工、ゲーム、保険、医薬品などの市況を確認。前引け日経平均-4.49%、プライム9割超下落。連休前の急変動と個別確定終値・支持線・目標水準の検証不足につき新規A見送り。",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/",
-        "https://s.kabutan.jp/news/n202611190356/",
-        "https://s.kabutan.jp/news/n202611190219/",
-        "https://s.minkabu.jp/stock/8001/news/4668743"
+        "https://www.jpx.co.jp/calendar/",
+        "https://s.kabutan.jp/news/n202611200648/",
+        "https://s.minkabu.jp/stock/100000018/news/4669614",
+        "https://s.kabutan.jp/news/n202611200761/"
       ]
     },
     "keiba": {
