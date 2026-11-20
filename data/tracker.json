@@ -1530,18 +1530,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-20T02:03:00.914Z",
+      "lastSuccessfulWriteAt": "2026-11-20T05:56:12Z",
       "status": "ok",
-      "note": "2026-11-20 11時台 JST。JRA開催なし、地方は笠松・園田・大井。笠松3Rの出馬表、馬体重と10:33時点の単複オッズを照合したが、直近性および較正済み独立勝率の根拠不足でA登録なし。B追加なし。既存全件確定済み。",
-      "lastRunAt": "2026-11-20T02:03:00.914Z",
+      "note": "2026-11-20 14:56 JST。地方3場（大井・笠松・園田）の開催表と大井3Rの公式出馬表・表示オッズを確認。オッズ観測時刻、当日馬体重、較正済み勝率が不足しAなし。B追加なし。既存全件確定済み（見送り記録は損益対象外）。",
+      "lastRunAt": "2026-11-20T05:56:12Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umadan.jp/races/nar",
         "https://umasis.net/racecard_nar_20261120",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=27&k_raceDate=2026%2F11%2F20&k_raceNo=11",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611202320130303",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611202320130303"
+        "https://umadan.jp/kekka/2026-11-20",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=20&k_raceDate=2026/11/20&k_raceNo=3"
       ]
     },
     "schemaVersion": 1,
