@@ -1530,16 +1530,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-21T11:00:33.000Z",
+      "lastSuccessfulWriteAt": "2026-11-21T23:55:57.055Z",
       "status": "ok",
-      "note": "2026-11-21 20:00 JST。既存競馬28件の結果状態を確認し、除外返還を含め未確定0件。JRA福島・京都の開催情報を確認。地方競馬の時刻付き直近オッズと独立的中率推定の照合が不十分なため新規A/Bなし。",
-      "lastRunAt": "2026-11-21T11:00:33.000Z",
+      "note": "2026-11-22 朝の確認。東京・京都の開催、佐賀・高知の開催情報を確認。マイルCS前日オッズおよび中央早朝予想を確認したが、時刻付き直近オッズと独立勝率の照合不足によりA/B追加なし。地方公式当日一覧は取得不可。既存記録の未確定なし。候補ゼロは全レースのEV否定を意味しない。",
+      "lastRunAt": "2026-11-21T23:55:57.055Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/keiba/race/105.html",
-        "https://umanity.jp/racedata/race_newsdet.php?nid=11882666",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop"
+        "https://www.keibalab.jp/db/race/",
+        "https://keibafact.jp/jra/2026-11-22/",
+        "https://keiba-times.com/mile-cs-2026-zenjitsu-odds/",
+        "https://note.com/umakatsu_memo/n/n907a08d6e80a",
+        "https://note.com/umakatsu_memo/n/n77be67755d08"
       ]
     },
     "schemaVersion": 1,
