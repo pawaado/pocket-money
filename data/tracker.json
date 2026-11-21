@@ -1530,15 +1530,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-20T10:58:20.069Z",
+      "lastSuccessfulWriteAt": "2026-11-21T00:01:20.997Z",
       "status": "ok",
-      "note": "2026-11-20 大井・笠松・園田開催表、大井12R公式出馬表を確認。表示オッズの観測時刻および独立した勝率推定を確認できずA見送り。B追加なし。未確定なし。",
-      "lastRunAt": "2026-11-20T10:58:20.069Z",
+      "note": "2026-11-21 09時台。JRA京都・福島、地方帯広・高知・佐賀の開催を公式情報で確認。発走前の直近実オッズと独立した勝率推定の十分な照合ができないためA新規0、B新規0。既存記録保持。",
+      "lastRunAt": "2026-11-21T00:01:20.997Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umasis.net/racecard_nar_20261120",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=20&k_raceDate=2026/11/20&k_raceNo=12"
+        "https://www.jra.go.jp/news/202611/111504.html",
+        "https://www.jra.go.jp/keiba/calendar2026/2026/11/1121.html",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=31&k_raceDate=2026%2F11%2F21",
+        "https://keiba.rakuten.co.jp/race_performance/list"
       ]
     },
     "schemaVersion": 1,
