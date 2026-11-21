@@ -1530,16 +1530,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-21T00:01:20.997Z",
+      "lastSuccessfulWriteAt": "2026-11-21T00:58:57.152Z",
       "status": "ok",
-      "note": "2026-11-21 09時台。JRA京都・福島、地方帯広・高知・佐賀の開催を公式情報で確認。発走前の直近実オッズと独立した勝率推定の十分な照合ができないためA新規0、B新規0。既存記録保持。",
-      "lastRunAt": "2026-11-21T00:01:20.997Z",
+      "note": "2026-11-21 10時前。JRA京都・福島、地方帯広・高知・佐賀を公式開催情報で確認。既存未確定0件。発走前の直近実オッズと独立した的中率推定を十分に照合できずA/B新規登録なし。",
+      "lastRunAt": "2026-11-21T00:58:57.152Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/news/202611/111504.html",
-        "https://www.jra.go.jp/keiba/calendar2026/2026/11/1121.html",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=31&k_raceDate=2026%2F11%2F21",
+        "https://jra.jp/news/202611/111504.html",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
         "https://keiba.rakuten.co.jp/race_performance/list"
       ]
     },
