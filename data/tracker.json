@@ -1530,16 +1530,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-21T07:56:16.427Z",
+      "lastSuccessfulWriteAt": "2026-11-21T09:02:18.614Z",
       "status": "ok",
-      "note": "2026-11-21 16:55頃JST。既存の未確定記録0件（除外返還は確定済み）。JRA京都・福島、地方帯広・高知・佐賀を確認。直近オッズと独立した的中確率の十分な照合ができずA/B新規0件。",
-      "lastRunAt": "2026-11-21T07:56:16.427Z",
+      "note": "2026-11-21 18時台JST。既存の競馬28件は全件確定済み。JRA京都・福島は終了、地方帯広・高知・佐賀は開催中。独立した的中確率と時刻付き直近オッズの照合が不十分なため新規A/Bなし。",
+      "lastRunAt": "2026-11-21T09:02:18.614Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/news/202611/111504.html",
-        "https://keiba.rakuten.co.jp/race_performance/list",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RefundMoneyList?k_babaCode=31&k_raceDate=2026%2F11%2F21&k_raceNo=1"
+        "https://jra.jp/keiba/calendar2026/2026/11/1121.html",
+        "https://umadan.jp/races/nar"
       ]
     },
     "schemaVersion": 1,
