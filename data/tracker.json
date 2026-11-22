@@ -1542,17 +1542,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-22T07:55:07Z",
+      "lastSuccessfulWriteAt": "2026-11-22T09:03:16.608Z",
       "status": "ok",
-      "note": "地方公式で帯広・水沢・高知・佐賀開催確認。JRA東京・京都の当日開催は既確認。発走前の独立勝率と直近オッズの十分な照合なし、新規A/Bなし。既存Bの阪神9/19 11Rの最終単勝オッズ3件を発走後15:38のオッズ表で補完。未確定結果なし。",
-      "lastRunAt": "2026-11-22T07:55:07Z",
+      "note": "2026-11-22 18時台。既存競馬28件の結果状態を点検し未確定0件。JRA東京・京都開催を確認、地方は帯広・水沢・高知・佐賀。発走前の独立的中率推定と観測時刻付き直近オッズの十分な照合ができず新規Aなし。後付けBも追加なし。",
+      "lastRunAt": "2026-11-22T09:03:16.608Z",
       "candidateCount": 0,
-      "resultUpdateCount": 3,
+      "resultUpdateCount": 0,
       "sources": [
+        "https://www.jra.go.jp/",
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://keibaodds.com/nar/2026-11-22",
-        "https://pc.keibalab.jp/db/race/202609190911/odds.html",
-        "https://sports.yahoo.co.jp/keiba/race/list/26090405"
+        "https://www.keibalab.jp/db/race/"
       ]
     },
     "schemaVersion": 1,
