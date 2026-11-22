@@ -1542,15 +1542,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-22T10:04:25.000Z",
+      "lastSuccessfulWriteAt": "2026-11-22T11:03:00.160Z",
       "status": "ok",
-      "note": "2026-11-22 19時台。既存競馬28件を確認し未確定0件。JRA東京・京都、地方帯広・水沢・高知・佐賀の開催情報を確認。直近オッズと独立した的中確率の十分な検証ができず、事前A登録0件、後付けB追加0件、結果更新0件。",
-      "lastRunAt": "2026-11-22T10:04:25.000Z",
+      "note": "2026-11-22 20時台。既存競馬記録の未確定なし。JRA東京・京都、地方帯広・水沢・高知・佐賀を対象。佐賀10R(20:10)・11R(20:40)など残レースは直近実オッズと独立勝率推定を十分に検証できずA登録なし。B追加なし。",
+      "lastRunAt": "2026-11-22T11:03:00.160Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://sp.keiba.go.jp/KeibaWebSP/TodayRaceInfo/S_TodayRaceInfoTop",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=32&k_raceDate=2026%2F11%2F22&k_raceNo=9",
         "https://www.jra.go.jp/"
       ]
     },
