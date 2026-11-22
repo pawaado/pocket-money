@@ -1054,7 +1054,11 @@
       "virtualProfit": -100,
       "analysisMemo": "B後付け検証。結果判明後の復元。事前公開AIの勝率予測9.7%・期待値206を採用し、JRA確定出馬表の単勝74.0倍を参考記録。A成績には含めない。",
       "source": "uma5.com 2026-09-19 阪神11R事前AI / JRA確定出馬表・結果",
-      "auditStatus": "retrospective_B_external_model"
+      "auditStatus": "retrospective_B_external_model",
+      "finalOdds": 74,
+      "finalOddsStatus": "verified_final",
+      "finalOddsSource": "https://pc.keibalab.jp/db/race/202609190911/odds.html",
+      "finalOddsVerifiedAt": "2026-11-22T07:55:07Z"
     },
     {
       "id": "keiba-B-2026-09-19-hanshin-11-7-hakusaniris-win",
@@ -1077,7 +1081,11 @@
       "virtualProfit": -100,
       "analysisMemo": "B後付け検証。結果判明後の復元。事前公開AIの勝率予測14.9%・期待値128を採用。A成績には含めない。",
       "source": "uma5.com 2026-09-19 阪神11R事前AI / JRA確定出馬表・結果",
-      "auditStatus": "retrospective_B_external_model"
+      "auditStatus": "retrospective_B_external_model",
+      "finalOdds": 12,
+      "finalOddsStatus": "verified_final",
+      "finalOddsSource": "https://pc.keibalab.jp/db/race/202609190911/odds.html",
+      "finalOddsVerifiedAt": "2026-11-22T07:55:07Z"
     },
     {
       "id": "keiba-B-2026-09-19-hanshin-11-9-resuscitation-win",
@@ -1124,7 +1132,11 @@
       "virtualProfit": -100,
       "analysisMemo": "B後付け検証。結果判明後の復元。事前公開AIの勝率予測14.9%・期待値201を採用。A成績には含めない。",
       "source": "uma5.com 2026-09-19 阪神11R事前AI / JRA確定出馬表・結果",
-      "auditStatus": "retrospective_B_external_model"
+      "auditStatus": "retrospective_B_external_model",
+      "finalOdds": 45.4,
+      "finalOddsStatus": "verified_final",
+      "finalOddsSource": "https://pc.keibalab.jp/db/race/202609190911/odds.html",
+      "finalOddsVerifiedAt": "2026-11-22T07:55:07Z"
     },
     {
       "id": "keiba-A-2026-09-26-hanshin-6-11-briomente-win",
@@ -1530,17 +1542,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-22T01:01:52Z",
+      "lastSuccessfulWriteAt": "2026-11-22T07:55:07Z",
       "status": "ok",
-      "note": "JRA公式で東京・京都開催確認。マイルCSの7:24時点オッズと過去条件別回収率を確認したが直近オッズと独立勝率の裏付け不足。地方当日ライブ情報未取得。A/B追加なし、結果未確定なし。Bの既存最終オッズ欠落3件は未検証のまま保持。全レースのEV否定ではない。",
-      "lastRunAt": "2026-11-22T01:01:52Z",
+      "note": "地方公式で帯広・水沢・高知・佐賀開催確認。JRA東京・京都の当日開催は既確認。発走前の独立勝率と直近オッズの十分な照合なし、新規A/Bなし。既存Bの阪神9/19 11Rの最終単勝オッズ3件を発走後15:38のオッズ表で補完。未確定結果なし。",
+      "lastRunAt": "2026-11-22T07:55:07Z",
       "candidateCount": 0,
-      "resultUpdateCount": 0,
+      "resultUpdateCount": 3,
       "sources": [
-        "https://www.jra.go.jp/news/202611/111504.html",
-        "https://keiba-times.com/mile-cs-2026-kansen/",
-        "https://keiba-times.com/mile-cs-2026-kaishuritsu-uma/",
-        "https://umasis.net/racecard_20261122"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://keibaodds.com/nar/2026-11-22",
+        "https://pc.keibalab.jp/db/race/202609190911/odds.html",
+        "https://sports.yahoo.co.jp/keiba/race/list/26090405"
       ]
     },
     "schemaVersion": 1,
