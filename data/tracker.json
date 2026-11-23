@@ -1542,16 +1542,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-23T05:58:14.259Z",
+      "lastSuccessfulWriteAt": "2026-11-23T06:58:52.934Z",
       "status": "ok",
-      "note": "2026-11-23 15時台JST。既存28件に未確定なし。JRA東京・福島、地方水沢・金沢・帯広・佐賀の開催を確認。結果判明前の時刻付き直近オッズと独立勝率推定を十分に照合できず、事前予想Aおよび後付けBの新規登録なし。",
-      "lastRunAt": "2026-11-23T05:58:14.259Z",
+      "note": "2026-11-23 16時台JST。既存28件の未確定なし。JRA東京・福島、地方帯広・水沢・金沢・佐賀の開催を確認。発走前の時刻付き直近オッズと独立した的中確率推定の照合が不十分なため新規A/Bなし。",
+      "lastRunAt": "2026-11-23T06:58:52.934Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://jra.jp/keiba/calendar2026/2026/11/1123.html",
-        "https://sports.yahoo.co.jp/keiba/race/list/26050506",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RefundMoneyList?k_babaCode=11&k_raceDate=2026%2F11%2F23&k_raceNo=5"
+        "https://sports.yahoo.co.jp/keiba_local/race/list/2026112311"
       ]
     },
     "schemaVersion": 1,
