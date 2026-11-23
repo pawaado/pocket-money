@@ -1539,15 +1539,18 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-23T11:01:20.540Z",
+      "lastSuccessfulWriteAt": "2026-11-23T23:59:17.516Z",
       "status": "ok",
-      "note": "2026-11-23 20時台JST。既存競馬28件・株9件を保持。地方競馬4場の当日結果を確認。事前確率・直前オッズの十分な裏付けがないため新規A/B候補0件。既存未確定記録の更新対象なし。",
-      "lastRunAt": "2026-11-23T11:01:20.540Z",
+      "note": "2026-11-24 朝JST。JRA開催なし、地方は水沢・浦和・名古屋の36R。既存全件結果確定済み。最初の発走11:40。時刻の裏付けのある実オッズと信頼できる独立確率が揃わずA/B追加なし。外部予測のオッズは観測時刻不明のため採用せず。",
+      "lastRunAt": "2026-11-23T23:59:17.516Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=22&k_raceDate=2026%2F11%2F23",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RefundMoneyList?k_babaCode=32&k_raceDate=2026%2F11%2F23"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=18&k_raceDate=2026%2F11%2F24&k_raceNo=12",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611241106070600",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611242433170100",
+        "https://keibafact.jp/nar/2026-11-24/",
+        "https://umadan.jp/races/nar/2026-11-24/nagoya"
       ]
     },
     "schemaVersion": 1,
