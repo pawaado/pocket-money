@@ -1539,16 +1539,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-23T08:56:07.721Z",
+      "lastSuccessfulWriteAt": "2026-11-23T09:58:25.795Z",
       "status": "ok",
-      "note": "2026-11-23 17:55頃JST。既存の競馬28件を照合、未確定の仮想購入なし。地方競馬は帯広・水沢・金沢・佐賀で開催。発走前の直近実オッズと独立した的中確率推定を十分に検証できず、A/B新規登録なし。既存記録保持。",
-      "lastRunAt": "2026-11-23T08:56:07.721Z",
+      "note": "2026-11-23 18:58頃JST。既存記録28件照合、未確定0件。地方競馬は帯広・水沢・金沢・佐賀を確認。発走前の直近オッズと独立した的中確率の十分な照合ができずA/B新規登録0件。既存株・競馬記録は保持。",
+      "lastRunAt": "2026-11-23T09:58:25.795Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=22&k_raceDate=2026%2F11%2F23",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=32&k_raceDate=2026%2F11%2F23",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RaceList?k_babaCode=3&k_raceDate=2026%2F11%2F23"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/RefundMoneyList?k_babaCode=32&k_raceDate=2026%2F11%2F23"
       ]
     },
     "schemaVersion": 1,
