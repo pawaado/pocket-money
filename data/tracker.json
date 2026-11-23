@@ -1542,15 +1542,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-23T01:59:17.021Z",
+      "lastSuccessfulWriteAt": "2026-11-23T03:04:57.000Z",
       "status": "ok",
-      "note": "2026-11-23 10:59頃JST。既存競馬28件の未確定結果0件。JRA東京・福島、地方水沢・金沢・帯広・佐賀の開催情報を確認。直近の実オッズと独立した的中確率の十分な照合ができないためA候補0件、B追加0件。既存記録は保持。",
-      "lastRunAt": "2026-11-23T01:59:17.021Z",
+      "note": "2026-11-23 12:04 JST。既存競馬28件の発走済み未確定記録0件。JRA東京・福島、地方水沢・金沢・帯広・佐賀の開催情報を確認。観測時刻付き直近実オッズと独立的中確率の十分な照合ができずA候補0件、B追加0件、結果更新0件。既存競馬・株記録保持。",
+      "lastRunAt": "2026-11-23T03:04:57.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/news/202611/111504.html",
         "https://jra.jp/keiba/calendar2026/2026/11/1123.html",
+        "https://keiba.rakuten.co.jp/race_status/list/RACEID/202611230000000000",
         "https://umadan.jp/kekka/2026-11-23"
       ]
     },
