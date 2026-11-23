@@ -1528,17 +1528,14 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-20T06:59:49.137Z",
-      "lastSuccessfulWriteAt": "2026-11-20T06:59:49.137Z",
-      "status": "ok",
+      "lastRunAt": "2026-11-23T07:01:40.835Z",
+      "lastSuccessfulWriteAt": "2026-11-23T07:01:40.835Z",
+      "status": "market_closed",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-20 JPX営業日確認。保有中Aなし。半導体、通信、銀行、重工、ゲーム、保険、医薬品などの市況を確認。前引け日経平均-4.49%、プライム9割超下落。連休前の急変動と個別確定終値・支持線・目標水準の検証不足につき新規A見送り。",
+      "note": "日本株休場のため売買・価格更新なし",
       "sources": [
-        "https://www.jpx.co.jp/calendar/",
-        "https://s.kabutan.jp/news/n202611200648/",
-        "https://s.minkabu.jp/stock/100000018/news/4669614",
-        "https://s.kabutan.jp/news/n202611200761/"
+        "https://www.jpx.co.jp/english/corporate/about-jpx/calendar/index.html"
       ]
     },
     "keiba": {
