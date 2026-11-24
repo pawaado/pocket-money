@@ -1543,16 +1543,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-24T04:01:00Z",
+      "lastSuccessfulWriteAt": "2026-11-24T08:00:20Z",
       "status": "ok",
-      "note": "2026-11-24 13時JST。地方競馬公式で水沢・浦和・名古屋の開催と水沢1〜3R、浦和1〜2Rの成績表示を確認。楽天の発売前表示は進行状況と不一致。公式直近オッズ取得不可、第三者予測のオッズ観測時刻も未確認のためA/B追加なし。既存記録は全件結果確定済み。",
-      "lastRunAt": "2026-11-24T04:01:00Z",
+      "note": "2026-11-24 17時JST。地方競馬公式で水沢・浦和・名古屋の開催と残り発走予定を確認。名古屋10R公式単複オッズ取得不可、事前予想記事は11/22時点の出馬表に基づき直近オッズ・独立勝率推定の裏付けなし。A/B追加なし。既存全件結果確定済み。",
+      "lastRunAt": "2026-11-24T08:00:20Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/race_status/list/",
-        "https://keibafact.jp/nar/2026-11-24/"
+        "https://note.com/umakatsu_memo/n/nb0ecdab1991f",
+        "https://note.com/umakatsu_memo/n/n80e6b502b554",
+        "https://www.jra.go.jp/news/202511/111801.html"
       ]
     },
     "schemaVersion": 1,
