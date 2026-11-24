@@ -1543,19 +1543,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-24T09:00:37.736Z",
+      "lastSuccessfulWriteAt": "2026-11-24T10:00:29.006Z",
       "status": "ok",
-      "note": "2026-11-24 18時JST。JRA開催なし、地方は水沢・浦和・名古屋。楽天競馬の名古屋8・9Rオッズは16:01時点で古く、11Rは取消・騎手変更あり。事前指数は確認したが直近オッズと検証済み勝率推定が不足しA/B追加なし。既存結果確定済み（除外返還含む）。",
-      "lastRunAt": "2026-11-24T09:00:37.736Z",
+      "note": "2026-11-24 19時JST。JRA開催なし、水沢・浦和終了、名古屋9〜12Rの発走予定確認。11Rの取得オッズは17:39時点で古く、10・12Rの直近オッズ取得不可。公開指数・予想順位は検証済み勝率ではないためA/B追加なし。既存28件は結果確定済み。",
+      "lastRunAt": "2026-11-24T10:00:29.006Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.jra.go.jp/news/202611/index.html",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611242433170108",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611242433170109",
+        "https://umadan.jp/races/nar/2026-11-24/nagoya",
+        "https://umasis.net/racecard_nar_20261124",
         "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611242433170111",
-        "https://stats-keiba.com/race-list/2026112448"
+        "https://keirinodds.com/nar/2026-11-24"
       ]
     },
     "schemaVersion": 1,
