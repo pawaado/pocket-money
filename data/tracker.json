@@ -1539,17 +1539,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-24T02:00:20Z",
+      "lastSuccessfulWriteAt": "2026-11-24T03:00:05Z",
       "status": "ok",
-      "note": "2026-11-24 11時JST。JRA開催なし、地方は水沢・浦和・名古屋の36R。楽天競馬の進行状況は発売前、初回11:40。外部AI予測は確認したが観測時刻の明確な実オッズと独立確率の照合ができずA/B追加なし。既存結果は確定済み。",
-      "lastRunAt": "2026-11-24T02:00:20Z",
+      "note": "2026-11-24 12時JST。地方競馬公式で水沢・浦和・名古屋の開催を確認。楽天の進行状況は発売前表示のままで公式の水沢1R成績表示と不一致。時刻付き直近オッズと独立確率を照合できず新規A/Bなし。既存確定記録は保持。",
+      "lastRunAt": "2026-11-24T03:00:05Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_status/list/",
-        "https://umadan.jp/races/nar",
-        "https://keibafact.jp/nar/2026-11-24/",
-        "https://umasis.net/racecard_nar_20261124"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://keiba.rakuten.co.jp/race_status/list/"
       ]
     },
     "schemaVersion": 1,
