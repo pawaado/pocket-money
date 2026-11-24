@@ -1543,17 +1543,19 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-24T08:00:20Z",
+      "lastSuccessfulWriteAt": "2026-11-24T09:00:37.736Z",
       "status": "ok",
-      "note": "2026-11-24 17時JST。地方競馬公式で水沢・浦和・名古屋の開催と残り発走予定を確認。名古屋10R公式単複オッズ取得不可、事前予想記事は11/22時点の出馬表に基づき直近オッズ・独立勝率推定の裏付けなし。A/B追加なし。既存全件結果確定済み。",
-      "lastRunAt": "2026-11-24T08:00:20Z",
+      "note": "2026-11-24 18時JST。JRA開催なし、地方は水沢・浦和・名古屋。楽天競馬の名古屋8・9Rオッズは16:01時点で古く、11Rは取消・騎手変更あり。事前指数は確認したが直近オッズと検証済み勝率推定が不足しA/B追加なし。既存結果確定済み（除外返還含む）。",
+      "lastRunAt": "2026-11-24T09:00:37.736Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
+        "https://www.jra.go.jp/news/202611/index.html",
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://note.com/umakatsu_memo/n/nb0ecdab1991f",
-        "https://note.com/umakatsu_memo/n/n80e6b502b554",
-        "https://www.jra.go.jp/news/202511/111801.html"
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611242433170108",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611242433170109",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611242433170111",
+        "https://stats-keiba.com/race-list/2026112448"
       ]
     },
     "schemaVersion": 1,
