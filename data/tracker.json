@@ -1543,17 +1543,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-24T10:00:29.006Z",
+      "lastSuccessfulWriteAt": "2026-11-25T01:00:25.787Z",
       "status": "ok",
-      "note": "2026-11-24 19時JST。JRA開催なし、水沢・浦和終了、名古屋9〜12Rの発走予定確認。11Rの取得オッズは17:39時点で古く、10・12Rの直近オッズ取得不可。公開指数・予想順位は検証済み勝率ではないためA/B追加なし。既存28件は結果確定済み。",
-      "lastRunAt": "2026-11-24T10:00:29.006Z",
+      "note": "2026-11-25 10時JST。JRA開催なし、園田・浦和・名古屋の36Rを確認。園田初戦10:40。公開出馬表・指数を確認したが、時刻付き直近実オッズと校正済み勝率を確認できずA/B追加なし。既存28件は結果確定済み。",
+      "lastRunAt": "2026-11-25T01:00:25.787Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umadan.jp/races/nar/2026-11-24/nagoya",
-        "https://umasis.net/racecard_nar_20261124",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611242433170111",
-        "https://keirinodds.com/nar/2026-11-24"
+        "https://umadan.jp/races/nar/2026-11-25/urawa",
+        "https://uma-free.com/races/2026-11-25",
+        "https://umasis.net/racecard_nar_20261125"
       ]
     },
     "schemaVersion": 1,
