@@ -1543,15 +1543,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-25T01:00:25.787Z",
+      "lastSuccessfulWriteAt": "2026-11-25T02:59:47Z",
       "status": "ok",
-      "note": "2026-11-25 10時JST。JRA開催なし、園田・浦和・名古屋の36Rを確認。園田初戦10:40。公開出馬表・指数を確認したが、時刻付き直近実オッズと校正済み勝率を確認できずA/B追加なし。既存28件は結果確定済み。",
-      "lastRunAt": "2026-11-25T01:00:25.787Z",
+      "note": "2026-11-25 11:59 JST。JRA開催なし、園田・浦和・名古屋36Rの開催一覧と公開指数を確認。時刻付き直近実オッズと検証済み勝率の組合せを確認できずA/B追加なし。既存28件は結果確定済み。",
+      "lastRunAt": "2026-11-25T02:59:47Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umadan.jp/races/nar/2026-11-25/urawa",
-        "https://uma-free.com/races/2026-11-25",
+        "https://umadan.jp/races/nar",
+        "https://keibaodds.com/nar/2026-11-25",
         "https://umasis.net/racecard_nar_20261125"
       ]
     },
