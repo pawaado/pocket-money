@@ -1543,16 +1543,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-25T05:55:51.549Z",
+      "lastSuccessfulWriteAt": "2026-11-25T06:58:06.004Z",
       "status": "ok",
-      "note": "2026-11-25 地方競馬開催一覧（浦和・名古屋・園田）と名古屋2・3Rの事前SP指数、開催別オッズ推移一覧を確認。時刻付き実オッズと検証済み勝率の組合せを確保できずA/B追加なし。既存28件は結果確定済み、除外返還を含む。",
-      "lastRunAt": "2026-11-25T05:55:51.549Z",
+      "note": "2026-11-25 浦和・名古屋・園田開催、中央開催なし。開催一覧・事前SP指数・予想記事を確認。時刻付き直近実オッズと検証済み勝率の組合せを確認できず新規A/Bなし。既存結果確定済み。",
+      "lastRunAt": "2026-11-25T06:58:06.004Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://umasis.net/racecard_nar_20261125",
-        "https://keibaodds.com/nar/2026-11-25"
+        "https://umadan.jp/races/nar/2026-11-25",
+        "https://keibaodds.com/nar/2026-11-25",
+        "https://umasis.net/racecard_nar_20261125"
       ]
     },
     "schemaVersion": 1,
