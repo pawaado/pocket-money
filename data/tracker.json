@@ -1543,16 +1543,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-25T06:58:06.004Z",
+      "lastSuccessfulWriteAt": "2026-11-25T08:02:12.000Z",
       "status": "ok",
-      "note": "2026-11-25 浦和・名古屋・園田開催、中央開催なし。開催一覧・事前SP指数・予想記事を確認。時刻付き直近実オッズと検証済み勝率の組合せを確認できず新規A/Bなし。既存結果確定済み。",
-      "lastRunAt": "2026-11-25T06:58:06.004Z",
+      "note": "2026-11-25 浦和・名古屋・園田の開催一覧、出馬表・事前SP指数・予想記事を確認。時刻付き直近実オッズと校正済み的中確率を確認できずA/B追加なし。既存結果確定済み（除外返還含む）。",
+      "lastRunAt": "2026-11-25T08:02:12.000Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umadan.jp/races/nar/2026-11-25",
-        "https://keibaodds.com/nar/2026-11-25",
-        "https://umasis.net/racecard_nar_20261125"
+        "https://keirinodds.com/nar/2026-11-25",
+        "https://umasis.net/racecard_nar_20261125",
+        "https://note.com/umakatsu_memo/n/n62dfcc84a684"
       ]
     },
     "schemaVersion": 1,
