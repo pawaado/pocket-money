@@ -1543,16 +1543,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-25T08:02:12.000Z",
+      "lastSuccessfulWriteAt": "2026-11-26T02:02:23Z",
       "status": "ok",
-      "note": "2026-11-25 浦和・名古屋・園田の開催一覧、出馬表・事前SP指数・予想記事を確認。時刻付き直近実オッズと校正済み的中確率を確認できずA/B追加なし。既存結果確定済み（除外返還含む）。",
-      "lastRunAt": "2026-11-25T08:02:12.000Z",
+      "note": "2026-11-26 園田・浦和・金沢・名古屋の4場48R、事前モデルと開催情報を確認。モデル掲載オッズの観測時刻が不明、楽天競馬一覧は04:01時点でオッズなし。直近実オッズの裏付け不足によりA/B追加なし。既存結果確定済み（除外返還含む）。",
+      "lastRunAt": "2026-11-26T02:02:23Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keirinodds.com/nar/2026-11-25",
-        "https://umasis.net/racecard_nar_20261125",
-        "https://note.com/umakatsu_memo/n/n62dfcc84a684"
+        "https://umadan.jp/kekka/2026-11-26",
+        "https://keibafact.jp/nar/2026-11-26/",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611262726190200"
       ]
     },
     "schemaVersion": 1,
