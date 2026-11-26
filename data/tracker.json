@@ -1543,16 +1543,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-26T04:02:20Z",
+      "lastSuccessfulWriteAt": "2026-11-26T04:58:29.364Z",
       "status": "ok",
-      "note": "2026-11-26 園田・浦和・金沢・名古屋の4場48Rを確認。浦和3Rの公式13:02時点オッズ・馬体重・変更情報を取得。独立した的中確率推定の裏付け不足によりA追加なし。園田6Rの公式オッズ取得不可。B追加なし。既存の結果は確定済み（見送りBと除外返還を含む）。",
-      "lastRunAt": "2026-11-26T04:02:20Z",
+      "note": "2026-11-26 地方競馬公式当日メニューで園田・浦和・金沢・名古屋の4場48Rを確認。金沢6Rの公開オッズは12:01時点で直近性不足、独立した的中確率推定も未確立のためA登録なし。B追加なし。既存結果の未確定なし（除外返還含む）。",
+      "lastRunAt": "2026-11-26T04:58:29.364Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://uma-x.jp/nar/202611",
-        "https://umadan.jp/kekka/2026-11-26",
-        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=18&k_raceDate=2026%2F11%2F26&k_raceNo=3"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/OddsTanFuku?k_babaCode=22&k_raceDate=2026%2F11%2F26&k_raceNo=6",
+        "https://umadan.jp/kekka/2026-11-26"
       ]
     },
     "schemaVersion": 1,
