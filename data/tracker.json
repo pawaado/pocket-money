@@ -1542,15 +1542,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-26T11:01:20Z",
+      "lastSuccessfulWriteAt": "2026-11-26T23:59:13.001Z",
       "status": "ok",
-      "note": "名古屋11R・12Rの発走予定を確認。11R公式単勝は19:36時点で直近性不足、独立した確率推定も未検証のためA登録なし。B追加なし。既存記録は全件確定。",
-      "lastRunAt": "2026-11-26T11:01:20Z",
+      "note": "2026-11-27 JRA開催なし。地方は園田・浦和・名古屋、楽天競馬では全場発売前。外部モデルの表示オッズは観測時刻と実発売オッズの照合ができずA登録なし。B追加なし。既存28件は全件確定。",
+      "lastRunAt": "2026-11-26T23:59:13.001Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umadan.jp/races/nar/2026-11-26/nagoya",
-        "https://sp.keiba.go.jp/KeibaWebSP_IPAT/TodayRaceInfo/S_OddsTan_ipat?k_babaCode=24&k_raceDate=2026%2F11%2F26&k_raceNo=11"
+        "https://keiba.rakuten.co.jp/race_card/list/",
+        "https://umadan.jp/races/nar/2026-11-27/nagoya",
+        "https://keibafact.jp/nar/2026-11-27/"
       ]
     },
     "schemaVersion": 1,
