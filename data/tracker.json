@@ -1528,18 +1528,17 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-24T06:58:57.636Z",
-      "lastSuccessfulWriteAt": "2026-11-24T06:58:57.636Z",
+      "lastRunAt": "2026-11-26T06:58:25.796Z",
+      "lastSuccessfulWriteAt": "2026-11-26T06:58:25.796Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-24 営業日。半導体・電機・非鉄・銀行・機械・通信・小売等の市況と売買代金ランキングを確認。急反発による追随リスク、米指標・決算リスク、個別の確定終値と支持抵抗に基づくリスクリワードの検証不足により新規Aなし。保有Aなし。",
+      "note": "2026-11-26 JPX営業日。半導体・電機・非鉄・石油・小売・食品等の市況を確認。前場のAI関連急反発、米関税・金利リスク、個別確定終値と支持抵抗の検証不足により新規A見送り。保有Aなし。",
       "sources": [
-        "https://www.jpx.co.jp/corporate/about-jpx/calendar/",
-        "https://s.kabutan.jp/news/n202611240670/",
-        "https://s.minkabu.jp/stock/9984/news/4670867",
-        "https://finance.matsui.co.jp/news/642739/index",
-        "https://finance.yahoo.co.jp/quote/7013.T"
+        "https://www.jpx.co.jp/calendar/index.html",
+        "https://finance.matsui.co.jp/news/643570/index",
+        "https://s.kabutan.jp/news/n202611260575/",
+        "https://s.kabutan.jp/news/n202611260516/"
       ]
     },
     "keiba": {
