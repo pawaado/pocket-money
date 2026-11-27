@@ -1542,16 +1542,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-26T23:59:13.001Z",
+      "lastSuccessfulWriteAt": "2026-11-27T00:56:31.073Z",
       "status": "ok",
-      "note": "2026-11-27 JRA開催なし。地方は園田・浦和・名古屋、楽天競馬では全場発売前。外部モデルの表示オッズは観測時刻と実発売オッズの照合ができずA登録なし。B追加なし。既存28件は全件確定。",
-      "lastRunAt": "2026-11-26T23:59:13.001Z",
+      "note": "2026-11-27 NAR公式で浦和・名古屋・園田の開催と園田初戦10:40を確認。JRA開催なし。公式単勝オッズページは取得不可、楽天一覧は11/25の古い表示のため直近オッズとして採用せず、A候補なし。B追加なし。既存28件確定済み。",
+      "lastRunAt": "2026-11-27T00:56:31.073Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keiba.rakuten.co.jp/race_card/list/",
-        "https://umadan.jp/races/nar/2026-11-27/nagoya",
-        "https://keibafact.jp/nar/2026-11-27/"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://keiba.rakuten.co.jp/race_card/list/"
       ]
     },
     "schemaVersion": 1,
