@@ -1542,17 +1542,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-27T11:00:12+09:00",
+      "lastSuccessfulWriteAt": "2026-11-27T09:58:33.860Z",
       "status": "ok",
-      "note": "2026-11-27 園田・浦和・名古屋開催、中央開催なし。園田2R 11:10、3R 11:40。楽天出馬表は00:17時点でオッズ未掲載、発売状況も発売前の古い表示。直近オッズと独立勝率の確認不足によりA登録なし。B追加なし。既存28件確定済み。",
-      "lastRunAt": "2026-11-27T11:00:12+09:00",
+      "note": "2026-11-27 園田・浦和・名古屋開催。名古屋9〜12Rが18:58時点の未発走対象。公開情報の時刻が古く直近オッズと独立勝率の裏付けが不足しA登録なし。B追加なし。既存全件確定済み。",
+      "lastRunAt": "2026-11-27T09:58:33.860Z",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umadan.jp/races/nar",
-        "https://uma-x.jp/nar",
-        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611272726190300/mode/1",
-        "https://keiba.rakuten.co.jp/race_status/list"
+        "https://umasis.net/racecard_nar_20261127",
+        "https://nar.umanity.jp/",
+        "https://umadan.jp/kekka/2026-11-27"
       ]
     },
     "schemaVersion": 1,
