@@ -1542,16 +1542,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-27T09:58:33.860Z",
+      "lastSuccessfulWriteAt": "2026-11-27T19:57:32+09:00",
       "status": "ok",
-      "note": "2026-11-27 園田・浦和・名古屋開催。名古屋9〜12Rが18:58時点の未発走対象。公開情報の時刻が古く直近オッズと独立勝率の裏付けが不足しA登録なし。B追加なし。既存全件確定済み。",
-      "lastRunAt": "2026-11-27T09:58:33.860Z",
+      "note": "2026-11-27 JRA開催なし、園田・浦和・名古屋開催。名古屋11R 20:15、12R 20:50を確認。公開オッズの観測時刻と独立勝率の信頼性を十分確認できずA登録なし。B追加なし。既存全件確定済み（見送り・除外返還を含む）。",
+      "lastRunAt": "2026-11-27T19:57:32+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umasis.net/racecard_nar_20261127",
-        "https://nar.umanity.jp/",
-        "https://umadan.jp/kekka/2026-11-27"
+        "https://umadan.jp/races/nar/2026-11-27/nagoya",
+        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611272433170412",
+        "https://keibaradar.com/venue/nagoya/2026-11-27/"
       ]
     },
     "schemaVersion": 1,
