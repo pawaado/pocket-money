@@ -1528,17 +1528,17 @@
   ],
   "monitoring": {
     "stock": {
-      "lastRunAt": "2026-11-26T06:58:25.796Z",
-      "lastSuccessfulWriteAt": "2026-11-26T06:58:25.796Z",
+      "lastRunAt": "2026-11-27T07:00:36.582Z",
+      "lastSuccessfulWriteAt": "2026-11-27T07:00:36.582Z",
       "status": "ok",
       "candidateCount": 0,
       "openPositionCount": 0,
-      "note": "2026-11-26 JPX営業日。半導体・電機・非鉄・石油・小売・食品等の市況を確認。前場のAI関連急反発、米関税・金利リスク、個別確定終値と支持抵抗の検証不足により新規A見送り。保有Aなし。",
+      "note": "2026-11-27 JPX営業日。半導体・電機・非鉄・資源・商社・通信・小売等を調査。14:50時点の日経平均1147円高、半導体急騰と米短縮取引前の変動リスク、確定終値・支持抵抗・リスクリワードの検証不足から新規A見送り。保有Aなし。",
       "sources": [
         "https://www.jpx.co.jp/calendar/index.html",
-        "https://finance.matsui.co.jp/news/643570/index",
-        "https://s.kabutan.jp/news/n202611260575/",
-        "https://s.kabutan.jp/news/n202611260516/"
+        "https://s.minkabu.jp/news/4673631",
+        "https://s.minkabu.jp/news/4673446",
+        "https://s.minkabu.jp/stock/8058/news/4673523"
       ]
     },
     "keiba": {
