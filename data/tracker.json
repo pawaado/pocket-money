@@ -1542,16 +1542,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-27T19:57:32+09:00",
+      "lastSuccessfulWriteAt": "2026-11-28T10:03:43+09:00",
       "status": "ok",
-      "note": "2026-11-27 JRA開催なし、園田・浦和・名古屋開催。名古屋11R 20:15、12R 20:50を確認。公開オッズの観測時刻と独立勝率の信頼性を十分確認できずA登録なし。B追加なし。既存全件確定済み（見送り・除外返還を含む）。",
-      "lastRunAt": "2026-11-27T19:57:32+09:00",
+      "note": "2026-11-28 JRA東京・京都、地方帯広・高知・佐賀開催を確認。地方は発売前。JRA公開出馬表・オッズを確認したが観測時刻と独立した勝率推定の裏付けが不足しA登録なし。B追加なし。既存全件確定済み。",
+      "lastRunAt": "2026-11-28T10:03:43+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://umadan.jp/races/nar/2026-11-27/nagoya",
-        "https://keiba.rakuten.co.jp/odds/tanfuku/RACEID/202611272433170412",
-        "https://keibaradar.com/venue/nagoya/2026-11-27/"
+        "https://jra.jp/keiba/calendar2026/2026/11/1128.html",
+        "https://sports.yahoo.co.jp/keiba/race/denma/2608050709",
+        "https://keiba.rakuten.co.jp/race_status/list"
       ]
     },
     "schemaVersion": 1,
