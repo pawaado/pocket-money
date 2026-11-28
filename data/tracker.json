@@ -1542,16 +1542,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-28T10:03:43+09:00",
+      "lastSuccessfulWriteAt": "2026-11-28T12:05:00+09:00",
       "status": "ok",
-      "note": "2026-11-28 JRA東京・京都、地方帯広・高知・佐賀開催を確認。地方は発売前。JRA公開出馬表・オッズを確認したが観測時刻と独立した勝率推定の裏付けが不足しA登録なし。B追加なし。既存全件確定済み。",
-      "lastRunAt": "2026-11-28T10:03:43+09:00",
+      "note": "2026-11-28 JRA東京・京都、地方開催情報を確認。公開出馬表・近走資料を調査したが時刻付き直近実オッズと独立した勝率推定の照合不足のためA登録なし。B追加なし。既存28件は結果確定済み（見送り・除外返還を含む）。",
+      "lastRunAt": "2026-11-28T12:05:00+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://jra.jp/keiba/calendar2026/2026/11/1128.html",
-        "https://sports.yahoo.co.jp/keiba/race/denma/2608050709",
-        "https://keiba.rakuten.co.jp/race_status/list"
+        "https://www.keibalab.jp/db/race/",
+        "https://keibaodds.com/nar/2026-11-28",
+        "https://app.jra.jp/JRADB/accessD.html?CNAME=sw01dde0108202605071220261128%2F78"
       ]
     },
     "schemaVersion": 1,
