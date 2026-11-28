@@ -1542,17 +1542,17 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-28T12:05:00+09:00",
+      "lastSuccessfulWriteAt": "2026-11-28T12:55:29+09:00",
       "status": "ok",
-      "note": "2026-11-28 JRA東京・京都、地方開催情報を確認。公開出馬表・近走資料を調査したが時刻付き直近実オッズと独立した勝率推定の照合不足のためA登録なし。B追加なし。既存28件は結果確定済み（見送り・除外返還を含む）。",
-      "lastRunAt": "2026-11-28T12:05:00+09:00",
+      "note": "JRA東京・京都、地方帯広・高知・佐賀の開催確認。京都7Rの公開オッズ欄は予想オッズ・空欄であり、時刻付き実オッズと独立勝率の照合不足からA追加なし。B追加なし。既存28件は結果確定済み。",
+      "lastRunAt": "2026-11-28T12:55:29+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
         "https://jra.jp/keiba/calendar2026/2026/11/1128.html",
-        "https://www.keibalab.jp/db/race/",
-        "https://keibaodds.com/nar/2026-11-28",
-        "https://app.jra.jp/JRADB/accessD.html?CNAME=sw01dde0108202605071220261128%2F78"
+        "https://keiba.rakuten.co.jp/race_status/list/",
+        "https://race.netkeiba.com/odds/index.html?race_id=202608050707",
+        "https://uma5.com/races/20261128/"
       ]
     },
     "schemaVersion": 1,
