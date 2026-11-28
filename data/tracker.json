@@ -1542,17 +1542,16 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-28T14:57:38+09:00",
+      "lastSuccessfulWriteAt": "2026-11-28T18:01:51+09:00",
       "status": "ok",
-      "note": "東京・京都、地方帯広・高知・佐賀開催を確認。京都11Rの公開オッズ更新は13:26で直近性不足、京都10Rも観測時刻と独立勝率の照合不足。A/B追加なし。既存28件は結果確定済み（除外返還・見送り含む）。",
-      "lastRunAt": "2026-11-28T14:57:38+09:00",
+      "note": "地方帯広・高知・佐賀の開催と今後の発走予定を確認。取得した公開出馬表の更新時刻は古く、直近オッズと独立した勝率推定の照合が不足したためA/B追加なし。既存競馬記録は全件結果確定済み。",
+      "lastRunAt": "2026-11-28T18:01:51+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://jra.jp/keiba/calendar2026/2026/11/1128.html",
-        "https://odds-report.com/",
         "https://keibaodds.com/nar/2026-11-28",
-        "https://keibalab.jp/db/race/"
+        "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
+        "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611283129110100/mode/1"
       ]
     },
     "schemaVersion": 1,
