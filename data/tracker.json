@@ -1542,16 +1542,15 @@
       ]
     },
     "keiba": {
-      "lastSuccessfulWriteAt": "2026-11-28T19:03:25+09:00",
+      "lastSuccessfulWriteAt": "2026-11-28T20:03:06+09:00",
       "status": "ok",
-      "note": "地方帯広・高知・佐賀の夜間開催を確認。公開予測・オッズの観測時刻と確率較正の独立検証が不足しA/B追加なし。既存記録は全件結果確定。既存Bの損益フィールド差異は保持。",
-      "lastRunAt": "2026-11-28T19:03:25+09:00",
+      "note": "既存28件は結果確定済み。帯広最終20:00、高知11・12R、佐賀11・12Rの開催時刻を確認。独立した確率推定と時刻付き直近オッズの裏付けが不足しA/B追加なし。既存記録保持。",
+      "lastRunAt": "2026-11-28T20:03:06+09:00",
       "candidateCount": 0,
       "resultUpdateCount": 0,
       "sources": [
-        "https://keibaodds.com/nar/2026-11-28",
         "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfoTop",
-        "https://keibafact.jp/nar/2026-11-28/"
+        "https://keibaodds.com/nar/2026-11-28"
       ]
     },
     "schemaVersion": 1,
